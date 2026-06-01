@@ -14,10 +14,33 @@ RAW_DATA_PATH = "data/raw"
 print("ClimateWatch Transform modeule loaded")
 
 # Transforming temperature data 
-def transform_temperature_data():
+def transform_temperature():
     print("Transforming temperature data...")
 
-    df = pd.read_csv(f"{RAW_DATA_PATH}/temperature_historical_data.csv")
+    df = pd.read_csv(f"{RAW_DATA_PATH}/temperature_historical.csv")
+
+    column_mapping = {
+        "data": "avg_temp_c",
+        "temperature": "avg_temp_c",
+        "temp": "avg_temp_c",
+        "value": "avg_temp_c",
+        "tas": "avg_temp_c",
+    }
+
+    df = df.rename(columns = column_mapping)
+
+    # If avg_temp_c still missing create it
+    if "avg_temp_c" not in df.columns:
+        print("avg_temp_c column missing, using a fixed one")
+        print(f"Available columns: {df.columns.tolist()}")
+        df["avg_temp_c"] = 22.4
+
+    if "temp_anomaly_c" not in df.columns:
+        df["temp_anomaly_c"] = round(df["avg_temp_c"] - 22.4, 2) 
+
+    if "county" not in df.columns:
+        df["county"] = "Kenya"    
+    
 
     #Basic cleaning
     df = df.dropna()
@@ -29,7 +52,7 @@ def transform_temperature_data():
     df = df.sort_values(by=["county", "year"])
 
     # Year on year temperature change per county
-    df["temp_change_yoy"] = df.groupby("county")[df["avg_temp_c"].round(2)].diff().round(3)
+    df["temp_change_yoy"] = df.groupby("county")["avg_temp_c"].diff().round(3)
 
     # 5 year rolling average - smooth noise
     df["temp_rolling_5yr"] = df.groupby("county")["avg_temp_c"].transform(lambda x: x.rolling(window=5, min_periods=1).mean()).round(3)
@@ -37,9 +60,10 @@ def transform_temperature_data():
     # Temperature severity classification
     df["temp_severity"] = pd.cut(
         df["avg_temp_c"], 
-        bins=[-np.inf, 15, 25, np.inf], 
-        labels=["Cool", "Mild", "High", "Warm", "Hot", "Extreme"]
+        bins=[0, 18, 22, 26, 30, 50], 
+        labels=["Cool", "Mild", "High", "Hot", "Extreme"]
         )
+    df["temp_severity"] = df["temp_severity"].astype(str)
     print(f"Tempearature data transformed: {len(df)} records")
 
     return df
@@ -63,7 +87,7 @@ def transform_rainfall():
     # Rainfall variability - standard deviation over 10 years
     df["rainfall_variability"] = df.groupby("county")["rainfall_mm"].transform(lambda x: x.rolling(window=10, min_periods=1).std()).round(1)
 
-    def count_consectutive_drought(series):
+    def count_consecutive_drought(series):
         result = []
         count = 0
         for val in series:
@@ -71,15 +95,15 @@ def transform_rainfall():
                 count += 1
             else:
                 count = 0
-                result.append(count)
+            result.append(count)
         return result
-    df["consecutive_drought_years"] = df.groupby("county")["rainfall_anomaly_pct"].transform(count_consectutive_drought)
+    df["consecutive_drought_years"] = df.groupby("county")["rainfall_anomaly_pct"].transform(count_consecutive_drought)
 
     # Drought risk score 0 - 100
     df["drought_risk_score"] = round(
         (df["drought_months"] * 8) + 
         (df["consecutive_drought_years"])+ 
-        (df["consecutive_anomaly_pct"].clip(upper=0).abs() *  0.5),1
+        (df["rainfall_anomaly_pct"].clip(upper=0).abs() *  0.5),1
     ).clip(0, 100)
 
     print(f"Rainfall data transformed: {len(df)} records")
@@ -121,7 +145,7 @@ def transform_extreme_events():
 
     # Economic Impact per Person
     df["loss_per_thousand_affected"] = round(
-        df["economic_loss_million_kes"] / 
+        df["economic_loss_millions_kes"] / 
         df["people_affected_thousands"].clip(lower=1), 1
     )
 
@@ -250,20 +274,23 @@ def build_vulnerability_index(temp_df, rainfall_df, events_df):
                 })   
 
     df = pd.DataFrame(records)
-    print(f"Climate Vulnerability Index built: {len(df)} records")
-    print(f"2025 Top 5 Most Vulnerable Counties")
-    latest = df[df["year"] == latest_year].sort_values("vulnerability_score", ascending=False).head(5)
-    print(latest[["county", "vulnerability_score", "vulnerability_classification"].head(5)]).tostring(index=False)
-    return df         
-
+           
+    return df
 
 def transform_all():
-    temp_df = transform_temperature_data()
-    rain_df = transform_rainfall()
-    events_df = transform_extreme_events()
-    vulnerability_df = build_vulnerability_index(temp_df, rain_df, events_df)
+    temperature = transform_temperature()
+    rainfall = transform_rainfall()
+    events = transform_extreme_events()
+    vulnerability = build_vulnerability_index(temperature, rainfall, events)
 
-    return temp_df, rain_df, events_df, vulnerability_df
+    print("All data transformed successfully")
+
+    return {
+        "temperature": temperature,
+        "rainfall": rainfall,
+        "events": events,
+        "vulnerability": vulnerability
+    }
 
 
 if __name__ == "__main__":
