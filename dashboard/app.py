@@ -114,7 +114,7 @@ st.subheader(f"Kenya Climate Overview - {selected_year}")
 col1, col2, col3, col4, col5 = st.columns(5)
 
 with col1:
-    st.metric("Avg Vulnerability Score", f"{avg_vuln}/100")
+    st.metric("Avg Vulnerability Score", f"{avg_vuln/100}")
 
 with col2:
     st.metric("Critical Risk Counties", critical_count)
@@ -145,7 +145,7 @@ with col1:
         "county": "County"
     },
     color = "vulnerability_score",
-    color_continuous_scale = "RdYlGn_r"
+    color_continuous_scale = "Blues"
     )
     fig_vuln.update_layout(
         plot_bgcolor = "white",
@@ -159,7 +159,7 @@ with col2:
         title = f"{selected_county} Temperature Trend"
     else:
         temp_data = temp_df.groupby("year")["avg_temp_c"].mean().reset_index()
-        title = "Kenya Nationa Temperature Trend"
+        title = "Kenya National Temperature Trend"
 
     fig_temp = px.line(temp_data, x="year", y="avg_temp_c", title=title,
      labels={
@@ -203,7 +203,7 @@ with col1:
        "year": "Year" 
     },
     color = "rainfall_anomaly_pct",
-    color_continuous_scale = "RdBu"
+    color_continuous_scale = "Blues"
     )
     fig_rain.add_hline(
         y=0, line_dash = "dash",
@@ -241,7 +241,7 @@ with col2:
 # Charts 5, 6 AND 7
 st.subheader("Drought Risk, Climate Justice and 2050 Forecast")
 
-col1, col2, col3  = st.columns(3)
+col1, col2 = st.columns(2)
 
 #Drought Risk HeatMap
 with col1:
@@ -254,7 +254,7 @@ with col1:
     fig_drought = px.bar(drought_data, x="drought_risk_score", y="county", orientation="h",
     title = f"Drought Risk Index ({selected_year})",
     color = "drought_risk_score",
-    color_continuous_scale = "YlOrRd"
+    color_continuous_scale = "Blues"
     
     )
 
@@ -281,8 +281,11 @@ with col2:
     )
     st.plotly_chart(fig_justice, use_container_width = True)
 
+st.subheader("Forecast Chart with Prediction")
+
+col1,  = st.columns(1)
 # Forecast Chart
-with col3:
+with col1:
     if vuln_forecast is not None:
         fc_county = selected_county if selected_county != "All Counties"  else "Turkana"
 
