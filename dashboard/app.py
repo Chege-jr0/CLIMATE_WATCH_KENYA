@@ -158,12 +158,12 @@ with col2:
         temp_data = temp_df[temp_df["county"] == selected_county].sort_values("year")
         title = f"{selected_county} Temperature Trend"
     else:
-        temp_data = temp_df.groupby("year")["avg_temp_c"].mean().reset_index()
+        temp_data = temp_df.groupby("year")["temp_anomaly_c"].mean().reset_index()
         title = "Kenya National Temperature Trend"
 
-    fig_temp = px.line(temp_data, x="year", y="avg_temp_c", title=title,
+    fig_temp = px.line(temp_data, x="year", y="temp_anomaly_c", title=title,
      labels={
-        "avg_temp_c": "Temperature (C)",
+        "temp_anomaly_c": "Temperature (C)",
         "year":"Year" 
      },
      markers = True,
@@ -171,7 +171,7 @@ with col2:
      ) 
 
     fig_temp.add_hline(
-        y = float(temp_data["avg_temp_c"].mean()),
+        y = float(temp_data["temp_anomaly_c"].mean()),
         line_dash = "dash",
         line_color = "gray",
         annotation_text = "Average"

@@ -1,1599 +1,1646 @@
 county,year,temp_anomaly_c,hot_days_above_35c,tropical_nights,source
 Nairobi,1991,-0.1,0,1,Simulated Data
-Nairobi,1992,0.11,0,0,Simulated Data
-Nairobi,1993,-0.29,0,1,Simulated Data
-Nairobi,1994,0.26,0,3,Simulated Data
-Nairobi,1995,0.39,0,0,Simulated Data
-Nairobi,1996,-0.1,0,0,Simulated Data
-Nairobi,1997,0.13,0,1,Simulated Data
-Nairobi,1998,-0.08,0,0,Simulated Data
-Nairobi,1999,0.2,0,0,Simulated Data
-Nairobi,2000,0.28,0,0,Simulated Data
-Nairobi,2001,0.39,0,0,Simulated Data
-Nairobi,2002,0.69,0,2,Simulated Data
-Nairobi,2003,0.2,0,1,Simulated Data
-Nairobi,2004,0.34,0,0,Simulated Data
-Nairobi,2005,0.05,0,0,Simulated Data
-Nairobi,2006,0.58,0,0,Simulated Data
-Nairobi,2007,0.52,0,3,Simulated Data
-Nairobi,2008,0.73,0,2,Simulated Data
-Nairobi,2009,0.62,0,0,Simulated Data
-Nairobi,2010,0.33,0,0,Simulated Data
-Nairobi,2011,0.51,0,2,Simulated Data
-Nairobi,2012,0.52,0,0,Simulated Data
-Nairobi,2013,0.37,0,0,Simulated Data
-Nairobi,2014,1.08,0,0,Simulated Data
-Nairobi,2015,0.32,0,1,Simulated Data
-Nairobi,2016,0.93,0,0,Simulated Data
-Nairobi,2017,0.67,0,2,Simulated Data
-Nairobi,2018,0.91,0,0,Simulated Data
-Nairobi,2019,0.69,0,1,Simulated Data
-Nairobi,2020,0.98,0,0,Simulated Data
-Nairobi,2021,0.6,0,2,Simulated Data
-Nairobi,2022,0.98,0,0,Simulated Data
-Nairobi,2023,0.98,0,0,Simulated Data
-Nairobi,2024,0.68,0,1,Simulated Data
-Mombasa,1991,-0.15,21,15,Simulated Data
-Mombasa,1992,-0.17,20,14,Simulated Data
-Mombasa,1993,-0.16,17,9,Simulated Data
-Mombasa,1994,-0.18,25,17,Simulated Data
-Mombasa,1995,0.23,28,19,Simulated Data
-Mombasa,1996,-0.1,26,16,Simulated Data
-Mombasa,1997,0.43,30,17,Simulated Data
-Mombasa,1998,-0.1,19,11,Simulated Data
-Mombasa,1999,0.49,30,15,Simulated Data
-Mombasa,2000,0.28,24,13,Simulated Data
-Mombasa,2001,0.0,21,15,Simulated Data
-Mombasa,2002,0.19,24,16,Simulated Data
-Mombasa,2003,0.25,29,20,Simulated Data
-Mombasa,2004,0.19,24,13,Simulated Data
-Mombasa,2005,0.25,20,13,Simulated Data
-Mombasa,2006,0.45,22,12,Simulated Data
-Mombasa,2007,0.81,26,13,Simulated Data
-Mombasa,2008,0.5,31,17,Simulated Data
-Mombasa,2009,0.68,30,16,Simulated Data
-Mombasa,2010,0.75,27,17,Simulated Data
-Mombasa,2011,0.71,28,14,Simulated Data
-Mombasa,2012,0.9,28,15,Simulated Data
-Mombasa,2013,0.29,26,17,Simulated Data
-Mombasa,2014,0.3,25,13,Simulated Data
-Mombasa,2015,0.84,26,17,Simulated Data
-Mombasa,2016,0.66,32,17,Simulated Data
-Mombasa,2017,0.65,24,17,Simulated Data
-Mombasa,2018,1.11,29,18,Simulated Data
-Mombasa,2019,1.09,32,19,Simulated Data
-Mombasa,2020,0.66,24,17,Simulated Data
-Mombasa,2021,1.22,33,19,Simulated Data
-Mombasa,2022,0.81,31,21,Simulated Data
-Mombasa,2023,1.27,35,22,Simulated Data
-Mombasa,2024,0.66,24,17,Simulated Data
-Kisumu,1991,0.09,0,0,Simulated Data
-Kisumu,1992,0.16,0,0,Simulated Data
-Kisumu,1993,0.1,0,1,Simulated Data
-Kisumu,1994,-0.13,0,0,Simulated Data
-Kisumu,1995,-0.02,0,1,Simulated Data
-Kisumu,1996,0.43,0,0,Simulated Data
-Kisumu,1997,-0.15,0,0,Simulated Data
-Kisumu,1998,0.01,0,0,Simulated Data
-Kisumu,1999,0.55,0,2,Simulated Data
-Kisumu,2000,0.27,0,0,Simulated Data
-Kisumu,2001,0.06,0,0,Simulated Data
-Kisumu,2002,-0.05,0,0,Simulated Data
-Kisumu,2003,0.71,0,2,Simulated Data
-Kisumu,2004,0.29,0,3,Simulated Data
-Kisumu,2005,0.36,0,3,Simulated Data
-Kisumu,2006,0.73,0,0,Simulated Data
-Kisumu,2007,0.76,0,0,Simulated Data
-Kisumu,2008,0.56,0,1,Simulated Data
-Kisumu,2009,0.6,0,1,Simulated Data
-Kisumu,2010,0.96,0,0,Simulated Data
-Kisumu,2011,0.9,0,1,Simulated Data
-Kisumu,2012,0.79,0,0,Simulated Data
-Kisumu,2013,0.91,0,2,Simulated Data
-Kisumu,2014,1.02,0,0,Simulated Data
-Kisumu,2015,0.96,0,1,Simulated Data
-Kisumu,2016,0.99,0,0,Simulated Data
-Kisumu,2017,0.68,0,0,Simulated Data
-Kisumu,2018,0.44,0,0,Simulated Data
-Kisumu,2019,0.67,0,0,Simulated Data
-Kisumu,2020,0.5,0,0,Simulated Data
-Kisumu,2021,0.6,0,2,Simulated Data
-Kisumu,2022,0.7,0,0,Simulated Data
-Kisumu,2023,0.6,0,0,Simulated Data
-Kisumu,2024,1.1,0,3,Simulated Data
-Nakuru,1991,0.01,0,2,Simulated Data
-Nakuru,1992,-0.15,0,0,Simulated Data
-Nakuru,1993,-0.32,0,2,Simulated Data
-Nakuru,1994,0.25,0,0,Simulated Data
-Nakuru,1995,-0.15,0,0,Simulated Data
-Nakuru,1996,0.32,0,0,Simulated Data
-Nakuru,1997,0.54,0,0,Simulated Data
-Nakuru,1998,0.3,0,0,Simulated Data
-Nakuru,1999,0.12,0,0,Simulated Data
-Nakuru,2000,-0.04,0,0,Simulated Data
-Nakuru,2001,0.58,0,0,Simulated Data
-Nakuru,2002,0.01,0,0,Simulated Data
-Nakuru,2003,0.1,0,0,Simulated Data
-Nakuru,2004,0.48,0,0,Simulated Data
-Nakuru,2005,0.32,0,0,Simulated Data
-Nakuru,2006,0.74,0,0,Simulated Data
-Nakuru,2007,0.14,0,0,Simulated Data
-Nakuru,2008,0.58,0,0,Simulated Data
-Nakuru,2009,0.45,0,0,Simulated Data
-Nakuru,2010,0.61,0,0,Simulated Data
-Nakuru,2011,0.97,0,0,Simulated Data
-Nakuru,2012,0.29,0,0,Simulated Data
-Nakuru,2013,0.34,0,0,Simulated Data
-Nakuru,2014,0.55,0,0,Simulated Data
-Nakuru,2015,0.97,0,0,Simulated Data
-Nakuru,2016,0.91,0,2,Simulated Data
-Nakuru,2017,0.97,0,0,Simulated Data
-Nakuru,2018,0.55,0,2,Simulated Data
-Nakuru,2019,1.23,0,0,Simulated Data
-Nakuru,2020,1.09,0,3,Simulated Data
-Nakuru,2021,1.19,0,2,Simulated Data
-Nakuru,2022,1.13,0,2,Simulated Data
-Nakuru,2023,0.96,0,0,Simulated Data
-Nakuru,2024,1.31,0,0,Simulated Data
-Eldoret,1991,0.32,0,0,Simulated Data
-Eldoret,1992,0.39,0,0,Simulated Data
-Eldoret,1993,0.17,0,0,Simulated Data
-Eldoret,1994,-0.05,0,2,Simulated Data
-Eldoret,1995,0.35,0,0,Simulated Data
-Eldoret,1996,0.15,0,0,Simulated Data
-Eldoret,1997,0.13,0,0,Simulated Data
-Eldoret,1998,-0.1,0,2,Simulated Data
-Eldoret,1999,0.33,0,0,Simulated Data
-Eldoret,2000,0.43,0,2,Simulated Data
-Eldoret,2001,0.46,0,0,Simulated Data
-Eldoret,2002,0.72,0,0,Simulated Data
-Eldoret,2003,0.61,0,3,Simulated Data
-Eldoret,2004,0.59,0,0,Simulated Data
-Eldoret,2005,0.64,0,0,Simulated Data
-Eldoret,2006,0.78,0,0,Simulated Data
-Eldoret,2007,0.09,0,0,Simulated Data
-Eldoret,2008,0.21,0,1,Simulated Data
-Eldoret,2009,0.74,0,3,Simulated Data
-Eldoret,2010,0.47,0,2,Simulated Data
-Eldoret,2011,0.38,0,0,Simulated Data
-Eldoret,2012,1.01,0,2,Simulated Data
-Eldoret,2013,0.68,0,0,Simulated Data
-Eldoret,2014,0.73,0,0,Simulated Data
-Eldoret,2015,0.82,0,0,Simulated Data
-Eldoret,2016,0.85,0,2,Simulated Data
-Eldoret,2017,0.42,0,3,Simulated Data
-Eldoret,2018,1.12,0,1,Simulated Data
-Eldoret,2019,0.66,0,0,Simulated Data
-Eldoret,2020,0.75,0,0,Simulated Data
-Eldoret,2021,1.28,0,1,Simulated Data
-Eldoret,2022,0.96,0,2,Simulated Data
-Eldoret,2023,1.11,0,2,Simulated Data
-Eldoret,2024,1.25,0,1,Simulated Data
-Garissa,1991,0.09,57,37,Simulated Data
-Garissa,1992,0.32,55,30,Simulated Data
-Garissa,1993,-0.04,60,39,Simulated Data
-Garissa,1994,-0.19,56,33,Simulated Data
-Garissa,1995,0.5,64,40,Simulated Data
-Garissa,1996,0.12,57,33,Simulated Data
-Garissa,1997,-0.17,59,37,Simulated Data
-Garissa,1998,0.61,67,41,Simulated Data
-Garissa,1999,0.46,65,41,Simulated Data
-Garissa,2000,0.07,57,32,Simulated Data
-Garissa,2001,0.66,63,36,Simulated Data
-Garissa,2002,0.47,62,36,Simulated Data
-Garissa,2003,0.05,59,36,Simulated Data
-Garissa,2004,0.61,62,39,Simulated Data
-Garissa,2005,0.46,61,39,Simulated Data
-Garissa,2006,0.37,56,31,Simulated Data
-Garissa,2007,0.68,63,39,Simulated Data
-Garissa,2008,0.28,55,30,Simulated Data
-Garissa,2009,0.42,61,36,Simulated Data
-Garissa,2010,0.52,65,38,Simulated Data
-Garissa,2011,0.61,65,38,Simulated Data
-Garissa,2012,0.73,66,42,Simulated Data
-Garissa,2013,0.38,64,38,Simulated Data
-Garissa,2014,0.5,60,39,Simulated Data
-Garissa,2015,0.71,61,37,Simulated Data
-Garissa,2016,0.54,57,32,Simulated Data
-Garissa,2017,0.48,57,32,Simulated Data
-Garissa,2018,0.92,61,36,Simulated Data
-Garissa,2019,1.16,66,41,Simulated Data
-Garissa,2020,0.61,59,33,Simulated Data
-Garissa,2021,0.64,60,34,Simulated Data
-Garissa,2022,0.6,58,35,Simulated Data
-Garissa,2023,0.73,61,37,Simulated Data
-Garissa,2024,1.14,61,38,Simulated Data
-Turkana,1991,0.1,70,44,Simulated Data
-Turkana,1992,0.37,72,42,Simulated Data
-Turkana,1993,0.3,78,45,Simulated Data
-Turkana,1994,-0.14,71,43,Simulated Data
-Turkana,1995,0.21,74,44,Simulated Data
-Turkana,1996,0.35,72,42,Simulated Data
-Turkana,1997,0.35,80,48,Simulated Data
-Turkana,1998,0.24,72,43,Simulated Data
-Turkana,1999,0.27,73,42,Simulated Data
-Turkana,2000,0.17,70,41,Simulated Data
-Turkana,2001,0.07,72,41,Simulated Data
-Turkana,2002,0.64,80,49,Simulated Data
-Turkana,2003,0.59,78,44,Simulated Data
-Turkana,2004,0.42,78,48,Simulated Data
-Turkana,2005,0.37,73,43,Simulated Data
-Turkana,2006,0.34,78,47,Simulated Data
-Turkana,2007,0.36,81,49,Simulated Data
-Turkana,2008,0.3,72,41,Simulated Data
-Turkana,2009,0.34,73,42,Simulated Data
-Turkana,2010,0.4,74,47,Simulated Data
-Turkana,2011,0.26,76,45,Simulated Data
-Turkana,2012,1.02,78,46,Simulated Data
-Turkana,2013,1.04,86,54,Simulated Data
-Turkana,2014,0.5,74,45,Simulated Data
-Turkana,2015,1.06,83,50,Simulated Data
-Turkana,2016,0.57,81,47,Simulated Data
-Turkana,2017,0.64,78,47,Simulated Data
-Turkana,2018,0.6,75,46,Simulated Data
-Turkana,2019,0.67,80,46,Simulated Data
-Turkana,2020,0.85,81,46,Simulated Data
-Turkana,2021,0.77,76,43,Simulated Data
-Turkana,2022,1.32,82,51,Simulated Data
-Turkana,2023,0.76,81,50,Simulated Data
-Turkana,2024,1.07,82,49,Simulated Data
-Marsabit,1991,-0.12,0,2,Simulated Data
-Marsabit,1992,0.4,0,1,Simulated Data
-Marsabit,1993,0.41,0,0,Simulated Data
-Marsabit,1994,0.28,0,2,Simulated Data
-Marsabit,1995,-0.17,0,0,Simulated Data
-Marsabit,1996,-0.12,0,2,Simulated Data
-Marsabit,1997,0.31,0,0,Simulated Data
-Marsabit,1998,0.51,0,2,Simulated Data
-Marsabit,1999,0.19,0,0,Simulated Data
-Marsabit,2000,0.11,0,0,Simulated Data
-Marsabit,2001,0.09,0,0,Simulated Data
-Marsabit,2002,0.36,0,1,Simulated Data
-Marsabit,2003,0.05,0,1,Simulated Data
-Marsabit,2004,0.26,0,2,Simulated Data
-Marsabit,2005,0.52,0,2,Simulated Data
-Marsabit,2006,0.68,0,0,Simulated Data
-Marsabit,2007,0.28,0,0,Simulated Data
-Marsabit,2008,0.57,0,2,Simulated Data
-Marsabit,2009,0.41,0,0,Simulated Data
-Marsabit,2010,0.85,0,0,Simulated Data
-Marsabit,2011,0.84,0,0,Simulated Data
-Marsabit,2012,0.81,0,1,Simulated Data
-Marsabit,2013,0.82,0,0,Simulated Data
-Marsabit,2014,0.57,0,2,Simulated Data
-Marsabit,2015,0.79,0,0,Simulated Data
-Marsabit,2016,1.11,0,1,Simulated Data
-Marsabit,2017,0.78,0,0,Simulated Data
-Marsabit,2018,1.11,0,0,Simulated Data
-Marsabit,2019,1.0,0,1,Simulated Data
-Marsabit,2020,0.59,0,1,Simulated Data
-Marsabit,2021,0.84,0,3,Simulated Data
-Marsabit,2022,1.27,0,0,Simulated Data
-Marsabit,2023,1.35,0,0,Simulated Data
-Marsabit,2024,1.33,0,0,Simulated Data
-Mandera,1991,0.07,70,39,Simulated Data
-Mandera,1992,-0.1,73,41,Simulated Data
-Mandera,1993,-0.07,69,42,Simulated Data
-Mandera,1994,0.43,72,42,Simulated Data
-Mandera,1995,0.31,72,42,Simulated Data
-Mandera,1996,0.11,68,39,Simulated Data
-Mandera,1997,0.18,71,45,Simulated Data
-Mandera,1998,0.1,72,44,Simulated Data
-Mandera,1999,-0.15,71,41,Simulated Data
-Mandera,2000,0.64,72,43,Simulated Data
-Mandera,2001,-0.03,75,45,Simulated Data
-Mandera,2002,0.41,69,43,Simulated Data
-Mandera,2003,0.13,75,43,Simulated Data
-Mandera,2004,0.14,67,40,Simulated Data
-Mandera,2005,0.47,70,44,Simulated Data
-Mandera,2006,0.41,74,44,Simulated Data
-Mandera,2007,0.4,74,42,Simulated Data
-Mandera,2008,0.26,76,48,Simulated Data
-Mandera,2009,0.44,72,44,Simulated Data
-Mandera,2010,0.5,70,40,Simulated Data
-Mandera,2011,0.77,78,44,Simulated Data
-Mandera,2012,0.41,71,44,Simulated Data
-Mandera,2013,0.28,69,43,Simulated Data
-Mandera,2014,0.43,75,43,Simulated Data
-Mandera,2015,0.4,71,44,Simulated Data
-Mandera,2016,1.03,82,49,Simulated Data
-Mandera,2017,0.91,75,44,Simulated Data
-Mandera,2018,1.13,75,43,Simulated Data
-Mandera,2019,0.61,71,41,Simulated Data
-Mandera,2020,0.94,77,49,Simulated Data
-Mandera,2021,1.15,78,45,Simulated Data
-Mandera,2022,0.83,78,45,Simulated Data
-Mandera,2023,1.06,78,47,Simulated Data
-Mandera,2024,0.94,76,48,Simulated Data
-Wajir,1991,0.21,57,36,Simulated Data
-Wajir,1992,0.02,63,40,Simulated Data
-Wajir,1993,0.0,54,31,Simulated Data
-Wajir,1994,0.12,61,35,Simulated Data
-Wajir,1995,-0.17,61,40,Simulated Data
-Wajir,1996,0.17,57,33,Simulated Data
-Wajir,1997,-0.21,62,35,Simulated Data
-Wajir,1998,0.27,59,36,Simulated Data
-Wajir,1999,0.36,65,37,Simulated Data
-Wajir,2000,-0.12,55,35,Simulated Data
-Wajir,2001,0.6,65,40,Simulated Data
-Wajir,2002,0.46,60,38,Simulated Data
-Wajir,2003,0.3,60,36,Simulated Data
-Wajir,2004,0.03,56,35,Simulated Data
-Wajir,2005,0.09,61,35,Simulated Data
-Wajir,2006,0.36,60,35,Simulated Data
-Wajir,2007,0.66,62,38,Simulated Data
-Wajir,2008,0.49,65,42,Simulated Data
-Wajir,2009,0.73,62,34,Simulated Data
-Wajir,2010,0.38,63,35,Simulated Data
-Wajir,2011,0.6,65,38,Simulated Data
-Wajir,2012,0.85,62,35,Simulated Data
-Wajir,2013,0.84,66,41,Simulated Data
-Wajir,2014,0.64,62,39,Simulated Data
-Wajir,2015,0.96,69,40,Simulated Data
-Wajir,2016,0.82,64,36,Simulated Data
-Wajir,2017,1.11,64,41,Simulated Data
-Wajir,2018,0.77,62,37,Simulated Data
-Wajir,2019,1.14,71,44,Simulated Data
-Wajir,2020,1.0,69,43,Simulated Data
-Wajir,2021,0.7,65,37,Simulated Data
-Wajir,2022,1.32,74,42,Simulated Data
-Wajir,2023,1.12,72,41,Simulated Data
-Wajir,2024,1.04,72,40,Simulated Data
-Kwale,1991,0.16,17,13,Simulated Data
-Kwale,1992,0.41,25,15,Simulated Data
-Kwale,1993,0.35,24,13,Simulated Data
-Kwale,1994,0.35,16,10,Simulated Data
-Kwale,1995,-0.1,13,5,Simulated Data
-Kwale,1996,0.31,18,12,Simulated Data
-Kwale,1997,-0.17,14,9,Simulated Data
-Kwale,1998,0.44,19,12,Simulated Data
-Kwale,1999,0.55,23,12,Simulated Data
-Kwale,2000,-0.11,20,9,Simulated Data
-Kwale,2001,0.6,23,16,Simulated Data
-Kwale,2002,0.57,27,15,Simulated Data
-Kwale,2003,0.57,21,12,Simulated Data
-Kwale,2004,0.49,25,18,Simulated Data
-Kwale,2005,0.63,22,13,Simulated Data
-Kwale,2006,0.64,20,10,Simulated Data
-Kwale,2007,0.36,18,10,Simulated Data
-Kwale,2008,0.3,15,6,Simulated Data
-Kwale,2009,0.93,24,14,Simulated Data
-Kwale,2010,0.71,20,15,Simulated Data
-Kwale,2011,0.83,20,12,Simulated Data
-Kwale,2012,0.93,29,17,Simulated Data
-Kwale,2013,0.75,20,15,Simulated Data
-Kwale,2014,0.48,26,16,Simulated Data
-Kwale,2015,0.81,24,13,Simulated Data
-Kwale,2016,0.49,19,10,Simulated Data
-Kwale,2017,1.0,24,12,Simulated Data
-Kwale,2018,1.19,31,21,Simulated Data
-Kwale,2019,1.24,24,14,Simulated Data
-Kwale,2020,1.08,28,15,Simulated Data
-Kwale,2021,1.15,24,13,Simulated Data
-Kwale,2022,0.96,26,16,Simulated Data
-Kwale,2023,0.63,26,14,Simulated Data
-Kwale,2024,0.69,27,19,Simulated Data
-Kilifi,1991,0.29,20,13,Simulated Data
-Kilifi,1992,0.07,11,6,Simulated Data
-Kilifi,1993,-0.04,12,9,Simulated Data
-Kilifi,1994,0.09,11,5,Simulated Data
-Kilifi,1995,0.27,12,9,Simulated Data
-Kilifi,1996,0.15,15,10,Simulated Data
-Kilifi,1997,0.44,16,11,Simulated Data
-Kilifi,1998,0.26,14,11,Simulated Data
-Kilifi,1999,0.48,20,14,Simulated Data
-Kilifi,2000,0.56,21,15,Simulated Data
-Kilifi,2001,0.46,20,13,Simulated Data
-Kilifi,2002,0.53,15,11,Simulated Data
-Kilifi,2003,0.66,15,11,Simulated Data
-Kilifi,2004,0.09,13,9,Simulated Data
-Kilifi,2005,0.15,19,13,Simulated Data
-Kilifi,2006,0.46,13,7,Simulated Data
-Kilifi,2007,0.57,24,15,Simulated Data
-Kilifi,2008,0.32,18,11,Simulated Data
-Kilifi,2009,0.76,17,12,Simulated Data
-Kilifi,2010,0.6,24,13,Simulated Data
-Kilifi,2011,0.71,24,12,Simulated Data
-Kilifi,2012,0.98,24,12,Simulated Data
-Kilifi,2013,0.5,20,9,Simulated Data
-Kilifi,2014,0.76,19,12,Simulated Data
-Kilifi,2015,0.36,21,15,Simulated Data
-Kilifi,2016,1.13,26,13,Simulated Data
-Kilifi,2017,0.99,18,8,Simulated Data
-Kilifi,2018,0.67,20,14,Simulated Data
-Kilifi,2019,0.99,22,12,Simulated Data
-Kilifi,2020,1.27,24,14,Simulated Data
-Kilifi,2021,0.63,22,14,Simulated Data
-Kilifi,2022,0.71,16,11,Simulated Data
-Kilifi,2023,1.08,21,15,Simulated Data
-Kilifi,2024,0.71,19,14,Simulated Data
-Taita Taveta,1991,-0.06,0,0,Simulated Data
-Taita Taveta,1992,-0.15,0,0,Simulated Data
-Taita Taveta,1993,0.38,0,0,Simulated Data
-Taita Taveta,1994,-0.29,0,0,Simulated Data
-Taita Taveta,1995,0.41,0,3,Simulated Data
-Taita Taveta,1996,-0.1,0,2,Simulated Data
-Taita Taveta,1997,0.4,0,2,Simulated Data
-Taita Taveta,1998,0.31,0,0,Simulated Data
-Taita Taveta,1999,0.58,0,2,Simulated Data
-Taita Taveta,2000,0.26,0,0,Simulated Data
-Taita Taveta,2001,0.45,0,0,Simulated Data
-Taita Taveta,2002,0.32,0,0,Simulated Data
-Taita Taveta,2003,0.18,0,0,Simulated Data
-Taita Taveta,2004,0.35,0,0,Simulated Data
-Taita Taveta,2005,0.33,0,1,Simulated Data
-Taita Taveta,2006,0.28,0,2,Simulated Data
-Taita Taveta,2007,0.7,0,0,Simulated Data
-Taita Taveta,2008,0.19,0,3,Simulated Data
-Taita Taveta,2009,0.25,0,1,Simulated Data
-Taita Taveta,2010,0.73,0,0,Simulated Data
-Taita Taveta,2011,0.46,0,0,Simulated Data
-Taita Taveta,2012,0.51,0,0,Simulated Data
-Taita Taveta,2013,0.58,0,0,Simulated Data
-Taita Taveta,2014,0.84,3,0,Simulated Data
-Taita Taveta,2015,0.45,0,1,Simulated Data
-Taita Taveta,2016,0.92,0,3,Simulated Data
-Taita Taveta,2017,0.42,0,1,Simulated Data
-Taita Taveta,2018,1.11,4,4,Simulated Data
-Taita Taveta,2019,0.71,2,0,Simulated Data
-Taita Taveta,2020,1.19,3,4,Simulated Data
-Taita Taveta,2021,0.86,1,1,Simulated Data
-Taita Taveta,2022,1.12,0,0,Simulated Data
-Taita Taveta,2023,0.76,0,2,Simulated Data
-Taita Taveta,2024,0.77,4,1,Simulated Data
-Lamu,1991,-0.25,27,17,Simulated Data
-Lamu,1992,0.03,27,18,Simulated Data
-Lamu,1993,-0.16,30,21,Simulated Data
-Lamu,1994,0.21,25,16,Simulated Data
-Lamu,1995,-0.22,20,11,Simulated Data
-Lamu,1996,0.12,31,20,Simulated Data
-Lamu,1997,0.37,29,16,Simulated Data
-Lamu,1998,0.11,32,16,Simulated Data
-Lamu,1999,0.53,31,18,Simulated Data
-Lamu,2000,0.45,30,20,Simulated Data
-Lamu,2001,0.62,31,17,Simulated Data
-Lamu,2002,0.4,34,19,Simulated Data
-Lamu,2003,0.46,31,20,Simulated Data
-Lamu,2004,0.1,29,20,Simulated Data
-Lamu,2005,0.16,25,18,Simulated Data
-Lamu,2006,0.19,31,19,Simulated Data
-Lamu,2007,0.28,32,19,Simulated Data
-Lamu,2008,0.52,29,18,Simulated Data
-Lamu,2009,0.27,27,19,Simulated Data
-Lamu,2010,0.38,31,18,Simulated Data
-Lamu,2011,0.82,29,20,Simulated Data
-Lamu,2012,0.59,28,14,Simulated Data
-Lamu,2013,0.4,30,17,Simulated Data
-Lamu,2014,0.95,33,18,Simulated Data
-Lamu,2015,0.81,35,19,Simulated Data
-Lamu,2016,0.48,26,17,Simulated Data
-Lamu,2017,0.91,33,22,Simulated Data
-Lamu,2018,1.05,36,24,Simulated Data
-Lamu,2019,0.6,27,15,Simulated Data
-Lamu,2020,0.52,31,21,Simulated Data
-Lamu,2021,0.53,27,16,Simulated Data
-Lamu,2022,1.28,35,21,Simulated Data
-Lamu,2023,0.59,28,20,Simulated Data
-Lamu,2024,1.36,32,22,Simulated Data
-Tana River,1991,0.11,54,32,Simulated Data
-Tana River,1992,0.04,50,31,Simulated Data
-Tana River,1993,-0.23,43,25,Simulated Data
-Tana River,1994,0.25,49,30,Simulated Data
-Tana River,1995,0.5,50,31,Simulated Data
-Tana River,1996,0.11,54,30,Simulated Data
-Tana River,1997,0.33,56,36,Simulated Data
-Tana River,1998,0.36,52,32,Simulated Data
-Tana River,1999,0.54,55,30,Simulated Data
-Tana River,2000,0.61,56,35,Simulated Data
-Tana River,2001,0.07,52,31,Simulated Data
-Tana River,2002,0.45,49,30,Simulated Data
-Tana River,2003,0.76,51,33,Simulated Data
-Tana River,2004,0.32,56,35,Simulated Data
-Tana River,2005,0.47,56,36,Simulated Data
-Tana River,2006,0.37,51,32,Simulated Data
-Tana River,2007,0.73,58,37,Simulated Data
-Tana River,2008,0.46,56,31,Simulated Data
-Tana River,2009,0.58,49,28,Simulated Data
-Tana River,2010,0.46,52,32,Simulated Data
-Tana River,2011,0.51,53,30,Simulated Data
-Tana River,2012,0.53,51,28,Simulated Data
-Tana River,2013,0.74,57,35,Simulated Data
-Tana River,2014,0.66,54,35,Simulated Data
-Tana River,2015,0.74,55,30,Simulated Data
-Tana River,2016,0.62,53,31,Simulated Data
-Tana River,2017,0.84,57,35,Simulated Data
-Tana River,2018,1.02,61,38,Simulated Data
-Tana River,2019,1.2,54,31,Simulated Data
-Tana River,2020,0.48,55,35,Simulated Data
-Tana River,2021,0.69,59,33,Simulated Data
-Tana River,2022,1.28,58,32,Simulated Data
-Tana River,2023,0.95,55,32,Simulated Data
-Tana River,2024,0.84,59,36,Simulated Data
-Isiolo,1991,-0.15,11,8,Simulated Data
-Isiolo,1992,-0.15,9,3,Simulated Data
-Isiolo,1993,-0.2,11,5,Simulated Data
-Isiolo,1994,0.11,14,6,Simulated Data
-Isiolo,1995,0.17,10,9,Simulated Data
-Isiolo,1996,0.14,15,9,Simulated Data
-Isiolo,1997,-0.19,11,9,Simulated Data
-Isiolo,1998,0.29,17,13,Simulated Data
-Isiolo,1999,0.02,8,5,Simulated Data
-Isiolo,2000,0.2,16,12,Simulated Data
-Isiolo,2001,0.18,10,8,Simulated Data
-Isiolo,2002,0.15,16,9,Simulated Data
-Isiolo,2003,0.49,11,7,Simulated Data
-Isiolo,2004,0.35,15,7,Simulated Data
-Isiolo,2005,0.61,20,10,Simulated Data
-Isiolo,2006,0.13,7,5,Simulated Data
-Isiolo,2007,0.57,16,8,Simulated Data
-Isiolo,2008,0.42,16,10,Simulated Data
-Isiolo,2009,0.93,15,10,Simulated Data
-Isiolo,2010,0.49,14,10,Simulated Data
-Isiolo,2011,0.75,22,11,Simulated Data
-Isiolo,2012,0.31,16,10,Simulated Data
-Isiolo,2013,0.48,11,4,Simulated Data
-Isiolo,2014,1.01,16,9,Simulated Data
-Isiolo,2015,0.5,14,6,Simulated Data
-Isiolo,2016,0.77,13,10,Simulated Data
-Isiolo,2017,0.57,16,12,Simulated Data
-Isiolo,2018,0.93,19,10,Simulated Data
-Isiolo,2019,0.71,19,14,Simulated Data
-Isiolo,2020,1.0,20,13,Simulated Data
-Isiolo,2021,0.87,14,9,Simulated Data
-Isiolo,2022,1.3,18,12,Simulated Data
-Isiolo,2023,0.72,17,8,Simulated Data
-Isiolo,2024,0.95,21,12,Simulated Data
-Meru,1991,0.13,0,3,Simulated Data
-Meru,1992,-0.18,0,0,Simulated Data
-Meru,1993,0.45,0,0,Simulated Data
-Meru,1994,0.36,0,1,Simulated Data
-Meru,1995,-0.21,0,0,Simulated Data
-Meru,1996,0.41,0,1,Simulated Data
-Meru,1997,-0.19,0,0,Simulated Data
-Meru,1998,0.1,0,3,Simulated Data
-Meru,1999,0.28,0,0,Simulated Data
-Meru,2000,0.23,0,0,Simulated Data
-Meru,2001,0.64,0,3,Simulated Data
-Meru,2002,0.61,0,3,Simulated Data
-Meru,2003,0.05,0,0,Simulated Data
-Meru,2004,0.69,0,2,Simulated Data
-Meru,2005,0.65,0,0,Simulated Data
-Meru,2006,0.37,0,1,Simulated Data
-Meru,2007,0.36,0,1,Simulated Data
-Meru,2008,0.77,0,2,Simulated Data
-Meru,2009,0.88,0,1,Simulated Data
-Meru,2010,0.78,0,0,Simulated Data
-Meru,2011,0.52,0,0,Simulated Data
-Meru,2012,0.28,0,0,Simulated Data
-Meru,2013,1.03,0,3,Simulated Data
-Meru,2014,0.64,0,0,Simulated Data
-Meru,2015,0.67,0,1,Simulated Data
-Meru,2016,0.52,0,1,Simulated Data
-Meru,2017,0.5,0,2,Simulated Data
-Meru,2018,0.78,0,3,Simulated Data
-Meru,2019,0.49,0,3,Simulated Data
-Meru,2020,0.66,0,0,Simulated Data
-Meru,2021,0.74,0,1,Simulated Data
-Meru,2022,0.58,0,3,Simulated Data
-Meru,2023,1.21,0,0,Simulated Data
-Meru,2024,1.09,0,0,Simulated Data
-Tharaka Nithi,1991,-0.3,0,0,Simulated Data
-Tharaka Nithi,1992,-0.21,0,0,Simulated Data
-Tharaka Nithi,1993,0.32,0,2,Simulated Data
-Tharaka Nithi,1994,-0.3,0,0,Simulated Data
-Tharaka Nithi,1995,-0.26,0,2,Simulated Data
-Tharaka Nithi,1996,-0.14,0,0,Simulated Data
-Tharaka Nithi,1997,-0.21,0,3,Simulated Data
-Tharaka Nithi,1998,0.45,0,0,Simulated Data
-Tharaka Nithi,1999,-0.07,0,0,Simulated Data
-Tharaka Nithi,2000,0.55,0,0,Simulated Data
-Tharaka Nithi,2001,0.02,0,1,Simulated Data
-Tharaka Nithi,2002,0.31,0,0,Simulated Data
-Tharaka Nithi,2003,0.33,0,2,Simulated Data
-Tharaka Nithi,2004,0.75,0,0,Simulated Data
-Tharaka Nithi,2005,0.57,0,0,Simulated Data
-Tharaka Nithi,2006,0.72,0,2,Simulated Data
-Tharaka Nithi,2007,0.45,0,1,Simulated Data
-Tharaka Nithi,2008,0.83,0,1,Simulated Data
-Tharaka Nithi,2009,0.19,0,0,Simulated Data
-Tharaka Nithi,2010,0.76,0,1,Simulated Data
-Tharaka Nithi,2011,0.23,0,1,Simulated Data
-Tharaka Nithi,2012,0.29,0,0,Simulated Data
-Tharaka Nithi,2013,1.03,0,0,Simulated Data
-Tharaka Nithi,2014,0.53,0,2,Simulated Data
-Tharaka Nithi,2015,0.85,0,0,Simulated Data
-Tharaka Nithi,2016,0.43,0,2,Simulated Data
-Tharaka Nithi,2017,0.59,0,0,Simulated Data
-Tharaka Nithi,2018,1.18,0,2,Simulated Data
-Tharaka Nithi,2019,0.94,0,0,Simulated Data
-Tharaka Nithi,2020,0.57,0,2,Simulated Data
-Tharaka Nithi,2021,1.02,0,0,Simulated Data
-Tharaka Nithi,2022,1.3,0,0,Simulated Data
-Tharaka Nithi,2023,1.34,0,0,Simulated Data
-Tharaka Nithi,2024,1.19,0,1,Simulated Data
-Embu,1991,-0.3,0,3,Simulated Data
-Embu,1992,-0.19,0,0,Simulated Data
-Embu,1993,0.01,0,3,Simulated Data
-Embu,1994,-0.12,0,0,Simulated Data
-Embu,1995,0.43,0,0,Simulated Data
-Embu,1996,0.4,0,2,Simulated Data
-Embu,1997,0.52,0,2,Simulated Data
-Embu,1998,0.18,0,1,Simulated Data
-Embu,1999,0.46,0,0,Simulated Data
-Embu,2000,0.31,0,3,Simulated Data
-Embu,2001,-0.07,0,0,Simulated Data
-Embu,2002,0.51,0,0,Simulated Data
-Embu,2003,0.36,0,1,Simulated Data
-Embu,2004,0.42,0,0,Simulated Data
-Embu,2005,0.26,0,1,Simulated Data
-Embu,2006,0.75,0,2,Simulated Data
-Embu,2007,0.21,0,0,Simulated Data
-Embu,2008,0.31,0,3,Simulated Data
-Embu,2009,0.22,0,2,Simulated Data
-Embu,2010,0.33,0,1,Simulated Data
-Embu,2011,0.69,0,0,Simulated Data
-Embu,2012,0.86,0,0,Simulated Data
-Embu,2013,0.87,0,1,Simulated Data
-Embu,2014,0.45,0,0,Simulated Data
-Embu,2015,0.58,0,0,Simulated Data
-Embu,2016,1.05,0,0,Simulated Data
-Embu,2017,0.74,0,2,Simulated Data
-Embu,2018,0.88,0,0,Simulated Data
-Embu,2019,1.0,0,1,Simulated Data
-Embu,2020,0.75,0,0,Simulated Data
-Embu,2021,0.97,0,1,Simulated Data
-Embu,2022,0.58,0,0,Simulated Data
-Embu,2023,1.01,0,1,Simulated Data
-Embu,2024,1.23,0,2,Simulated Data
-Kirinyaga,1991,0.0,0,0,Simulated Data
-Kirinyaga,1992,-0.1,0,1,Simulated Data
-Kirinyaga,1993,0.29,0,0,Simulated Data
-Kirinyaga,1994,-0.19,0,0,Simulated Data
-Kirinyaga,1995,-0.21,0,1,Simulated Data
-Kirinyaga,1996,0.34,0,3,Simulated Data
-Kirinyaga,1997,0.29,0,1,Simulated Data
-Kirinyaga,1998,0.44,0,0,Simulated Data
-Kirinyaga,1999,0.51,0,0,Simulated Data
-Kirinyaga,2000,0.34,0,0,Simulated Data
-Kirinyaga,2001,0.17,0,0,Simulated Data
-Kirinyaga,2002,0.6,0,0,Simulated Data
-Kirinyaga,2003,0.2,0,0,Simulated Data
-Kirinyaga,2004,0.33,0,2,Simulated Data
-Kirinyaga,2005,0.17,0,0,Simulated Data
-Kirinyaga,2006,0.44,0,0,Simulated Data
-Kirinyaga,2007,0.66,0,0,Simulated Data
-Kirinyaga,2008,0.69,0,0,Simulated Data
-Kirinyaga,2009,0.63,0,2,Simulated Data
-Kirinyaga,2010,0.7,0,0,Simulated Data
-Kirinyaga,2011,0.25,0,0,Simulated Data
-Kirinyaga,2012,0.43,0,0,Simulated Data
-Kirinyaga,2013,0.48,0,0,Simulated Data
-Kirinyaga,2014,0.91,0,0,Simulated Data
-Kirinyaga,2015,0.35,0,2,Simulated Data
-Kirinyaga,2016,0.46,0,0,Simulated Data
-Kirinyaga,2017,0.66,0,0,Simulated Data
-Kirinyaga,2018,0.94,0,0,Simulated Data
-Kirinyaga,2019,1.19,0,0,Simulated Data
-Kirinyaga,2020,0.68,0,3,Simulated Data
-Kirinyaga,2021,0.71,0,0,Simulated Data
-Kirinyaga,2022,0.98,0,3,Simulated Data
-Kirinyaga,2023,1.05,0,0,Simulated Data
-Kirinyaga,2024,0.71,0,0,Simulated Data
-Murang'a,1991,0.28,0,0,Simulated Data
-Murang'a,1992,-0.28,0,1,Simulated Data
-Murang'a,1993,-0.29,0,0,Simulated Data
-Murang'a,1994,-0.24,0,0,Simulated Data
-Murang'a,1995,-0.15,0,2,Simulated Data
-Murang'a,1996,0.29,0,0,Simulated Data
-Murang'a,1997,0.3,0,0,Simulated Data
-Murang'a,1998,0.22,0,0,Simulated Data
-Murang'a,1999,-0.12,0,0,Simulated Data
-Murang'a,2000,0.08,0,0,Simulated Data
-Murang'a,2001,0.51,0,0,Simulated Data
-Murang'a,2002,0.63,0,2,Simulated Data
-Murang'a,2003,0.15,0,3,Simulated Data
-Murang'a,2004,0.61,0,0,Simulated Data
-Murang'a,2005,0.39,0,0,Simulated Data
-Murang'a,2006,0.45,0,1,Simulated Data
-Murang'a,2007,0.74,0,2,Simulated Data
-Murang'a,2008,0.88,0,0,Simulated Data
-Murang'a,2009,0.37,0,0,Simulated Data
-Murang'a,2010,0.68,0,0,Simulated Data
-Murang'a,2011,0.93,0,0,Simulated Data
-Murang'a,2012,0.79,0,0,Simulated Data
-Murang'a,2013,0.95,0,0,Simulated Data
-Murang'a,2014,1.08,0,0,Simulated Data
-Murang'a,2015,0.47,0,1,Simulated Data
-Murang'a,2016,0.47,0,1,Simulated Data
-Murang'a,2017,0.45,0,2,Simulated Data
-Murang'a,2018,0.81,0,0,Simulated Data
-Murang'a,2019,1.23,0,1,Simulated Data
-Murang'a,2020,0.6,0,0,Simulated Data
-Murang'a,2021,0.63,0,0,Simulated Data
-Murang'a,2022,0.95,0,2,Simulated Data
-Murang'a,2023,0.62,0,0,Simulated Data
-Murang'a,2024,1.28,0,0,Simulated Data
-Kiambu,1991,0.17,0,0,Simulated Data
-Kiambu,1992,0.29,0,0,Simulated Data
-Kiambu,1993,0.06,0,0,Simulated Data
-Kiambu,1994,-0.17,0,2,Simulated Data
-Kiambu,1995,-0.2,0,0,Simulated Data
-Kiambu,1996,0.03,0,1,Simulated Data
-Kiambu,1997,0.3,0,0,Simulated Data
-Kiambu,1998,0.48,0,3,Simulated Data
-Kiambu,1999,0.35,0,1,Simulated Data
-Kiambu,2000,0.13,0,0,Simulated Data
-Kiambu,2001,0.04,0,0,Simulated Data
-Kiambu,2002,0.6,0,1,Simulated Data
-Kiambu,2003,0.52,0,0,Simulated Data
-Kiambu,2004,0.16,0,0,Simulated Data
-Kiambu,2005,0.54,0,2,Simulated Data
-Kiambu,2006,0.66,0,1,Simulated Data
-Kiambu,2007,0.29,0,1,Simulated Data
-Kiambu,2008,0.56,0,0,Simulated Data
-Kiambu,2009,0.51,0,0,Simulated Data
-Kiambu,2010,0.47,0,0,Simulated Data
-Kiambu,2011,0.54,0,1,Simulated Data
-Kiambu,2012,0.96,0,2,Simulated Data
-Kiambu,2013,0.49,0,2,Simulated Data
-Kiambu,2014,0.93,0,3,Simulated Data
-Kiambu,2015,0.9,0,2,Simulated Data
-Kiambu,2016,0.58,0,0,Simulated Data
-Kiambu,2017,0.94,0,0,Simulated Data
-Kiambu,2018,0.6,0,0,Simulated Data
-Kiambu,2019,0.68,0,0,Simulated Data
-Kiambu,2020,0.71,0,0,Simulated Data
-Kiambu,2021,1.22,0,1,Simulated Data
-Kiambu,2022,1.0,0,0,Simulated Data
-Kiambu,2023,0.62,0,2,Simulated Data
-Kiambu,2024,0.62,0,3,Simulated Data
-Nyandarua,1991,0.28,0,0,Simulated Data
-Nyandarua,1992,0.3,0,0,Simulated Data
-Nyandarua,1993,-0.26,0,1,Simulated Data
-Nyandarua,1994,0.35,0,0,Simulated Data
-Nyandarua,1995,0.13,0,0,Simulated Data
-Nyandarua,1996,0.1,0,1,Simulated Data
-Nyandarua,1997,0.49,0,1,Simulated Data
-Nyandarua,1998,0.32,0,1,Simulated Data
-Nyandarua,1999,0.03,0,0,Simulated Data
-Nyandarua,2000,0.18,0,1,Simulated Data
-Nyandarua,2001,0.66,0,1,Simulated Data
-Nyandarua,2002,0.34,0,0,Simulated Data
-Nyandarua,2003,0.16,0,0,Simulated Data
-Nyandarua,2004,0.03,0,0,Simulated Data
-Nyandarua,2005,0.8,0,0,Simulated Data
-Nyandarua,2006,0.21,0,0,Simulated Data
-Nyandarua,2007,0.25,0,0,Simulated Data
-Nyandarua,2008,0.12,0,0,Simulated Data
-Nyandarua,2009,0.23,0,2,Simulated Data
-Nyandarua,2010,0.63,0,0,Simulated Data
-Nyandarua,2011,0.95,0,0,Simulated Data
-Nyandarua,2012,0.72,0,0,Simulated Data
-Nyandarua,2013,0.67,0,0,Simulated Data
-Nyandarua,2014,0.85,0,0,Simulated Data
-Nyandarua,2015,0.54,0,0,Simulated Data
-Nyandarua,2016,0.68,0,1,Simulated Data
-Nyandarua,2017,0.87,0,2,Simulated Data
-Nyandarua,2018,1.17,0,0,Simulated Data
-Nyandarua,2019,0.95,0,0,Simulated Data
-Nyandarua,2020,0.52,0,1,Simulated Data
-Nyandarua,2021,0.59,0,0,Simulated Data
-Nyandarua,2022,0.83,0,0,Simulated Data
-Nyandarua,2023,1.16,0,0,Simulated Data
-Nyandarua,2024,0.87,0,1,Simulated Data
-Nyeri,1991,0.14,0,1,Simulated Data
-Nyeri,1992,-0.36,0,2,Simulated Data
-Nyeri,1993,0.15,0,1,Simulated Data
-Nyeri,1994,-0.21,0,0,Simulated Data
-Nyeri,1995,0.15,0,0,Simulated Data
-Nyeri,1996,0.09,0,0,Simulated Data
-Nyeri,1997,0.24,0,0,Simulated Data
-Nyeri,1998,0.26,0,1,Simulated Data
-Nyeri,1999,0.36,0,1,Simulated Data
-Nyeri,2000,0.21,0,0,Simulated Data
-Nyeri,2001,0.15,0,0,Simulated Data
-Nyeri,2002,0.57,0,2,Simulated Data
-Nyeri,2003,0.69,0,0,Simulated Data
-Nyeri,2004,0.46,0,1,Simulated Data
-Nyeri,2005,0.58,0,0,Simulated Data
-Nyeri,2006,0.18,0,0,Simulated Data
-Nyeri,2007,0.79,0,0,Simulated Data
-Nyeri,2008,0.13,0,1,Simulated Data
-Nyeri,2009,0.41,0,0,Simulated Data
-Nyeri,2010,0.42,0,1,Simulated Data
-Nyeri,2011,0.49,0,3,Simulated Data
-Nyeri,2012,0.59,0,0,Simulated Data
-Nyeri,2013,0.65,0,0,Simulated Data
-Nyeri,2014,1.06,0,0,Simulated Data
-Nyeri,2015,0.34,0,0,Simulated Data
-Nyeri,2016,0.37,0,0,Simulated Data
-Nyeri,2017,0.61,0,0,Simulated Data
-Nyeri,2018,1.17,0,2,Simulated Data
-Nyeri,2019,0.92,0,3,Simulated Data
-Nyeri,2020,0.7,0,0,Simulated Data
-Nyeri,2021,0.81,0,0,Simulated Data
-Nyeri,2022,0.65,0,0,Simulated Data
-Nyeri,2023,1.17,0,0,Simulated Data
-Nyeri,2024,0.83,0,0,Simulated Data
-Laikipia,1991,-0.35,0,0,Simulated Data
-Laikipia,1992,0.4,0,0,Simulated Data
-Laikipia,1993,0.12,0,0,Simulated Data
-Laikipia,1994,0.19,0,0,Simulated Data
-Laikipia,1995,0.52,0,1,Simulated Data
-Laikipia,1996,0.21,0,0,Simulated Data
-Laikipia,1997,0.1,0,0,Simulated Data
-Laikipia,1998,0.24,0,3,Simulated Data
-Laikipia,1999,0.57,0,0,Simulated Data
-Laikipia,2000,0.57,0,2,Simulated Data
-Laikipia,2001,0.0,0,0,Simulated Data
-Laikipia,2002,0.63,0,0,Simulated Data
-Laikipia,2003,0.33,0,0,Simulated Data
-Laikipia,2004,0.68,0,0,Simulated Data
-Laikipia,2005,0.25,0,2,Simulated Data
-Laikipia,2006,0.36,0,0,Simulated Data
-Laikipia,2007,0.54,0,3,Simulated Data
-Laikipia,2008,0.44,0,2,Simulated Data
-Laikipia,2009,0.6,0,0,Simulated Data
-Laikipia,2010,0.26,0,0,Simulated Data
-Laikipia,2011,0.88,0,0,Simulated Data
-Laikipia,2012,0.94,0,0,Simulated Data
-Laikipia,2013,0.76,0,0,Simulated Data
-Laikipia,2014,0.67,0,1,Simulated Data
-Laikipia,2015,0.87,0,0,Simulated Data
-Laikipia,2016,0.64,0,0,Simulated Data
-Laikipia,2017,0.55,0,0,Simulated Data
-Laikipia,2018,1.21,0,2,Simulated Data
-Laikipia,2019,0.68,0,1,Simulated Data
-Laikipia,2020,1.14,0,0,Simulated Data
-Laikipia,2021,1.1,0,1,Simulated Data
-Laikipia,2022,1.14,0,1,Simulated Data
-Laikipia,2023,0.63,0,0,Simulated Data
-Laikipia,2024,0.92,0,0,Simulated Data
-Samburu,1991,-0.12,0,2,Simulated Data
-Samburu,1992,0.39,0,3,Simulated Data
-Samburu,1993,0.08,0,0,Simulated Data
-Samburu,1994,0.09,2,2,Simulated Data
-Samburu,1995,-0.24,0,0,Simulated Data
-Samburu,1996,-0.01,0,0,Simulated Data
-Samburu,1997,0.42,6,3,Simulated Data
-Samburu,1998,0.53,1,0,Simulated Data
-Samburu,1999,0.02,0,3,Simulated Data
-Samburu,2000,0.35,0,1,Simulated Data
-Samburu,2001,0.0,2,1,Simulated Data
-Samburu,2002,0.29,2,2,Simulated Data
-Samburu,2003,0.02,0,0,Simulated Data
-Samburu,2004,0.56,6,5,Simulated Data
-Samburu,2005,0.46,2,0,Simulated Data
-Samburu,2006,0.67,1,1,Simulated Data
-Samburu,2007,0.31,0,1,Simulated Data
-Samburu,2008,0.15,2,0,Simulated Data
-Samburu,2009,0.14,0,0,Simulated Data
-Samburu,2010,0.39,4,0,Simulated Data
-Samburu,2011,0.87,0,0,Simulated Data
-Samburu,2012,0.82,3,0,Simulated Data
-Samburu,2013,0.55,1,3,Simulated Data
-Samburu,2014,0.54,6,6,Simulated Data
-Samburu,2015,0.67,8,4,Simulated Data
-Samburu,2016,1.12,3,3,Simulated Data
-Samburu,2017,0.78,4,3,Simulated Data
-Samburu,2018,0.97,1,0,Simulated Data
-Samburu,2019,1.01,8,8,Simulated Data
-Samburu,2020,1.08,12,8,Simulated Data
-Samburu,2021,0.74,0,2,Simulated Data
-Samburu,2022,1.05,2,0,Simulated Data
-Samburu,2023,1.33,9,5,Simulated Data
-Samburu,2024,0.96,3,1,Simulated Data
-Trans Nzoia,1991,-0.1,0,2,Simulated Data
-Trans Nzoia,1992,-0.04,0,2,Simulated Data
-Trans Nzoia,1993,-0.17,0,0,Simulated Data
-Trans Nzoia,1994,0.39,0,1,Simulated Data
-Trans Nzoia,1995,0.21,0,0,Simulated Data
-Trans Nzoia,1996,0.27,0,0,Simulated Data
-Trans Nzoia,1997,0.3,0,1,Simulated Data
-Trans Nzoia,1998,-0.03,0,0,Simulated Data
-Trans Nzoia,1999,0.13,0,0,Simulated Data
-Trans Nzoia,2000,0.28,0,2,Simulated Data
-Trans Nzoia,2001,-0.09,0,0,Simulated Data
-Trans Nzoia,2002,-0.05,0,0,Simulated Data
-Trans Nzoia,2003,0.35,0,0,Simulated Data
-Trans Nzoia,2004,0.47,0,0,Simulated Data
-Trans Nzoia,2005,0.79,0,1,Simulated Data
-Trans Nzoia,2006,0.3,0,2,Simulated Data
-Trans Nzoia,2007,0.5,0,0,Simulated Data
-Trans Nzoia,2008,0.12,0,2,Simulated Data
-Trans Nzoia,2009,0.24,0,0,Simulated Data
-Trans Nzoia,2010,0.4,0,0,Simulated Data
-Trans Nzoia,2011,0.48,0,0,Simulated Data
-Trans Nzoia,2012,0.47,0,3,Simulated Data
-Trans Nzoia,2013,0.94,0,2,Simulated Data
-Trans Nzoia,2014,0.92,0,0,Simulated Data
-Trans Nzoia,2015,0.64,0,0,Simulated Data
-Trans Nzoia,2016,0.53,0,0,Simulated Data
-Trans Nzoia,2017,0.98,0,0,Simulated Data
-Trans Nzoia,2018,1.18,0,2,Simulated Data
-Trans Nzoia,2019,1.23,0,3,Simulated Data
-Trans Nzoia,2020,0.53,0,0,Simulated Data
-Trans Nzoia,2021,0.66,0,1,Simulated Data
-Trans Nzoia,2022,1.16,0,0,Simulated Data
-Trans Nzoia,2023,1.21,0,0,Simulated Data
-Trans Nzoia,2024,1.13,0,0,Simulated Data
-Uasin Gishu,1991,0.33,0,0,Simulated Data
-Uasin Gishu,1992,0.34,0,0,Simulated Data
-Uasin Gishu,1993,-0.22,0,1,Simulated Data
-Uasin Gishu,1994,0.05,0,3,Simulated Data
-Uasin Gishu,1995,0.14,0,0,Simulated Data
-Uasin Gishu,1996,0.29,0,0,Simulated Data
-Uasin Gishu,1997,0.43,0,0,Simulated Data
-Uasin Gishu,1998,0.16,0,0,Simulated Data
-Uasin Gishu,1999,0.2,0,0,Simulated Data
-Uasin Gishu,2000,0.54,0,2,Simulated Data
-Uasin Gishu,2001,0.58,0,3,Simulated Data
-Uasin Gishu,2002,0.09,0,3,Simulated Data
-Uasin Gishu,2003,0.53,0,0,Simulated Data
-Uasin Gishu,2004,0.2,0,1,Simulated Data
-Uasin Gishu,2005,0.08,0,3,Simulated Data
-Uasin Gishu,2006,0.2,0,2,Simulated Data
-Uasin Gishu,2007,0.83,0,0,Simulated Data
-Uasin Gishu,2008,0.89,0,0,Simulated Data
-Uasin Gishu,2009,0.52,0,0,Simulated Data
-Uasin Gishu,2010,0.68,0,0,Simulated Data
-Uasin Gishu,2011,0.65,0,0,Simulated Data
-Uasin Gishu,2012,0.24,0,0,Simulated Data
-Uasin Gishu,2013,1.0,0,1,Simulated Data
-Uasin Gishu,2014,0.47,0,2,Simulated Data
-Uasin Gishu,2015,0.9,0,0,Simulated Data
-Uasin Gishu,2016,0.37,0,1,Simulated Data
-Uasin Gishu,2017,0.47,0,0,Simulated Data
-Uasin Gishu,2018,1.15,0,0,Simulated Data
-Uasin Gishu,2019,1.05,0,0,Simulated Data
-Uasin Gishu,2020,1.07,0,3,Simulated Data
-Uasin Gishu,2021,0.96,0,2,Simulated Data
-Uasin Gishu,2022,0.73,0,0,Simulated Data
-Uasin Gishu,2023,1.09,0,0,Simulated Data
-Uasin Gishu,2024,1.32,0,0,Simulated Data
-Elgeyo Marakwet,1991,-0.22,0,0,Simulated Data
-Elgeyo Marakwet,1992,-0.23,0,0,Simulated Data
-Elgeyo Marakwet,1993,0.42,0,0,Simulated Data
-Elgeyo Marakwet,1994,0.15,0,2,Simulated Data
-Elgeyo Marakwet,1995,-0.05,0,2,Simulated Data
-Elgeyo Marakwet,1996,0.51,0,0,Simulated Data
-Elgeyo Marakwet,1997,0.4,0,0,Simulated Data
-Elgeyo Marakwet,1998,-0.03,0,0,Simulated Data
-Elgeyo Marakwet,1999,0.11,0,0,Simulated Data
-Elgeyo Marakwet,2000,-0.07,0,3,Simulated Data
-Elgeyo Marakwet,2001,0.31,0,2,Simulated Data
-Elgeyo Marakwet,2002,0.6,0,1,Simulated Data
-Elgeyo Marakwet,2003,0.58,0,0,Simulated Data
-Elgeyo Marakwet,2004,0.69,0,0,Simulated Data
-Elgeyo Marakwet,2005,0.36,0,0,Simulated Data
-Elgeyo Marakwet,2006,0.66,0,0,Simulated Data
-Elgeyo Marakwet,2007,0.5,0,3,Simulated Data
-Elgeyo Marakwet,2008,0.29,0,0,Simulated Data
-Elgeyo Marakwet,2009,0.32,0,1,Simulated Data
-Elgeyo Marakwet,2010,0.94,0,1,Simulated Data
-Elgeyo Marakwet,2011,0.79,0,0,Simulated Data
-Elgeyo Marakwet,2012,0.47,0,1,Simulated Data
-Elgeyo Marakwet,2013,0.91,0,0,Simulated Data
-Elgeyo Marakwet,2014,1.01,0,3,Simulated Data
-Elgeyo Marakwet,2015,0.92,0,1,Simulated Data
-Elgeyo Marakwet,2016,0.88,0,0,Simulated Data
-Elgeyo Marakwet,2017,0.95,0,2,Simulated Data
-Elgeyo Marakwet,2018,0.88,0,0,Simulated Data
-Elgeyo Marakwet,2019,0.65,0,0,Simulated Data
-Elgeyo Marakwet,2020,1.04,0,0,Simulated Data
-Elgeyo Marakwet,2021,0.91,0,0,Simulated Data
-Elgeyo Marakwet,2022,1.28,0,1,Simulated Data
-Elgeyo Marakwet,2023,1.13,0,3,Simulated Data
-Elgeyo Marakwet,2024,1.15,0,2,Simulated Data
-Nandi,1991,-0.18,0,0,Simulated Data
-Nandi,1992,-0.09,0,3,Simulated Data
-Nandi,1993,0.35,0,1,Simulated Data
-Nandi,1994,0.14,0,0,Simulated Data
-Nandi,1995,0.02,0,2,Simulated Data
-Nandi,1996,0.34,0,0,Simulated Data
-Nandi,1997,0.45,0,1,Simulated Data
-Nandi,1998,0.59,0,0,Simulated Data
-Nandi,1999,0.4,0,0,Simulated Data
-Nandi,2000,0.64,0,0,Simulated Data
-Nandi,2001,0.47,0,0,Simulated Data
-Nandi,2002,0.57,0,0,Simulated Data
-Nandi,2003,0.07,0,0,Simulated Data
-Nandi,2004,0.24,0,2,Simulated Data
-Nandi,2005,0.56,0,0,Simulated Data
-Nandi,2006,0.55,0,2,Simulated Data
-Nandi,2007,0.8,0,1,Simulated Data
-Nandi,2008,0.15,0,0,Simulated Data
-Nandi,2009,0.39,0,1,Simulated Data
-Nandi,2010,0.44,0,0,Simulated Data
-Nandi,2011,0.25,0,0,Simulated Data
-Nandi,2012,0.58,0,0,Simulated Data
-Nandi,2013,0.31,0,3,Simulated Data
-Nandi,2014,0.8,0,1,Simulated Data
-Nandi,2015,0.48,0,2,Simulated Data
-Nandi,2016,0.43,0,0,Simulated Data
-Nandi,2017,0.73,0,0,Simulated Data
-Nandi,2018,0.82,0,3,Simulated Data
-Nandi,2019,0.53,0,1,Simulated Data
-Nandi,2020,1.03,0,0,Simulated Data
-Nandi,2021,0.82,0,0,Simulated Data
-Nandi,2022,0.92,0,0,Simulated Data
-Nandi,2023,1.09,0,1,Simulated Data
-Nandi,2024,0.65,0,3,Simulated Data
-Baringo,1991,-0.16,6,4,Simulated Data
-Baringo,1992,0.13,14,7,Simulated Data
-Baringo,1993,-0.33,13,6,Simulated Data
-Baringo,1994,0.23,15,10,Simulated Data
-Baringo,1995,-0.03,9,6,Simulated Data
-Baringo,1996,0.44,19,9,Simulated Data
-Baringo,1997,-0.1,15,10,Simulated Data
-Baringo,1998,0.52,12,8,Simulated Data
-Baringo,1999,0.4,16,9,Simulated Data
-Baringo,2000,-0.12,11,5,Simulated Data
-Baringo,2001,0.26,18,10,Simulated Data
-Baringo,2002,0.6,13,9,Simulated Data
-Baringo,2003,0.74,13,5,Simulated Data
-Baringo,2004,0.34,10,7,Simulated Data
-Baringo,2005,0.75,17,9,Simulated Data
-Baringo,2006,0.4,17,7,Simulated Data
-Baringo,2007,0.55,17,11,Simulated Data
-Baringo,2008,0.3,16,7,Simulated Data
-Baringo,2009,0.3,17,12,Simulated Data
-Baringo,2010,0.18,10,4,Simulated Data
-Baringo,2011,0.42,12,5,Simulated Data
-Baringo,2012,0.6,18,11,Simulated Data
-Baringo,2013,0.8,13,11,Simulated Data
-Baringo,2014,0.96,22,15,Simulated Data
-Baringo,2015,1.07,20,10,Simulated Data
-Baringo,2016,0.84,20,13,Simulated Data
-Baringo,2017,0.8,13,7,Simulated Data
-Baringo,2018,1.15,21,13,Simulated Data
-Baringo,2019,0.66,15,11,Simulated Data
-Baringo,2020,1.0,22,13,Simulated Data
-Baringo,2021,1.0,17,11,Simulated Data
-Baringo,2022,0.87,18,12,Simulated Data
-Baringo,2023,1.31,17,12,Simulated Data
-Baringo,2024,0.82,17,7,Simulated Data
-Kakamega,1991,-0.16,0,0,Simulated Data
-Kakamega,1992,0.02,0,0,Simulated Data
-Kakamega,1993,0.27,0,1,Simulated Data
-Kakamega,1994,-0.1,0,0,Simulated Data
-Kakamega,1995,-0.22,0,1,Simulated Data
-Kakamega,1996,0.46,0,1,Simulated Data
-Kakamega,1997,-0.13,0,0,Simulated Data
-Kakamega,1998,0.01,0,0,Simulated Data
-Kakamega,1999,0.13,0,2,Simulated Data
-Kakamega,2000,0.5,0,2,Simulated Data
-Kakamega,2001,0.66,0,0,Simulated Data
-Kakamega,2002,0.33,0,2,Simulated Data
-Kakamega,2003,0.04,0,0,Simulated Data
-Kakamega,2004,0.39,0,2,Simulated Data
-Kakamega,2005,0.56,0,2,Simulated Data
-Kakamega,2006,0.65,0,1,Simulated Data
-Kakamega,2007,0.21,0,0,Simulated Data
-Kakamega,2008,0.67,0,0,Simulated Data
-Kakamega,2009,0.27,0,1,Simulated Data
-Kakamega,2010,0.76,0,0,Simulated Data
-Kakamega,2011,0.27,0,0,Simulated Data
-Kakamega,2012,0.94,0,0,Simulated Data
-Kakamega,2013,0.34,0,0,Simulated Data
-Kakamega,2014,0.78,0,0,Simulated Data
-Kakamega,2015,0.63,0,0,Simulated Data
-Kakamega,2016,1.12,0,0,Simulated Data
-Kakamega,2017,0.71,0,0,Simulated Data
-Kakamega,2018,0.97,0,0,Simulated Data
-Kakamega,2019,0.84,0,2,Simulated Data
-Kakamega,2020,0.98,0,0,Simulated Data
-Kakamega,2021,0.98,0,0,Simulated Data
-Kakamega,2022,0.64,0,0,Simulated Data
-Kakamega,2023,0.87,0,0,Simulated Data
-Kakamega,2024,1.0,0,0,Simulated Data
-Vihiga,1991,0.23,0,0,Simulated Data
-Vihiga,1992,0.08,0,1,Simulated Data
-Vihiga,1993,-0.14,0,1,Simulated Data
-Vihiga,1994,0.12,0,2,Simulated Data
-Vihiga,1995,0.39,0,0,Simulated Data
-Vihiga,1996,0.38,0,0,Simulated Data
-Vihiga,1997,0.46,0,0,Simulated Data
-Vihiga,1998,-0.13,0,2,Simulated Data
-Vihiga,1999,0.56,0,0,Simulated Data
-Vihiga,2000,0.57,0,0,Simulated Data
-Vihiga,2001,0.67,0,1,Simulated Data
-Vihiga,2002,-0.01,0,2,Simulated Data
-Vihiga,2003,0.31,0,0,Simulated Data
-Vihiga,2004,0.25,0,0,Simulated Data
-Vihiga,2005,0.32,0,0,Simulated Data
-Vihiga,2006,0.42,0,1,Simulated Data
-Vihiga,2007,0.65,0,0,Simulated Data
-Vihiga,2008,0.64,0,0,Simulated Data
-Vihiga,2009,0.78,0,0,Simulated Data
-Vihiga,2010,0.22,0,1,Simulated Data
-Vihiga,2011,0.83,0,2,Simulated Data
-Vihiga,2012,0.64,0,1,Simulated Data
-Vihiga,2013,0.76,0,0,Simulated Data
-Vihiga,2014,0.45,0,1,Simulated Data
-Vihiga,2015,1.05,0,1,Simulated Data
-Vihiga,2016,0.87,0,0,Simulated Data
-Vihiga,2017,0.89,0,0,Simulated Data
-Vihiga,2018,0.98,0,0,Simulated Data
-Vihiga,2019,0.69,0,0,Simulated Data
-Vihiga,2020,0.81,0,0,Simulated Data
-Vihiga,2021,0.65,0,1,Simulated Data
-Vihiga,2022,0.84,0,1,Simulated Data
-Vihiga,2023,1.2,0,1,Simulated Data
-Vihiga,2024,0.8,0,1,Simulated Data
-Bungoma,1991,-0.14,0,0,Simulated Data
-Bungoma,1992,0.19,0,1,Simulated Data
-Bungoma,1993,-0.13,0,2,Simulated Data
-Bungoma,1994,0.31,0,0,Simulated Data
-Bungoma,1995,-0.21,0,0,Simulated Data
-Bungoma,1996,0.1,0,0,Simulated Data
-Bungoma,1997,-0.19,0,0,Simulated Data
-Bungoma,1998,0.26,0,1,Simulated Data
-Bungoma,1999,0.1,0,2,Simulated Data
-Bungoma,2000,0.13,0,3,Simulated Data
-Bungoma,2001,0.56,0,0,Simulated Data
-Bungoma,2002,0.39,0,0,Simulated Data
-Bungoma,2003,0.76,0,1,Simulated Data
-Bungoma,2004,0.64,0,3,Simulated Data
-Bungoma,2005,0.21,0,0,Simulated Data
-Bungoma,2006,0.15,0,0,Simulated Data
-Bungoma,2007,0.71,0,0,Simulated Data
-Bungoma,2008,0.63,0,0,Simulated Data
-Bungoma,2009,0.75,0,2,Simulated Data
-Bungoma,2010,0.2,0,1,Simulated Data
-Bungoma,2011,0.65,0,2,Simulated Data
-Bungoma,2012,0.7,0,3,Simulated Data
-Bungoma,2013,0.87,0,1,Simulated Data
-Bungoma,2014,0.6,0,1,Simulated Data
-Bungoma,2015,1.06,0,0,Simulated Data
-Bungoma,2016,0.77,0,3,Simulated Data
-Bungoma,2017,1.16,0,2,Simulated Data
-Bungoma,2018,0.98,0,0,Simulated Data
-Bungoma,2019,0.8,0,1,Simulated Data
-Bungoma,2020,0.77,0,0,Simulated Data
-Bungoma,2021,0.9,0,1,Simulated Data
-Bungoma,2022,1.05,0,0,Simulated Data
-Bungoma,2023,1.07,0,0,Simulated Data
-Bungoma,2024,1.15,0,1,Simulated Data
-Busia,1991,0.27,0,0,Simulated Data
-Busia,1992,0.25,0,1,Simulated Data
-Busia,1993,0.33,0,3,Simulated Data
-Busia,1994,0.12,0,0,Simulated Data
-Busia,1995,-0.16,0,0,Simulated Data
-Busia,1996,0.49,0,1,Simulated Data
-Busia,1997,0.06,0,0,Simulated Data
-Busia,1998,0.15,0,1,Simulated Data
-Busia,1999,0.54,0,1,Simulated Data
-Busia,2000,0.04,0,2,Simulated Data
-Busia,2001,0.06,0,0,Simulated Data
-Busia,2002,0.57,0,0,Simulated Data
-Busia,2003,0.68,0,3,Simulated Data
-Busia,2004,0.36,0,0,Simulated Data
-Busia,2005,0.29,0,3,Simulated Data
-Busia,2006,0.7,0,3,Simulated Data
-Busia,2007,0.15,0,0,Simulated Data
-Busia,2008,0.28,0,0,Simulated Data
-Busia,2009,0.35,0,0,Simulated Data
-Busia,2010,0.29,0,2,Simulated Data
-Busia,2011,0.97,0,0,Simulated Data
-Busia,2012,0.87,0,0,Simulated Data
-Busia,2013,0.45,0,0,Simulated Data
-Busia,2014,0.57,0,0,Simulated Data
-Busia,2015,0.49,0,0,Simulated Data
-Busia,2016,0.62,0,0,Simulated Data
-Busia,2017,0.45,0,0,Simulated Data
-Busia,2018,0.86,0,0,Simulated Data
-Busia,2019,0.9,0,0,Simulated Data
-Busia,2020,0.97,0,0,Simulated Data
-Busia,2021,0.57,0,0,Simulated Data
-Busia,2022,1.19,0,0,Simulated Data
-Busia,2023,0.93,0,0,Simulated Data
-Busia,2024,1.12,0,2,Simulated Data
-Siaya,1991,-0.15,0,2,Simulated Data
-Siaya,1992,0.42,0,0,Simulated Data
-Siaya,1993,-0.18,0,1,Simulated Data
-Siaya,1994,0.08,0,2,Simulated Data
-Siaya,1995,0.01,0,0,Simulated Data
-Siaya,1996,0.01,0,2,Simulated Data
-Siaya,1997,-0.12,0,3,Simulated Data
-Siaya,1998,-0.05,0,0,Simulated Data
-Siaya,1999,0.23,0,0,Simulated Data
-Siaya,2000,0.31,0,1,Simulated Data
-Siaya,2001,0.01,0,0,Simulated Data
-Siaya,2002,0.15,0,0,Simulated Data
-Siaya,2003,0.62,0,3,Simulated Data
-Siaya,2004,0.77,0,0,Simulated Data
-Siaya,2005,0.32,0,0,Simulated Data
-Siaya,2006,0.12,0,2,Simulated Data
-Siaya,2007,0.72,0,1,Simulated Data
-Siaya,2008,0.29,0,2,Simulated Data
-Siaya,2009,0.34,0,0,Simulated Data
-Siaya,2010,0.87,0,1,Simulated Data
-Siaya,2011,0.8,0,0,Simulated Data
-Siaya,2012,0.51,0,0,Simulated Data
-Siaya,2013,1.0,0,0,Simulated Data
-Siaya,2014,0.46,0,2,Simulated Data
-Siaya,2015,0.69,0,2,Simulated Data
-Siaya,2016,0.47,0,0,Simulated Data
-Siaya,2017,0.86,0,2,Simulated Data
-Siaya,2018,0.73,0,0,Simulated Data
-Siaya,2019,0.46,0,0,Simulated Data
-Siaya,2020,0.88,0,2,Simulated Data
-Siaya,2021,0.91,0,0,Simulated Data
-Siaya,2022,0.56,0,0,Simulated Data
-Siaya,2023,1.23,0,0,Simulated Data
-Siaya,2024,0.95,0,0,Simulated Data
-Kisii,1991,0.18,0,1,Simulated Data
-Kisii,1992,-0.15,0,0,Simulated Data
-Kisii,1993,0.3,0,2,Simulated Data
-Kisii,1994,-0.21,0,0,Simulated Data
-Kisii,1995,0.26,0,3,Simulated Data
-Kisii,1996,0.06,0,0,Simulated Data
-Kisii,1997,0.44,0,2,Simulated Data
-Kisii,1998,0.0,0,0,Simulated Data
-Kisii,1999,0.61,0,3,Simulated Data
-Kisii,2000,0.08,0,1,Simulated Data
-Kisii,2001,0.15,0,3,Simulated Data
-Kisii,2002,0.64,0,0,Simulated Data
-Kisii,2003,0.19,0,0,Simulated Data
-Kisii,2004,0.56,0,1,Simulated Data
-Kisii,2005,0.81,0,0,Simulated Data
-Kisii,2006,0.11,0,0,Simulated Data
-Kisii,2007,0.35,0,3,Simulated Data
-Kisii,2008,0.26,0,3,Simulated Data
-Kisii,2009,0.19,0,0,Simulated Data
-Kisii,2010,0.65,0,3,Simulated Data
-Kisii,2011,0.56,0,0,Simulated Data
-Kisii,2012,0.61,0,2,Simulated Data
-Kisii,2013,0.86,0,2,Simulated Data
-Kisii,2014,0.94,0,0,Simulated Data
-Kisii,2015,0.33,0,1,Simulated Data
-Kisii,2016,0.68,0,2,Simulated Data
-Kisii,2017,1.1,0,0,Simulated Data
-Kisii,2018,0.96,0,0,Simulated Data
-Kisii,2019,0.59,0,0,Simulated Data
-Kisii,2020,1.13,0,1,Simulated Data
-Kisii,2021,0.93,0,0,Simulated Data
-Kisii,2022,0.77,0,0,Simulated Data
-Kisii,2023,0.69,0,0,Simulated Data
-Kisii,2024,1.31,0,1,Simulated Data
-Nyamira,1991,0.13,0,2,Simulated Data
-Nyamira,1992,0.08,0,2,Simulated Data
-Nyamira,1993,-0.02,0,0,Simulated Data
-Nyamira,1994,0.35,0,0,Simulated Data
-Nyamira,1995,0.18,0,0,Simulated Data
-Nyamira,1996,0.53,0,0,Simulated Data
-Nyamira,1997,0.26,0,0,Simulated Data
-Nyamira,1998,0.34,0,0,Simulated Data
-Nyamira,1999,-0.02,0,0,Simulated Data
-Nyamira,2000,0.62,0,3,Simulated Data
-Nyamira,2001,0.11,0,0,Simulated Data
-Nyamira,2002,0.21,0,0,Simulated Data
-Nyamira,2003,0.51,0,0,Simulated Data
-Nyamira,2004,0.48,0,0,Simulated Data
-Nyamira,2005,0.31,0,2,Simulated Data
-Nyamira,2006,0.43,0,0,Simulated Data
-Nyamira,2007,0.72,0,0,Simulated Data
-Nyamira,2008,0.18,0,0,Simulated Data
-Nyamira,2009,0.81,0,0,Simulated Data
-Nyamira,2010,0.82,0,0,Simulated Data
-Nyamira,2011,0.57,0,3,Simulated Data
-Nyamira,2012,0.32,0,1,Simulated Data
-Nyamira,2013,0.69,0,0,Simulated Data
-Nyamira,2014,0.62,0,1,Simulated Data
-Nyamira,2015,1.1,0,1,Simulated Data
-Nyamira,2016,0.4,0,0,Simulated Data
-Nyamira,2017,0.87,0,1,Simulated Data
-Nyamira,2018,0.47,0,0,Simulated Data
-Nyamira,2019,0.76,0,2,Simulated Data
-Nyamira,2020,0.96,0,0,Simulated Data
-Nyamira,2021,0.58,0,0,Simulated Data
-Nyamira,2022,1.07,0,0,Simulated Data
-Nyamira,2023,0.88,0,0,Simulated Data
-Nyamira,2024,1.25,0,0,Simulated Data
-Migori,1991,-0.27,0,0,Simulated Data
-Migori,1992,-0.18,0,1,Simulated Data
-Migori,1993,0.43,0,2,Simulated Data
-Migori,1994,0.44,0,1,Simulated Data
-Migori,1995,0.22,0,2,Simulated Data
-Migori,1996,0.18,0,0,Simulated Data
-Migori,1997,0.37,0,0,Simulated Data
-Migori,1998,0.48,0,2,Simulated Data
-Migori,1999,0.19,0,2,Simulated Data
-Migori,2000,0.07,0,0,Simulated Data
-Migori,2001,0.31,0,0,Simulated Data
-Migori,2002,0.19,0,0,Simulated Data
-Migori,2003,-0.03,0,3,Simulated Data
-Migori,2004,0.31,0,0,Simulated Data
-Migori,2005,0.56,0,3,Simulated Data
-Migori,2006,0.37,0,0,Simulated Data
-Migori,2007,0.87,0,1,Simulated Data
-Migori,2008,0.64,0,0,Simulated Data
-Migori,2009,0.89,0,1,Simulated Data
-Migori,2010,0.35,0,0,Simulated Data
-Migori,2011,0.53,0,0,Simulated Data
-Migori,2012,0.56,0,2,Simulated Data
-Migori,2013,0.33,0,0,Simulated Data
-Migori,2014,0.3,0,1,Simulated Data
-Migori,2015,0.45,0,0,Simulated Data
-Migori,2016,1.02,0,0,Simulated Data
-Migori,2017,0.57,0,3,Simulated Data
-Migori,2018,0.75,0,0,Simulated Data
-Migori,2019,0.9,0,0,Simulated Data
-Migori,2020,0.94,0,2,Simulated Data
-Migori,2021,0.75,0,1,Simulated Data
-Migori,2022,0.85,0,0,Simulated Data
-Migori,2023,0.78,0,0,Simulated Data
-Migori,2024,1.31,0,0,Simulated Data
-Homa Bay,1991,-0.36,0,2,Simulated Data
-Homa Bay,1992,0.27,0,0,Simulated Data
-Homa Bay,1993,0.31,0,0,Simulated Data
-Homa Bay,1994,0.05,0,2,Simulated Data
-Homa Bay,1995,-0.21,0,2,Simulated Data
-Homa Bay,1996,-0.21,0,0,Simulated Data
-Homa Bay,1997,0.05,0,0,Simulated Data
-Homa Bay,1998,-0.06,0,2,Simulated Data
-Homa Bay,1999,0.45,0,0,Simulated Data
-Homa Bay,2000,0.08,0,0,Simulated Data
-Homa Bay,2001,0.44,0,0,Simulated Data
-Homa Bay,2002,0.24,0,0,Simulated Data
-Homa Bay,2003,0.47,0,2,Simulated Data
-Homa Bay,2004,0.71,0,0,Simulated Data
-Homa Bay,2005,0.35,0,1,Simulated Data
-Homa Bay,2006,0.71,0,2,Simulated Data
-Homa Bay,2007,0.4,0,1,Simulated Data
-Homa Bay,2008,0.4,0,0,Simulated Data
-Homa Bay,2009,0.2,0,0,Simulated Data
-Homa Bay,2010,0.96,0,2,Simulated Data
-Homa Bay,2011,0.73,0,2,Simulated Data
-Homa Bay,2012,0.46,0,1,Simulated Data
-Homa Bay,2013,0.59,0,0,Simulated Data
-Homa Bay,2014,0.74,0,0,Simulated Data
-Homa Bay,2015,1.07,0,2,Simulated Data
-Homa Bay,2016,0.79,0,0,Simulated Data
-Homa Bay,2017,1.03,0,2,Simulated Data
-Homa Bay,2018,1.2,0,0,Simulated Data
-Homa Bay,2019,1.05,0,2,Simulated Data
-Homa Bay,2020,0.55,0,3,Simulated Data
-Homa Bay,2021,1.04,0,0,Simulated Data
-Homa Bay,2022,1.07,0,1,Simulated Data
-Homa Bay,2023,1.11,0,0,Simulated Data
-Homa Bay,2024,0.81,0,0,Simulated Data
-Kericho,1991,0.15,0,1,Simulated Data
-Kericho,1992,0.23,0,0,Simulated Data
-Kericho,1993,-0.24,0,2,Simulated Data
-Kericho,1994,-0.27,0,0,Simulated Data
-Kericho,1995,0.1,0,0,Simulated Data
-Kericho,1996,0.12,0,0,Simulated Data
-Kericho,1997,-0.01,0,1,Simulated Data
-Kericho,1998,0.15,0,0,Simulated Data
-Kericho,1999,0.08,0,3,Simulated Data
-Kericho,2000,-0.09,0,0,Simulated Data
-Kericho,2001,0.35,0,0,Simulated Data
-Kericho,2002,0.0,0,0,Simulated Data
-Kericho,2003,0.69,0,0,Simulated Data
-Kericho,2004,0.56,0,0,Simulated Data
-Kericho,2005,0.58,0,2,Simulated Data
-Kericho,2006,0.59,0,3,Simulated Data
-Kericho,2007,0.32,0,0,Simulated Data
-Kericho,2008,0.28,0,1,Simulated Data
-Kericho,2009,0.61,0,1,Simulated Data
-Kericho,2010,0.43,0,0,Simulated Data
-Kericho,2011,0.47,0,0,Simulated Data
-Kericho,2012,0.9,0,1,Simulated Data
-Kericho,2013,0.34,0,1,Simulated Data
-Kericho,2014,0.91,0,0,Simulated Data
-Kericho,2015,0.89,0,0,Simulated Data
-Kericho,2016,0.36,0,2,Simulated Data
-Kericho,2017,1.15,0,0,Simulated Data
-Kericho,2018,0.48,0,0,Simulated Data
-Kericho,2019,0.93,0,0,Simulated Data
-Kericho,2020,0.55,0,0,Simulated Data
-Kericho,2021,0.64,0,0,Simulated Data
-Kericho,2022,0.96,0,3,Simulated Data
-Kericho,2023,1.03,0,0,Simulated Data
-Kericho,2024,0.83,0,1,Simulated Data
-Bomet,1991,0.15,0,0,Simulated Data
-Bomet,1992,0.14,0,0,Simulated Data
-Bomet,1993,0.21,0,2,Simulated Data
-Bomet,1994,0.39,0,1,Simulated Data
-Bomet,1995,0.22,0,0,Simulated Data
-Bomet,1996,-0.02,0,1,Simulated Data
-Bomet,1997,0.46,0,0,Simulated Data
-Bomet,1998,0.58,0,0,Simulated Data
-Bomet,1999,0.31,0,0,Simulated Data
-Bomet,2000,-0.08,0,1,Simulated Data
-Bomet,2001,0.34,0,1,Simulated Data
-Bomet,2002,0.59,0,0,Simulated Data
-Bomet,2003,0.51,0,0,Simulated Data
-Bomet,2004,0.48,0,2,Simulated Data
-Bomet,2005,0.49,0,0,Simulated Data
-Bomet,2006,0.56,0,0,Simulated Data
-Bomet,2007,0.64,0,0,Simulated Data
-Bomet,2008,0.84,0,0,Simulated Data
-Bomet,2009,0.19,0,1,Simulated Data
-Bomet,2010,0.44,0,0,Simulated Data
-Bomet,2011,0.81,0,0,Simulated Data
-Bomet,2012,0.98,0,0,Simulated Data
-Bomet,2013,0.73,0,0,Simulated Data
-Bomet,2014,0.34,0,0,Simulated Data
-Bomet,2015,0.45,0,3,Simulated Data
-Bomet,2016,0.71,0,0,Simulated Data
-Bomet,2017,0.47,0,0,Simulated Data
-Bomet,2018,0.72,0,0,Simulated Data
-Bomet,2019,0.96,0,2,Simulated Data
-Bomet,2020,1.22,0,3,Simulated Data
-Bomet,2021,0.62,0,1,Simulated Data
-Bomet,2022,1.0,0,0,Simulated Data
-Bomet,2023,0.66,0,0,Simulated Data
-Bomet,2024,1.18,0,0,Simulated Data
-Narok,1991,0.04,0,2,Simulated Data
-Narok,1992,0.09,0,2,Simulated Data
-Narok,1993,0.09,0,0,Simulated Data
-Narok,1994,0.42,0,0,Simulated Data
-Narok,1995,-0.17,0,0,Simulated Data
-Narok,1996,0.23,0,3,Simulated Data
-Narok,1997,0.38,0,2,Simulated Data
-Narok,1998,-0.13,0,1,Simulated Data
-Narok,1999,0.5,0,0,Simulated Data
-Narok,2000,0.62,0,2,Simulated Data
-Narok,2001,0.68,0,1,Simulated Data
-Narok,2002,-0.04,0,0,Simulated Data
-Narok,2003,0.42,0,1,Simulated Data
-Narok,2004,0.38,0,3,Simulated Data
-Narok,2005,0.04,0,0,Simulated Data
-Narok,2006,0.7,0,0,Simulated Data
-Narok,2007,0.43,0,0,Simulated Data
-Narok,2008,0.15,0,2,Simulated Data
-Narok,2009,0.45,0,0,Simulated Data
-Narok,2010,0.21,0,2,Simulated Data
-Narok,2011,0.67,0,2,Simulated Data
-Narok,2012,0.67,0,1,Simulated Data
-Narok,2013,0.89,0,0,Simulated Data
-Narok,2014,1.06,0,1,Simulated Data
-Narok,2015,0.5,0,0,Simulated Data
-Narok,2016,0.5,0,1,Simulated Data
-Narok,2017,0.99,0,0,Simulated Data
-Narok,2018,0.94,0,0,Simulated Data
-Narok,2019,0.57,0,0,Simulated Data
-Narok,2020,0.78,0,0,Simulated Data
-Narok,2021,0.91,0,0,Simulated Data
-Narok,2022,1.2,0,0,Simulated Data
-Narok,2023,0.61,0,0,Simulated Data
-Narok,2024,1.04,0,0,Simulated Data
-Kajiado,1991,0.37,0,0,Simulated Data
-Kajiado,1992,-0.33,0,0,Simulated Data
-Kajiado,1993,0.18,0,3,Simulated Data
-Kajiado,1994,0.36,0,0,Simulated Data
-Kajiado,1995,-0.14,0,0,Simulated Data
-Kajiado,1996,0.16,0,0,Simulated Data
-Kajiado,1997,0.57,0,3,Simulated Data
-Kajiado,1998,-0.08,0,0,Simulated Data
-Kajiado,1999,-0.1,0,1,Simulated Data
-Kajiado,2000,0.38,0,0,Simulated Data
-Kajiado,2001,0.23,0,0,Simulated Data
-Kajiado,2002,0.07,0,3,Simulated Data
-Kajiado,2003,0.44,0,0,Simulated Data
-Kajiado,2004,0.3,0,0,Simulated Data
-Kajiado,2005,0.16,0,1,Simulated Data
-Kajiado,2006,0.49,0,3,Simulated Data
-Kajiado,2007,0.14,0,0,Simulated Data
-Kajiado,2008,0.74,0,0,Simulated Data
-Kajiado,2009,0.84,0,0,Simulated Data
-Kajiado,2010,0.49,0,3,Simulated Data
-Kajiado,2011,0.34,0,0,Simulated Data
-Kajiado,2012,0.81,0,0,Simulated Data
-Kajiado,2013,0.93,0,2,Simulated Data
-Kajiado,2014,0.34,0,0,Simulated Data
-Kajiado,2015,0.65,0,0,Simulated Data
-Kajiado,2016,0.77,0,0,Simulated Data
-Kajiado,2017,0.92,0,0,Simulated Data
-Kajiado,2018,0.54,0,2,Simulated Data
-Kajiado,2019,1.17,0,0,Simulated Data
-Kajiado,2020,0.75,0,0,Simulated Data
-Kajiado,2021,0.83,0,1,Simulated Data
-Kajiado,2022,0.99,0,0,Simulated Data
-Kajiado,2023,1.0,0,0,Simulated Data
-Kajiado,2024,1.18,0,0,Simulated Data
-Machakos,1991,0.22,0,0,Simulated Data
-Machakos,1992,0.19,0,2,Simulated Data
-Machakos,1993,0.25,0,0,Simulated Data
-Machakos,1994,-0.2,0,0,Simulated Data
-Machakos,1995,0.2,0,0,Simulated Data
-Machakos,1996,-0.24,0,0,Simulated Data
-Machakos,1997,0.37,0,1,Simulated Data
-Machakos,1998,0.56,0,0,Simulated Data
-Machakos,1999,-0.09,0,0,Simulated Data
-Machakos,2000,0.2,0,2,Simulated Data
-Machakos,2001,0.06,0,2,Simulated Data
-Machakos,2002,0.39,0,1,Simulated Data
-Machakos,2003,0.61,0,1,Simulated Data
-Machakos,2004,0.72,0,0,Simulated Data
-Machakos,2005,0.24,0,0,Simulated Data
-Machakos,2006,0.3,0,1,Simulated Data
-Machakos,2007,0.42,0,0,Simulated Data
-Machakos,2008,0.18,0,0,Simulated Data
-Machakos,2009,0.31,0,0,Simulated Data
-Machakos,2010,0.82,0,1,Simulated Data
-Machakos,2011,0.74,0,3,Simulated Data
-Machakos,2012,0.25,0,2,Simulated Data
-Machakos,2013,0.63,0,1,Simulated Data
-Machakos,2014,0.83,0,3,Simulated Data
-Machakos,2015,0.9,0,2,Simulated Data
-Machakos,2016,0.39,0,2,Simulated Data
-Machakos,2017,0.58,0,0,Simulated Data
-Machakos,2018,1.1,0,1,Simulated Data
-Machakos,2019,0.63,0,2,Simulated Data
-Machakos,2020,0.72,0,0,Simulated Data
-Machakos,2021,1.28,0,3,Simulated Data
-Machakos,2022,0.77,0,2,Simulated Data
-Machakos,2023,1.11,0,0,Simulated Data
-Machakos,2024,0.69,0,1,Simulated Data
-Makueni,1991,0.06,0,0,Simulated Data
-Makueni,1992,-0.12,0,1,Simulated Data
-Makueni,1993,0.26,0,0,Simulated Data
-Makueni,1994,-0.09,0,2,Simulated Data
-Makueni,1995,0.45,0,2,Simulated Data
-Makueni,1996,0.47,2,0,Simulated Data
-Makueni,1997,0.55,0,0,Simulated Data
-Makueni,1998,-0.14,0,0,Simulated Data
-Makueni,1999,0.04,0,2,Simulated Data
-Makueni,2000,0.57,0,2,Simulated Data
-Makueni,2001,0.59,3,0,Simulated Data
-Makueni,2002,0.48,3,3,Simulated Data
-Makueni,2003,0.23,0,1,Simulated Data
-Makueni,2004,0.4,0,0,Simulated Data
-Makueni,2005,0.66,4,0,Simulated Data
-Makueni,2006,0.81,0,1,Simulated Data
-Makueni,2007,0.68,4,5,Simulated Data
-Makueni,2008,0.36,2,0,Simulated Data
-Makueni,2009,0.7,3,3,Simulated Data
-Makueni,2010,0.37,2,0,Simulated Data
-Makueni,2011,0.24,0,0,Simulated Data
-Makueni,2012,0.91,1,0,Simulated Data
-Makueni,2013,0.93,3,0,Simulated Data
-Makueni,2014,0.87,2,2,Simulated Data
-Makueni,2015,0.69,4,4,Simulated Data
-Makueni,2016,0.92,0,2,Simulated Data
-Makueni,2017,0.92,5,2,Simulated Data
-Makueni,2018,1.11,6,1,Simulated Data
-Makueni,2019,0.77,5,0,Simulated Data
-Makueni,2020,1.24,7,5,Simulated Data
-Makueni,2021,0.72,0,3,Simulated Data
-Makueni,2022,0.77,4,2,Simulated Data
-Makueni,2023,0.67,0,0,Simulated Data
-Makueni,2024,1.37,5,2,Simulated Data
-Kitui,1991,-0.12,14,8,Simulated Data
-Kitui,1992,0.33,17,10,Simulated Data
-Kitui,1993,-0.23,17,9,Simulated Data
-Kitui,1994,-0.25,14,9,Simulated Data
-Kitui,1995,0.05,14,10,Simulated Data
-Kitui,1996,-0.09,17,11,Simulated Data
-Kitui,1997,0.12,15,8,Simulated Data
-Kitui,1998,0.41,18,10,Simulated Data
-Kitui,1999,0.32,22,13,Simulated Data
-Kitui,2000,0.61,18,8,Simulated Data
-Kitui,2001,0.06,14,7,Simulated Data
-Kitui,2002,-0.07,18,13,Simulated Data
-Kitui,2003,0.55,15,7,Simulated Data
-Kitui,2004,0.04,17,13,Simulated Data
-Kitui,2005,0.36,13,8,Simulated Data
-Kitui,2006,0.33,16,10,Simulated Data
-Kitui,2007,0.65,16,7,Simulated Data
-Kitui,2008,0.91,19,9,Simulated Data
-Kitui,2009,0.29,12,7,Simulated Data
-Kitui,2010,0.81,19,11,Simulated Data
-Kitui,2011,0.74,20,14,Simulated Data
-Kitui,2012,0.92,17,12,Simulated Data
-Kitui,2013,0.63,24,14,Simulated Data
-Kitui,2014,1.08,26,14,Simulated Data
-Kitui,2015,0.75,25,17,Simulated Data
-Kitui,2016,0.43,20,11,Simulated Data
-Kitui,2017,0.39,17,9,Simulated Data
-Kitui,2018,1.07,21,15,Simulated Data
-Kitui,2019,0.44,16,8,Simulated Data
-Kitui,2020,0.66,15,7,Simulated Data
-Kitui,2021,0.94,20,12,Simulated Data
-Kitui,2022,0.83,25,17,Simulated Data
-Kitui,2023,0.95,20,10,Simulated Data
-Kitui,2024,1.35,21,11,Simulated Data
+Nairobi,1992,0.12,0,0,Simulated Data
+Nairobi,1993,-0.27,0,1,Simulated Data
+Nairobi,1994,0.29,0,3,Simulated Data
+Nairobi,1995,0.43,0,0,Simulated Data
+Nairobi,1996,-0.05,0,0,Simulated Data
+Nairobi,1997,0.19,0,1,Simulated Data
+Nairobi,1998,-0.01,0,0,Simulated Data
+Nairobi,1999,0.28,0,0,Simulated Data
+Nairobi,2000,0.37,0,0,Simulated Data
+Nairobi,2001,0.49,0,0,Simulated Data
+Nairobi,2002,0.8,0,2,Simulated Data
+Nairobi,2003,0.32,0,1,Simulated Data
+Nairobi,2004,0.47,0,0,Simulated Data
+Nairobi,2005,0.19,0,0,Simulated Data
+Nairobi,2006,0.73,0,0,Simulated Data
+Nairobi,2007,0.68,0,3,Simulated Data
+Nairobi,2008,0.9,0,2,Simulated Data
+Nairobi,2009,0.8,0,0,Simulated Data
+Nairobi,2010,0.52,0,0,Simulated Data
+Nairobi,2011,0.71,0,2,Simulated Data
+Nairobi,2012,0.73,0,0,Simulated Data
+Nairobi,2013,0.59,0,0,Simulated Data
+Nairobi,2014,1.31,0,0,Simulated Data
+Nairobi,2015,0.56,0,1,Simulated Data
+Nairobi,2016,1.18,0,0,Simulated Data
+Nairobi,2017,0.93,0,2,Simulated Data
+Nairobi,2018,1.18,0,0,Simulated Data
+Nairobi,2019,0.97,0,1,Simulated Data
+Nairobi,2020,1.27,0,0,Simulated Data
+Nairobi,2021,0.9,0,2,Simulated Data
+Nairobi,2022,1.29,0,0,Simulated Data
+Nairobi,2023,1.3,0,0,Simulated Data
+Nairobi,2024,1.01,0,1,Simulated Data
+Nairobi,2025,1.21,0,2,Simulated Data
+Mombasa,1991,-0.2,20,14,Simulated Data
+Mombasa,1992,-0.18,17,9,Simulated Data
+Mombasa,1993,-0.19,25,17,Simulated Data
+Mombasa,1994,0.23,28,19,Simulated Data
+Mombasa,1995,-0.09,26,16,Simulated Data
+Mombasa,1996,0.45,30,17,Simulated Data
+Mombasa,1997,-0.07,19,11,Simulated Data
+Mombasa,1998,0.53,30,15,Simulated Data
+Mombasa,1999,0.33,24,13,Simulated Data
+Mombasa,2000,0.06,21,15,Simulated Data
+Mombasa,2001,0.26,25,16,Simulated Data
+Mombasa,2002,0.33,30,21,Simulated Data
+Mombasa,2003,0.28,25,14,Simulated Data
+Mombasa,2004,0.35,21,13,Simulated Data
+Mombasa,2005,0.56,22,12,Simulated Data
+Mombasa,2006,0.93,27,14,Simulated Data
+Mombasa,2007,0.63,32,18,Simulated Data
+Mombasa,2008,0.82,32,18,Simulated Data
+Mombasa,2009,0.9,28,18,Simulated Data
+Mombasa,2010,0.87,30,16,Simulated Data
+Mombasa,2011,1.07,29,16,Simulated Data
+Mombasa,2012,0.47,27,17,Simulated Data
+Mombasa,2013,0.49,26,14,Simulated Data
+Mombasa,2014,1.04,27,17,Simulated Data
+Mombasa,2015,0.87,34,18,Simulated Data
+Mombasa,2016,0.87,25,18,Simulated Data
+Mombasa,2017,1.34,31,20,Simulated Data
+Mombasa,2018,1.33,34,21,Simulated Data
+Mombasa,2019,0.91,26,18,Simulated Data
+Mombasa,2020,1.48,36,21,Simulated Data
+Mombasa,2021,1.08,33,22,Simulated Data
+Mombasa,2022,1.55,38,24,Simulated Data
+Mombasa,2023,0.95,27,19,Simulated Data
+Mombasa,2024,1.41,29,15,Simulated Data
+Mombasa,2025,1.49,29,15,Simulated Data
+Kisumu,1991,0.04,0,1,Simulated Data
+Kisumu,1992,-0.18,0,0,Simulated Data
+Kisumu,1993,-0.06,0,1,Simulated Data
+Kisumu,1994,0.4,0,0,Simulated Data
+Kisumu,1995,-0.17,0,0,Simulated Data
+Kisumu,1996,0.0,0,0,Simulated Data
+Kisumu,1997,0.55,0,2,Simulated Data
+Kisumu,1998,0.28,0,0,Simulated Data
+Kisumu,1999,0.08,0,0,Simulated Data
+Kisumu,2000,-0.02,0,0,Simulated Data
+Kisumu,2001,0.75,0,2,Simulated Data
+Kisumu,2002,0.34,0,3,Simulated Data
+Kisumu,2003,0.42,0,3,Simulated Data
+Kisumu,2004,0.8,0,0,Simulated Data
+Kisumu,2005,0.84,0,0,Simulated Data
+Kisumu,2006,0.65,0,1,Simulated Data
+Kisumu,2007,0.7,0,1,Simulated Data
+Kisumu,2008,1.07,0,0,Simulated Data
+Kisumu,2009,1.02,0,1,Simulated Data
+Kisumu,2010,0.92,0,0,Simulated Data
+Kisumu,2011,1.05,0,2,Simulated Data
+Kisumu,2012,1.17,0,0,Simulated Data
+Kisumu,2013,1.12,0,1,Simulated Data
+Kisumu,2014,1.16,1,0,Simulated Data
+Kisumu,2015,0.86,0,0,Simulated Data
+Kisumu,2016,0.63,0,0,Simulated Data
+Kisumu,2017,0.87,0,0,Simulated Data
+Kisumu,2018,0.71,0,0,Simulated Data
+Kisumu,2019,0.82,0,2,Simulated Data
+Kisumu,2020,0.93,0,0,Simulated Data
+Kisumu,2021,0.84,0,0,Simulated Data
+Kisumu,2022,1.35,1,3,Simulated Data
+Kisumu,2023,1.29,0,2,Simulated Data
+Kisumu,2024,1.14,0,0,Simulated Data
+Kisumu,2025,0.98,0,2,Simulated Data
+Nakuru,1991,0.16,0,0,Simulated Data
+Nakuru,1992,-0.23,0,0,Simulated Data
+Nakuru,1993,0.25,0,0,Simulated Data
+Nakuru,1994,0.48,0,0,Simulated Data
+Nakuru,1995,0.25,0,0,Simulated Data
+Nakuru,1996,0.08,0,0,Simulated Data
+Nakuru,1997,-0.07,0,0,Simulated Data
+Nakuru,1998,0.56,0,0,Simulated Data
+Nakuru,1999,0.0,0,0,Simulated Data
+Nakuru,2000,0.1,0,0,Simulated Data
+Nakuru,2001,0.49,0,0,Simulated Data
+Nakuru,2002,0.34,0,0,Simulated Data
+Nakuru,2003,0.77,0,0,Simulated Data
+Nakuru,2004,0.18,0,0,Simulated Data
+Nakuru,2005,0.63,0,0,Simulated Data
+Nakuru,2006,0.51,0,0,Simulated Data
+Nakuru,2007,0.68,0,0,Simulated Data
+Nakuru,2008,1.05,0,0,Simulated Data
+Nakuru,2009,0.38,0,0,Simulated Data
+Nakuru,2010,0.44,0,0,Simulated Data
+Nakuru,2011,0.66,0,0,Simulated Data
+Nakuru,2012,1.09,0,0,Simulated Data
+Nakuru,2013,1.04,0,2,Simulated Data
+Nakuru,2014,1.11,0,0,Simulated Data
+Nakuru,2015,0.7,0,2,Simulated Data
+Nakuru,2016,1.39,0,0,Simulated Data
+Nakuru,2017,1.26,0,3,Simulated Data
+Nakuru,2018,1.37,0,2,Simulated Data
+Nakuru,2019,1.32,0,2,Simulated Data
+Nakuru,2020,1.16,0,0,Simulated Data
+Nakuru,2021,1.52,0,0,Simulated Data
+Nakuru,2022,1.56,0,0,Simulated Data
+Nakuru,2023,1.64,0,0,Simulated Data
+Nakuru,2024,1.43,0,0,Simulated Data
+Nakuru,2025,1.22,0,2,Simulated Data
+Eldoret,1991,0.23,0,0,Simulated Data
+Eldoret,1992,0.04,0,0,Simulated Data
+Eldoret,1993,0.03,0,0,Simulated Data
+Eldoret,1994,-0.19,0,2,Simulated Data
+Eldoret,1995,0.25,0,0,Simulated Data
+Eldoret,1996,0.36,0,2,Simulated Data
+Eldoret,1997,0.4,0,0,Simulated Data
+Eldoret,1998,0.67,0,0,Simulated Data
+Eldoret,1999,0.57,0,3,Simulated Data
+Eldoret,2000,0.56,0,0,Simulated Data
+Eldoret,2001,0.62,0,0,Simulated Data
+Eldoret,2002,0.77,0,0,Simulated Data
+Eldoret,2003,0.09,0,0,Simulated Data
+Eldoret,2004,0.22,0,1,Simulated Data
+Eldoret,2005,0.76,0,3,Simulated Data
+Eldoret,2006,0.5,0,2,Simulated Data
+Eldoret,2007,0.42,0,0,Simulated Data
+Eldoret,2008,1.06,0,2,Simulated Data
+Eldoret,2009,0.74,0,0,Simulated Data
+Eldoret,2010,0.8,0,0,Simulated Data
+Eldoret,2011,0.9,0,0,Simulated Data
+Eldoret,2012,0.94,0,2,Simulated Data
+Eldoret,2013,0.52,0,3,Simulated Data
+Eldoret,2014,1.23,0,1,Simulated Data
+Eldoret,2015,0.78,0,0,Simulated Data
+Eldoret,2016,0.88,0,0,Simulated Data
+Eldoret,2017,1.42,0,1,Simulated Data
+Eldoret,2018,1.11,0,2,Simulated Data
+Eldoret,2019,1.27,0,2,Simulated Data
+Eldoret,2020,1.42,0,1,Simulated Data
+Eldoret,2021,1.29,0,3,Simulated Data
+Eldoret,2022,1.53,0,0,Simulated Data
+Eldoret,2023,1.18,0,3,Simulated Data
+Eldoret,2024,1.04,0,0,Simulated Data
+Eldoret,2025,1.74,0,2,Simulated Data
+Garissa,1991,-0.03,56,32,Simulated Data
+Garissa,1992,-0.31,58,37,Simulated Data
+Garissa,1993,0.48,66,40,Simulated Data
+Garissa,1994,0.34,64,40,Simulated Data
+Garissa,1995,-0.04,56,31,Simulated Data
+Garissa,1996,0.56,62,36,Simulated Data
+Garissa,1997,0.38,61,36,Simulated Data
+Garissa,1998,-0.03,58,35,Simulated Data
+Garissa,1999,0.54,61,39,Simulated Data
+Garissa,2000,0.4,61,39,Simulated Data
+Garissa,2001,0.32,56,31,Simulated Data
+Garissa,2002,0.64,63,39,Simulated Data
+Garissa,2003,0.25,55,30,Simulated Data
+Garissa,2004,0.4,61,36,Simulated Data
+Garissa,2005,0.51,65,38,Simulated Data
+Garissa,2006,0.61,65,38,Simulated Data
+Garissa,2007,0.74,66,42,Simulated Data
+Garissa,2008,0.4,64,38,Simulated Data
+Garissa,2009,0.53,61,39,Simulated Data
+Garissa,2010,0.75,61,37,Simulated Data
+Garissa,2011,0.59,57,32,Simulated Data
+Garissa,2012,0.54,58,33,Simulated Data
+Garissa,2013,0.99,62,36,Simulated Data
+Garissa,2014,1.24,66,41,Simulated Data
+Garissa,2015,0.7,59,33,Simulated Data
+Garissa,2016,0.74,61,35,Simulated Data
+Garissa,2017,0.71,59,35,Simulated Data
+Garissa,2018,0.85,62,37,Simulated Data
+Garissa,2019,1.27,62,39,Simulated Data
+Garissa,2020,1.26,63,40,Simulated Data
+Garissa,2021,1.54,65,38,Simulated Data
+Garissa,2022,1.48,71,41,Simulated Data
+Garissa,2023,1.05,64,38,Simulated Data
+Garissa,2024,1.41,67,40,Simulated Data
+Garissa,2025,1.56,65,38,Simulated Data
+Turkana,1991,0.17,79,47,Simulated Data
+Turkana,1992,0.07,70,42,Simulated Data
+Turkana,1993,0.11,72,42,Simulated Data
+Turkana,1994,0.02,69,40,Simulated Data
+Turkana,1995,-0.07,71,40,Simulated Data
+Turkana,1996,0.51,79,48,Simulated Data
+Turkana,1997,0.47,77,44,Simulated Data
+Turkana,1998,0.31,77,48,Simulated Data
+Turkana,1999,0.27,72,42,Simulated Data
+Turkana,2000,0.25,77,47,Simulated Data
+Turkana,2001,0.28,81,49,Simulated Data
+Turkana,2002,0.23,71,41,Simulated Data
+Turkana,2003,0.28,72,41,Simulated Data
+Turkana,2004,0.35,73,46,Simulated Data
+Turkana,2005,0.22,76,45,Simulated Data
+Turkana,2006,0.99,78,46,Simulated Data
+Turkana,2007,1.02,85,53,Simulated Data
+Turkana,2008,0.49,74,45,Simulated Data
+Turkana,2009,1.06,83,50,Simulated Data
+Turkana,2010,0.58,81,47,Simulated Data
+Turkana,2011,0.66,78,47,Simulated Data
+Turkana,2012,0.63,75,46,Simulated Data
+Turkana,2013,0.71,80,46,Simulated Data
+Turkana,2014,0.9,81,46,Simulated Data
+Turkana,2015,0.83,77,44,Simulated Data
+Turkana,2016,1.39,83,52,Simulated Data
+Turkana,2017,0.84,82,51,Simulated Data
+Turkana,2018,1.16,83,49,Simulated Data
+Turkana,2019,1.0,86,54,Simulated Data
+Turkana,2020,1.53,82,51,Simulated Data
+Turkana,2021,1.55,83,47,Simulated Data
+Turkana,2022,1.43,86,54,Simulated Data
+Turkana,2023,0.99,84,49,Simulated Data
+Turkana,2024,1.05,79,49,Simulated Data
+Turkana,2025,1.49,86,51,Simulated Data
+Marsabit,1991,0.3,0,2,Simulated Data
+Marsabit,1992,-0.01,0,0,Simulated Data
+Marsabit,1993,-0.08,0,0,Simulated Data
+Marsabit,1994,-0.09,0,0,Simulated Data
+Marsabit,1995,0.19,0,1,Simulated Data
+Marsabit,1996,-0.11,0,1,Simulated Data
+Marsabit,1997,0.11,0,2,Simulated Data
+Marsabit,1998,0.38,0,2,Simulated Data
+Marsabit,1999,0.55,0,0,Simulated Data
+Marsabit,2000,0.16,0,0,Simulated Data
+Marsabit,2001,0.46,0,2,Simulated Data
+Marsabit,2002,0.31,0,0,Simulated Data
+Marsabit,2003,0.76,0,0,Simulated Data
+Marsabit,2004,0.76,0,0,Simulated Data
+Marsabit,2005,0.74,0,1,Simulated Data
+Marsabit,2006,0.76,0,0,Simulated Data
+Marsabit,2007,0.52,0,2,Simulated Data
+Marsabit,2008,0.75,0,0,Simulated Data
+Marsabit,2009,1.08,0,1,Simulated Data
+Marsabit,2010,0.76,0,0,Simulated Data
+Marsabit,2011,1.1,0,0,Simulated Data
+Marsabit,2012,1.0,0,1,Simulated Data
+Marsabit,2013,0.6,0,1,Simulated Data
+Marsabit,2014,0.86,0,3,Simulated Data
+Marsabit,2015,1.3,0,0,Simulated Data
+Marsabit,2016,1.39,0,0,Simulated Data
+Marsabit,2017,1.38,0,0,Simulated Data
+Marsabit,2018,1.15,0,0,Simulated Data
+Marsabit,2019,0.99,0,0,Simulated Data
+Marsabit,2020,1.03,0,0,Simulated Data
+Marsabit,2021,1.54,0,0,Simulated Data
+Marsabit,2022,1.43,0,0,Simulated Data
+Marsabit,2023,1.24,0,0,Simulated Data
+Marsabit,2024,1.32,0,2,Simulated Data
+Marsabit,2025,1.25,0,1,Simulated Data
+Mandera,1991,-0.39,69,39,Simulated Data
+Mandera,1992,0.41,70,41,Simulated Data
+Mandera,1993,-0.25,73,44,Simulated Data
+Mandera,1994,0.2,68,42,Simulated Data
+Mandera,1995,-0.07,74,43,Simulated Data
+Mandera,1996,-0.05,65,39,Simulated Data
+Mandera,1997,0.29,68,42,Simulated Data
+Mandera,1998,0.24,73,43,Simulated Data
+Mandera,1999,0.24,73,42,Simulated Data
+Mandera,2000,0.11,75,48,Simulated Data
+Mandera,2001,0.3,71,43,Simulated Data
+Mandera,2002,0.37,69,39,Simulated Data
+Mandera,2003,0.65,77,43,Simulated Data
+Mandera,2004,0.3,70,43,Simulated Data
+Mandera,2005,0.18,68,43,Simulated Data
+Mandera,2006,0.34,75,43,Simulated Data
+Mandera,2007,0.32,70,43,Simulated Data
+Mandera,2008,0.96,81,48,Simulated Data
+Mandera,2009,0.85,74,43,Simulated Data
+Mandera,2010,1.08,74,42,Simulated Data
+Mandera,2011,0.57,70,40,Simulated Data
+Mandera,2012,0.91,77,49,Simulated Data
+Mandera,2013,1.13,78,45,Simulated Data
+Mandera,2014,0.82,78,45,Simulated Data
+Mandera,2015,1.06,78,47,Simulated Data
+Mandera,2016,0.95,76,48,Simulated Data
+Mandera,2017,1.25,77,48,Simulated Data
+Mandera,2018,1.07,83,52,Simulated Data
+Mandera,2019,1.06,74,43,Simulated Data
+Mandera,2020,1.19,81,47,Simulated Data
+Mandera,2021,0.91,81,52,Simulated Data
+Mandera,2022,1.26,77,45,Simulated Data
+Mandera,2023,0.89,82,47,Simulated Data
+Mandera,2024,1.38,79,48,Simulated Data
+Mandera,2025,1.48,86,50,Simulated Data
+Wajir,1991,-0.39,52,34,Simulated Data
+Wajir,1992,0.34,63,38,Simulated Data
+Wajir,1993,0.21,58,37,Simulated Data
+Wajir,1994,0.06,59,36,Simulated Data
+Wajir,1995,-0.2,54,34,Simulated Data
+Wajir,1996,-0.13,59,34,Simulated Data
+Wajir,1997,0.15,58,34,Simulated Data
+Wajir,1998,0.46,61,37,Simulated Data
+Wajir,1999,0.3,63,40,Simulated Data
+Wajir,2000,0.55,61,34,Simulated Data
+Wajir,2001,0.21,62,35,Simulated Data
+Wajir,2002,0.44,64,37,Simulated Data
+Wajir,2003,0.7,61,34,Simulated Data
+Wajir,2004,0.7,65,40,Simulated Data
+Wajir,2005,0.51,61,39,Simulated Data
+Wajir,2006,0.84,68,39,Simulated Data
+Wajir,2007,0.71,63,35,Simulated Data
+Wajir,2008,1.01,64,41,Simulated Data
+Wajir,2009,0.68,61,37,Simulated Data
+Wajir,2010,1.06,70,44,Simulated Data
+Wajir,2011,0.93,69,43,Simulated Data
+Wajir,2012,0.64,64,37,Simulated Data
+Wajir,2013,1.27,74,42,Simulated Data
+Wajir,2014,1.08,72,41,Simulated Data
+Wajir,2015,1.01,71,40,Simulated Data
+Wajir,2016,1.16,66,42,Simulated Data
+Wajir,2017,1.42,75,45,Simulated Data
+Wajir,2018,1.37,74,43,Simulated Data
+Wajir,2019,1.38,66,40,Simulated Data
+Wajir,2020,0.94,63,35,Simulated Data
+Wajir,2021,1.36,68,42,Simulated Data
+Wajir,2022,0.89,64,39,Simulated Data
+Wajir,2023,1.51,69,42,Simulated Data
+Wajir,2024,1.63,73,42,Simulated Data
+Wajir,2025,0.98,71,40,Simulated Data
+Kwale,1991,0.3,20,15,Simulated Data
+Kwale,1992,0.28,25,14,Simulated Data
+Kwale,1993,0.29,19,11,Simulated Data
+Kwale,1994,0.22,23,17,Simulated Data
+Kwale,1995,0.37,20,12,Simulated Data
+Kwale,1996,0.39,18,8,Simulated Data
+Kwale,1997,0.12,16,8,Simulated Data
+Kwale,1998,0.07,14,6,Simulated Data
+Kwale,1999,0.71,23,13,Simulated Data
+Kwale,2000,0.5,19,14,Simulated Data
+Kwale,2001,0.63,19,11,Simulated Data
+Kwale,2002,0.74,28,17,Simulated Data
+Kwale,2003,0.57,19,14,Simulated Data
+Kwale,2004,0.31,25,16,Simulated Data
+Kwale,2005,0.65,23,12,Simulated Data
+Kwale,2006,0.34,18,9,Simulated Data
+Kwale,2007,0.86,23,11,Simulated Data
+Kwale,2008,1.06,30,21,Simulated Data
+Kwale,2009,1.12,23,13,Simulated Data
+Kwale,2010,0.97,27,14,Simulated Data
+Kwale,2011,1.05,23,12,Simulated Data
+Kwale,2012,0.87,25,15,Simulated Data
+Kwale,2013,0.55,26,14,Simulated Data
+Kwale,2014,0.62,26,18,Simulated Data
+Kwale,2015,1.25,31,20,Simulated Data
+Kwale,2016,1.04,22,13,Simulated Data
+Kwale,2017,0.94,23,15,Simulated Data
+Kwale,2018,1.08,22,12,Simulated Data
+Kwale,2019,1.27,24,17,Simulated Data
+Kwale,2020,1.16,27,17,Simulated Data
+Kwale,2021,1.46,28,18,Simulated Data
+Kwale,2022,1.29,26,18,Simulated Data
+Kwale,2023,1.52,31,21,Simulated Data
+Kwale,2024,1.61,33,22,Simulated Data
+Kwale,2025,1.52,32,20,Simulated Data
+Kilifi,1991,0.2,13,10,Simulated Data
+Kilifi,1992,0.34,12,9,Simulated Data
+Kilifi,1993,-0.22,11,8,Simulated Data
+Kilifi,1994,-0.15,16,12,Simulated Data
+Kilifi,1995,0.17,11,5,Simulated Data
+Kilifi,1996,0.29,22,14,Simulated Data
+Kilifi,1997,0.05,16,10,Simulated Data
+Kilifi,1998,0.5,14,10,Simulated Data
+Kilifi,1999,0.35,22,12,Simulated Data
+Kilifi,2000,0.47,22,11,Simulated Data
+Kilifi,2001,0.75,22,11,Simulated Data
+Kilifi,2002,0.28,19,9,Simulated Data
+Kilifi,2003,0.55,17,11,Simulated Data
+Kilifi,2004,0.16,19,14,Simulated Data
+Kilifi,2005,0.94,24,12,Simulated Data
+Kilifi,2006,0.81,16,7,Simulated Data
+Kilifi,2007,0.5,18,12,Simulated Data
+Kilifi,2008,0.83,20,11,Simulated Data
+Kilifi,2009,1.12,23,14,Simulated Data
+Kilifi,2010,0.49,21,14,Simulated Data
+Kilifi,2011,0.58,15,10,Simulated Data
+Kilifi,2012,0.96,20,15,Simulated Data
+Kilifi,2013,0.6,19,14,Simulated Data
+Kilifi,2014,0.86,23,13,Simulated Data
+Kilifi,2015,0.78,25,14,Simulated Data
+Kilifi,2016,1.32,22,11,Simulated Data
+Kilifi,2017,0.66,21,12,Simulated Data
+Kilifi,2018,1.37,25,18,Simulated Data
+Kilifi,2019,0.87,25,17,Simulated Data
+Kilifi,2020,1.38,29,19,Simulated Data
+Kilifi,2021,1.3,21,10,Simulated Data
+Kilifi,2022,1.58,28,19,Simulated Data
+Kilifi,2023,1.27,21,10,Simulated Data
+Kilifi,2024,1.47,25,13,Simulated Data
+Kilifi,2025,1.35,21,13,Simulated Data
+Taita Taveta,1991,-0.18,0,0,Simulated Data
+Taita Taveta,1992,0.0,0,0,Simulated Data
+Taita Taveta,1993,-0.01,0,1,Simulated Data
+Taita Taveta,1994,-0.05,0,2,Simulated Data
+Taita Taveta,1995,0.38,0,0,Simulated Data
+Taita Taveta,1996,-0.12,0,3,Simulated Data
+Taita Taveta,1997,-0.05,0,1,Simulated Data
+Taita Taveta,1998,0.44,0,0,Simulated Data
+Taita Taveta,1999,0.18,0,0,Simulated Data
+Taita Taveta,2000,0.24,0,0,Simulated Data
+Taita Taveta,2001,0.32,0,0,Simulated Data
+Taita Taveta,2002,0.59,1,0,Simulated Data
+Taita Taveta,2003,0.21,0,1,Simulated Data
+Taita Taveta,2004,0.69,0,3,Simulated Data
+Taita Taveta,2005,0.2,0,1,Simulated Data
+Taita Taveta,2006,0.9,2,3,Simulated Data
+Taita Taveta,2007,0.51,0,0,Simulated Data
+Taita Taveta,2008,1.0,1,3,Simulated Data
+Taita Taveta,2009,0.68,0,0,Simulated Data
+Taita Taveta,2010,0.95,0,0,Simulated Data
+Taita Taveta,2011,0.6,0,2,Simulated Data
+Taita Taveta,2012,0.62,3,1,Simulated Data
+Taita Taveta,2013,0.63,1,2,Simulated Data
+Taita Taveta,2014,0.92,1,2,Simulated Data
+Taita Taveta,2015,0.74,4,5,Simulated Data
+Taita Taveta,2016,1.12,0,1,Simulated Data
+Taita Taveta,2017,0.7,0,0,Simulated Data
+Taita Taveta,2018,1.05,5,4,Simulated Data
+Taita Taveta,2019,1.31,3,1,Simulated Data
+Taita Taveta,2020,1.06,6,1,Simulated Data
+Taita Taveta,2021,1.49,6,3,Simulated Data
+Taita Taveta,2022,1.42,4,5,Simulated Data
+Taita Taveta,2023,1.6,5,2,Simulated Data
+Taita Taveta,2024,1.39,8,3,Simulated Data
+Taita Taveta,2025,1.46,6,5,Simulated Data
+Lamu,1991,-0.29,26,18,Simulated Data
+Lamu,1992,-0.22,22,16,Simulated Data
+Lamu,1993,-0.18,29,17,Simulated Data
+Lamu,1994,-0.08,29,17,Simulated Data
+Lamu,1995,0.17,26,16,Simulated Data
+Lamu,1996,-0.07,25,18,Simulated Data
+Lamu,1997,0.05,28,16,Simulated Data
+Lamu,1998,0.5,27,19,Simulated Data
+Lamu,1999,0.28,26,13,Simulated Data
+Lamu,2000,0.1,27,15,Simulated Data
+Lamu,2001,0.66,31,17,Simulated Data
+Lamu,2002,0.53,33,18,Simulated Data
+Lamu,2003,0.21,23,15,Simulated Data
+Lamu,2004,0.65,31,21,Simulated Data
+Lamu,2005,0.8,34,23,Simulated Data
+Lamu,2006,0.36,25,14,Simulated Data
+Lamu,2007,0.29,29,20,Simulated Data
+Lamu,2008,0.31,25,15,Simulated Data
+Lamu,2009,1.07,33,20,Simulated Data
+Lamu,2010,0.39,26,19,Simulated Data
+Lamu,2011,1.17,31,21,Simulated Data
+Lamu,2012,0.95,38,23,Simulated Data
+Lamu,2013,0.89,33,21,Simulated Data
+Lamu,2014,0.63,27,15,Simulated Data
+Lamu,2015,1.12,32,20,Simulated Data
+Lamu,2016,1.38,33,21,Simulated Data
+Lamu,2017,1.0,38,21,Simulated Data
+Lamu,2018,1.23,40,27,Simulated Data
+Lamu,2019,1.27,37,23,Simulated Data
+Lamu,2020,1.46,39,21,Simulated Data
+Lamu,2021,1.54,41,26,Simulated Data
+Lamu,2022,1.01,36,21,Simulated Data
+Lamu,2023,1.4,34,21,Simulated Data
+Lamu,2024,1.72,36,24,Simulated Data
+Lamu,2025,1.29,40,26,Simulated Data
+Tana River,1991,0.05,52,33,Simulated Data
+Tana River,1992,-0.04,48,30,Simulated Data
+Tana River,1993,0.33,55,35,Simulated Data
+Tana River,1994,0.07,53,30,Simulated Data
+Tana River,1995,0.2,46,27,Simulated Data
+Tana River,1996,0.09,49,31,Simulated Data
+Tana River,1997,0.15,50,28,Simulated Data
+Tana River,1998,0.18,48,26,Simulated Data
+Tana River,1999,0.4,54,33,Simulated Data
+Tana River,2000,0.33,51,33,Simulated Data
+Tana River,2001,0.42,53,29,Simulated Data
+Tana River,2002,0.31,51,30,Simulated Data
+Tana River,2003,0.54,54,33,Simulated Data
+Tana River,2004,0.73,59,37,Simulated Data
+Tana River,2005,0.92,52,29,Simulated Data
+Tana River,2006,0.21,53,34,Simulated Data
+Tana River,2007,0.43,57,32,Simulated Data
+Tana River,2008,1.03,56,31,Simulated Data
+Tana River,2009,0.71,53,31,Simulated Data
+Tana River,2010,0.61,58,35,Simulated Data
+Tana River,2011,0.65,56,35,Simulated Data
+Tana River,2012,0.66,54,30,Simulated Data
+Tana River,2013,0.62,56,32,Simulated Data
+Tana River,2014,0.94,59,33,Simulated Data
+Tana River,2015,1.01,55,36,Simulated Data
+Tana River,2016,0.99,61,37,Simulated Data
+Tana River,2017,0.67,56,36,Simulated Data
+Tana River,2018,1.16,62,40,Simulated Data
+Tana River,2019,0.9,54,33,Simulated Data
+Tana River,2020,1.09,62,40,Simulated Data
+Tana River,2021,1.08,56,35,Simulated Data
+Tana River,2022,1.06,61,36,Simulated Data
+Tana River,2023,1.41,57,35,Simulated Data
+Tana River,2024,1.28,61,35,Simulated Data
+Tana River,2025,1.55,66,38,Simulated Data
+Isiolo,1991,-0.32,4,3,Simulated Data
+Isiolo,1992,0.13,13,6,Simulated Data
+Isiolo,1993,-0.01,12,7,Simulated Data
+Isiolo,1994,0.51,12,8,Simulated Data
+Isiolo,1995,0.08,11,8,Simulated Data
+Isiolo,1996,0.35,19,9,Simulated Data
+Isiolo,1997,-0.08,13,8,Simulated Data
+Isiolo,1998,0.1,8,2,Simulated Data
+Isiolo,1999,0.64,13,7,Simulated Data
+Isiolo,2000,0.14,11,4,Simulated Data
+Isiolo,2001,0.42,10,8,Simulated Data
+Isiolo,2002,0.23,13,10,Simulated Data
+Isiolo,2003,0.6,16,9,Simulated Data
+Isiolo,2004,0.39,16,13,Simulated Data
+Isiolo,2005,0.69,17,12,Simulated Data
+Isiolo,2006,0.57,11,7,Simulated Data
+Isiolo,2007,1.01,16,11,Simulated Data
+Isiolo,2008,0.44,15,7,Simulated Data
+Isiolo,2009,0.68,19,10,Simulated Data
+Isiolo,2010,0.89,21,15,Simulated Data
+Isiolo,2011,0.59,15,7,Simulated Data
+Isiolo,2012,1.23,25,15,Simulated Data
+Isiolo,2013,1.15,21,13,Simulated Data
+Isiolo,2014,0.59,18,9,Simulated Data
+Isiolo,2015,1.22,24,16,Simulated Data
+Isiolo,2016,0.63,14,7,Simulated Data
+Isiolo,2017,0.93,15,12,Simulated Data
+Isiolo,2018,1.12,18,10,Simulated Data
+Isiolo,2019,1.08,21,13,Simulated Data
+Isiolo,2020,1.5,23,17,Simulated Data
+Isiolo,2021,1.48,20,15,Simulated Data
+Isiolo,2022,0.93,22,12,Simulated Data
+Isiolo,2023,1.58,28,19,Simulated Data
+Isiolo,2024,1.55,22,11,Simulated Data
+Isiolo,2025,1.28,18,12,Simulated Data
+Meru,1991,-0.12,0,1,Simulated Data
+Meru,1992,0.3,0,2,Simulated Data
+Meru,1993,0.42,0,1,Simulated Data
+Meru,1994,0.33,0,0,Simulated Data
+Meru,1995,0.08,0,0,Simulated Data
+Meru,1996,-0.15,0,0,Simulated Data
+Meru,1997,0.61,0,3,Simulated Data
+Meru,1998,0.23,0,0,Simulated Data
+Meru,1999,0.27,0,1,Simulated Data
+Meru,2000,0.13,0,1,Simulated Data
+Meru,2001,0.12,0,2,Simulated Data
+Meru,2002,0.41,0,3,Simulated Data
+Meru,2003,0.13,0,3,Simulated Data
+Meru,2004,0.31,0,0,Simulated Data
+Meru,2005,0.4,0,1,Simulated Data
+Meru,2006,0.25,0,3,Simulated Data
+Meru,2007,0.89,0,0,Simulated Data
+Meru,2008,0.78,0,0,Simulated Data
+Meru,2009,0.42,0,0,Simulated Data
+Meru,2010,0.52,0,0,Simulated Data
+Meru,2011,1.06,0,2,Simulated Data
+Meru,2012,0.45,0,0,Simulated Data
+Meru,2013,0.5,0,2,Simulated Data
+Meru,2014,0.63,0,0,Simulated Data
+Meru,2015,0.57,0,3,Simulated Data
+Meru,2016,1.24,0,0,Simulated Data
+Meru,2017,0.73,0,0,Simulated Data
+Meru,2018,1.36,0,0,Simulated Data
+Meru,2019,0.84,0,1,Simulated Data
+Meru,2020,1.14,0,0,Simulated Data
+Meru,2021,1.17,0,2,Simulated Data
+Meru,2022,1.6,0,0,Simulated Data
+Meru,2023,1.43,0,0,Simulated Data
+Meru,2024,1.59,0,2,Simulated Data
+Meru,2025,1.33,0,1,Simulated Data
+Tharaka Nithi,1991,0.32,0,1,Simulated Data
+Tharaka Nithi,1992,-0.31,0,0,Simulated Data
+Tharaka Nithi,1993,0.27,0,1,Simulated Data
+Tharaka Nithi,1994,-0.25,0,1,Simulated Data
+Tharaka Nithi,1995,-0.18,0,0,Simulated Data
+Tharaka Nithi,1996,0.57,0,0,Simulated Data
+Tharaka Nithi,1997,0.08,0,2,Simulated Data
+Tharaka Nithi,1998,0.41,0,0,Simulated Data
+Tharaka Nithi,1999,0.0,0,2,Simulated Data
+Tharaka Nithi,2000,0.17,0,0,Simulated Data
+Tharaka Nithi,2001,0.77,0,2,Simulated Data
+Tharaka Nithi,2002,0.54,0,0,Simulated Data
+Tharaka Nithi,2003,0.18,0,2,Simulated Data
+Tharaka Nithi,2004,0.64,0,0,Simulated Data
+Tharaka Nithi,2005,0.93,0,0,Simulated Data
+Tharaka Nithi,2006,0.98,0,0,Simulated Data
+Tharaka Nithi,2007,0.84,0,1,Simulated Data
+Tharaka Nithi,2008,0.38,0,3,Simulated Data
+Tharaka Nithi,2009,0.5,0,0,Simulated Data
+Tharaka Nithi,2010,0.71,0,3,Simulated Data
+Tharaka Nithi,2011,0.59,0,0,Simulated Data
+Tharaka Nithi,2012,1.15,0,0,Simulated Data
+Tharaka Nithi,2013,1.13,0,2,Simulated Data
+Tharaka Nithi,2014,1.26,0,2,Simulated Data
+Tharaka Nithi,2015,0.93,0,1,Simulated Data
+Tharaka Nithi,2016,1.22,0,0,Simulated Data
+Tharaka Nithi,2017,1.08,0,3,Simulated Data
+Tharaka Nithi,2018,0.71,0,0,Simulated Data
+Tharaka Nithi,2019,1.3,0,0,Simulated Data
+Tharaka Nithi,2020,1.16,0,1,Simulated Data
+Tharaka Nithi,2021,1.23,0,0,Simulated Data
+Tharaka Nithi,2022,1.08,0,1,Simulated Data
+Tharaka Nithi,2023,1.58,0,2,Simulated Data
+Tharaka Nithi,2024,1.05,0,0,Simulated Data
+Tharaka Nithi,2025,1.16,0,3,Simulated Data
+Embu,1991,-0.32,0,2,Simulated Data
+Embu,1992,-0.2,0,1,Simulated Data
+Embu,1993,0.17,0,0,Simulated Data
+Embu,1994,0.35,0,0,Simulated Data
+Embu,1995,0.37,0,1,Simulated Data
+Embu,1996,-0.04,0,0,Simulated Data
+Embu,1997,0.1,0,0,Simulated Data
+Embu,1998,0.58,0,0,Simulated Data
+Embu,1999,0.28,0,2,Simulated Data
+Embu,2000,0.43,0,0,Simulated Data
+Embu,2001,0.56,0,1,Simulated Data
+Embu,2002,0.32,0,0,Simulated Data
+Embu,2003,0.55,0,1,Simulated Data
+Embu,2004,0.17,0,0,Simulated Data
+Embu,2005,0.61,0,1,Simulated Data
+Embu,2006,0.84,0,2,Simulated Data
+Embu,2007,0.64,0,0,Simulated Data
+Embu,2008,0.55,0,1,Simulated Data
+Embu,2009,0.95,0,0,Simulated Data
+Embu,2010,0.48,0,0,Simulated Data
+Embu,2011,0.47,0,1,Simulated Data
+Embu,2012,1.03,0,3,Simulated Data
+Embu,2013,0.99,0,1,Simulated Data
+Embu,2014,1.15,0,0,Simulated Data
+Embu,2015,1.23,0,0,Simulated Data
+Embu,2016,1.07,0,0,Simulated Data
+Embu,2017,0.91,0,0,Simulated Data
+Embu,2018,1.35,0,0,Simulated Data
+Embu,2019,0.96,0,0,Simulated Data
+Embu,2020,1.1,0,2,Simulated Data
+Embu,2021,0.95,0,0,Simulated Data
+Embu,2022,1.23,0,0,Simulated Data
+Embu,2023,1.46,0,0,Simulated Data
+Embu,2024,1.5,0,0,Simulated Data
+Embu,2025,1.45,0,2,Simulated Data
+Kirinyaga,1991,0.13,0,0,Simulated Data
+Kirinyaga,1992,-0.31,0,0,Simulated Data
+Kirinyaga,1993,-0.12,0,0,Simulated Data
+Kirinyaga,1994,-0.06,0,0,Simulated Data
+Kirinyaga,1995,0.38,0,0,Simulated Data
+Kirinyaga,1996,-0.17,0,2,Simulated Data
+Kirinyaga,1997,-0.05,0,0,Simulated Data
+Kirinyaga,1998,0.16,0,0,Simulated Data
+Kirinyaga,1999,0.45,0,0,Simulated Data
+Kirinyaga,2000,0.71,0,0,Simulated Data
+Kirinyaga,2001,0.21,0,3,Simulated Data
+Kirinyaga,2002,0.25,0,0,Simulated Data
+Kirinyaga,2003,0.53,0,3,Simulated Data
+Kirinyaga,2004,0.61,0,0,Simulated Data
+Kirinyaga,2005,0.28,0,0,Simulated Data
+Kirinyaga,2006,0.88,0,0,Simulated Data
+Kirinyaga,2007,0.33,0,1,Simulated Data
+Kirinyaga,2008,0.33,0,0,Simulated Data
+Kirinyaga,2009,0.39,0,0,Simulated Data
+Kirinyaga,2010,0.49,0,2,Simulated Data
+Kirinyaga,2011,0.94,0,0,Simulated Data
+Kirinyaga,2012,0.96,0,0,Simulated Data
+Kirinyaga,2013,0.89,0,0,Simulated Data
+Kirinyaga,2014,0.56,0,0,Simulated Data
+Kirinyaga,2015,0.77,0,0,Simulated Data
+Kirinyaga,2016,1.21,0,0,Simulated Data
+Kirinyaga,2017,1.34,0,2,Simulated Data
+Kirinyaga,2018,0.87,0,3,Simulated Data
+Kirinyaga,2019,1.34,0,0,Simulated Data
+Kirinyaga,2020,1.13,0,0,Simulated Data
+Kirinyaga,2021,1.2,0,1,Simulated Data
+Kirinyaga,2022,1.5,0,2,Simulated Data
+Kirinyaga,2023,1.65,0,0,Simulated Data
+Kirinyaga,2024,1.15,0,0,Simulated Data
+Kirinyaga,2025,1.47,0,0,Simulated Data
+Murang'a,1991,0.33,0,0,Simulated Data
+Murang'a,1992,0.2,0,0,Simulated Data
+Murang'a,1993,0.37,0,0,Simulated Data
+Murang'a,1994,0.51,0,0,Simulated Data
+Murang'a,1995,-0.09,0,1,Simulated Data
+Murang'a,1996,-0.08,0,1,Simulated Data
+Murang'a,1997,-0.09,0,2,Simulated Data
+Murang'a,1998,0.28,0,0,Simulated Data
+Murang'a,1999,0.71,0,1,Simulated Data
+Murang'a,2000,0.09,0,0,Simulated Data
+Murang'a,2001,0.13,0,0,Simulated Data
+Murang'a,2002,0.46,0,2,Simulated Data
+Murang'a,2003,0.14,0,0,Simulated Data
+Murang'a,2004,0.81,0,0,Simulated Data
+Murang'a,2005,0.73,0,0,Simulated Data
+Murang'a,2006,0.86,0,0,Simulated Data
+Murang'a,2007,0.64,0,0,Simulated Data
+Murang'a,2008,0.42,0,2,Simulated Data
+Murang'a,2009,0.4,0,0,Simulated Data
+Murang'a,2010,0.64,0,1,Simulated Data
+Murang'a,2011,0.92,0,0,Simulated Data
+Murang'a,2012,1.11,0,3,Simulated Data
+Murang'a,2013,0.99,0,1,Simulated Data
+Murang'a,2014,0.78,0,0,Simulated Data
+Murang'a,2015,0.7,0,0,Simulated Data
+Murang'a,2016,1.27,0,1,Simulated Data
+Murang'a,2017,1.2,0,0,Simulated Data
+Murang'a,2018,0.85,0,0,Simulated Data
+Murang'a,2019,1.24,0,2,Simulated Data
+Murang'a,2020,1.37,0,1,Simulated Data
+Murang'a,2021,1.01,0,1,Simulated Data
+Murang'a,2022,1.29,0,0,Simulated Data
+Murang'a,2023,1.25,0,0,Simulated Data
+Murang'a,2024,1.22,0,0,Simulated Data
+Murang'a,2025,1.3,0,1,Simulated Data
+Kiambu,1991,0.33,0,2,Simulated Data
+Kiambu,1992,-0.13,0,2,Simulated Data
+Kiambu,1993,0.32,0,3,Simulated Data
+Kiambu,1994,0.3,0,2,Simulated Data
+Kiambu,1995,-0.01,0,0,Simulated Data
+Kiambu,1996,0.36,0,0,Simulated Data
+Kiambu,1997,0.03,0,0,Simulated Data
+Kiambu,1998,0.12,0,0,Simulated Data
+Kiambu,1999,0.16,0,0,Simulated Data
+Kiambu,2000,0.68,0,1,Simulated Data
+Kiambu,2001,0.47,0,0,Simulated Data
+Kiambu,2002,0.1,0,2,Simulated Data
+Kiambu,2003,0.11,0,3,Simulated Data
+Kiambu,2004,0.8,0,0,Simulated Data
+Kiambu,2005,0.83,0,0,Simulated Data
+Kiambu,2006,0.28,0,1,Simulated Data
+Kiambu,2007,0.9,0,0,Simulated Data
+Kiambu,2008,0.69,0,0,Simulated Data
+Kiambu,2009,0.67,0,1,Simulated Data
+Kiambu,2010,1.07,0,1,Simulated Data
+Kiambu,2011,0.91,0,1,Simulated Data
+Kiambu,2012,0.63,0,0,Simulated Data
+Kiambu,2013,0.79,0,1,Simulated Data
+Kiambu,2014,1.28,0,1,Simulated Data
+Kiambu,2015,0.97,0,0,Simulated Data
+Kiambu,2016,0.8,0,0,Simulated Data
+Kiambu,2017,0.68,0,0,Simulated Data
+Kiambu,2018,1.46,0,0,Simulated Data
+Kiambu,2019,0.88,0,0,Simulated Data
+Kiambu,2020,0.93,0,0,Simulated Data
+Kiambu,2021,0.81,0,0,Simulated Data
+Kiambu,2022,0.93,0,2,Simulated Data
+Kiambu,2023,1.34,0,0,Simulated Data
+Kiambu,2024,1.67,0,0,Simulated Data
+Kiambu,2025,1.45,0,0,Simulated Data
+Nyandarua,1991,0.01,0,0,Simulated Data
+Nyandarua,1992,0.2,0,0,Simulated Data
+Nyandarua,1993,-0.1,0,0,Simulated Data
+Nyandarua,1994,0.05,0,1,Simulated Data
+Nyandarua,1995,0.25,0,2,Simulated Data
+Nyandarua,1996,0.56,0,0,Simulated Data
+Nyandarua,1997,0.35,0,0,Simulated Data
+Nyandarua,1998,-0.07,0,1,Simulated Data
+Nyandarua,1999,0.01,0,0,Simulated Data
+Nyandarua,2000,0.26,0,0,Simulated Data
+Nyandarua,2001,0.6,0,0,Simulated Data
+Nyandarua,2002,0.32,0,1,Simulated Data
+Nyandarua,2003,0.62,0,1,Simulated Data
+Nyandarua,2004,0.13,0,2,Simulated Data
+Nyandarua,2005,0.65,0,1,Simulated Data
+Nyandarua,2006,0.3,0,0,Simulated Data
+Nyandarua,2007,0.67,0,0,Simulated Data
+Nyandarua,2008,0.62,0,0,Simulated Data
+Nyandarua,2009,0.78,0,0,Simulated Data
+Nyandarua,2010,0.81,0,1,Simulated Data
+Nyandarua,2011,0.92,0,1,Simulated Data
+Nyandarua,2012,0.78,0,0,Simulated Data
+Nyandarua,2013,0.73,0,0,Simulated Data
+Nyandarua,2014,1.16,0,2,Simulated Data
+Nyandarua,2015,1.29,0,0,Simulated Data
+Nyandarua,2016,1.07,0,1,Simulated Data
+Nyandarua,2017,1.2,0,0,Simulated Data
+Nyandarua,2018,0.81,0,0,Simulated Data
+Nyandarua,2019,1.43,0,0,Simulated Data
+Nyandarua,2020,0.78,0,1,Simulated Data
+Nyandarua,2021,1.07,0,0,Simulated Data
+Nyandarua,2022,1.09,0,1,Simulated Data
+Nyandarua,2023,1.17,0,3,Simulated Data
+Nyandarua,2024,1.28,0,0,Simulated Data
+Nyandarua,2025,1.35,0,0,Simulated Data
+Nyeri,1991,0.37,0,0,Simulated Data
+Nyeri,1992,-0.34,0,0,Simulated Data
+Nyeri,1993,-0.3,0,0,Simulated Data
+Nyeri,1994,-0.05,0,0,Simulated Data
+Nyeri,1995,0.52,0,2,Simulated Data
+Nyeri,1996,0.28,0,3,Simulated Data
+Nyeri,1997,0.07,0,0,Simulated Data
+Nyeri,1998,0.19,0,0,Simulated Data
+Nyeri,1999,0.04,0,0,Simulated Data
+Nyeri,2000,0.57,0,0,Simulated Data
+Nyeri,2001,0.24,0,0,Simulated Data
+Nyeri,2002,0.09,0,0,Simulated Data
+Nyeri,2003,0.85,0,0,Simulated Data
+Nyeri,2004,0.58,0,0,Simulated Data
+Nyeri,2005,0.66,0,0,Simulated Data
+Nyeri,2006,1.0,0,1,Simulated Data
+Nyeri,2007,0.7,0,0,Simulated Data
+Nyeri,2008,0.6,0,0,Simulated Data
+Nyeri,2009,0.75,0,3,Simulated Data
+Nyeri,2010,1.09,0,0,Simulated Data
+Nyeri,2011,1.1,0,2,Simulated Data
+Nyeri,2012,0.54,0,0,Simulated Data
+Nyeri,2013,1.18,0,0,Simulated Data
+Nyeri,2014,0.89,0,0,Simulated Data
+Nyeri,2015,1.25,0,0,Simulated Data
+Nyeri,2016,0.83,0,2,Simulated Data
+Nyeri,2017,0.95,0,0,Simulated Data
+Nyeri,2018,1.14,0,3,Simulated Data
+Nyeri,2019,1.05,0,2,Simulated Data
+Nyeri,2020,1.22,0,0,Simulated Data
+Nyeri,2021,0.89,0,0,Simulated Data
+Nyeri,2022,1.52,0,0,Simulated Data
+Nyeri,2023,1.59,0,0,Simulated Data
+Nyeri,2024,1.42,0,0,Simulated Data
+Nyeri,2025,1.34,0,1,Simulated Data
+Laikipia,1991,0.15,0,0,Simulated Data
+Laikipia,1992,-0.07,0,0,Simulated Data
+Laikipia,1993,-0.15,0,0,Simulated Data
+Laikipia,1994,0.52,0,2,Simulated Data
+Laikipia,1995,0.0,0,1,Simulated Data
+Laikipia,1996,0.47,0,0,Simulated Data
+Laikipia,1997,0.44,0,1,Simulated Data
+Laikipia,1998,0.49,0,1,Simulated Data
+Laikipia,1999,-0.01,0,0,Simulated Data
+Laikipia,2000,0.29,0,0,Simulated Data
+Laikipia,2001,0.28,0,2,Simulated Data
+Laikipia,2002,0.8,0,3,Simulated Data
+Laikipia,2003,0.5,0,0,Simulated Data
+Laikipia,2004,0.52,0,1,Simulated Data
+Laikipia,2005,0.2,0,0,Simulated Data
+Laikipia,2006,0.44,0,0,Simulated Data
+Laikipia,2007,0.88,0,0,Simulated Data
+Laikipia,2008,1.0,0,0,Simulated Data
+Laikipia,2009,0.5,0,3,Simulated Data
+Laikipia,2010,0.84,0,1,Simulated Data
+Laikipia,2011,0.5,0,0,Simulated Data
+Laikipia,2012,0.8,0,1,Simulated Data
+Laikipia,2013,0.54,0,0,Simulated Data
+Laikipia,2014,1.09,0,2,Simulated Data
+Laikipia,2015,1.0,0,0,Simulated Data
+Laikipia,2016,1.22,0,0,Simulated Data
+Laikipia,2017,0.87,0,1,Simulated Data
+Laikipia,2018,0.72,0,0,Simulated Data
+Laikipia,2019,0.72,0,0,Simulated Data
+Laikipia,2020,0.98,0,0,Simulated Data
+Laikipia,2021,1.47,0,0,Simulated Data
+Laikipia,2022,1.43,0,0,Simulated Data
+Laikipia,2023,1.17,0,2,Simulated Data
+Laikipia,2024,1.17,0,2,Simulated Data
+Laikipia,2025,1.31,0,0,Simulated Data
+Samburu,1991,0.37,0,1,Simulated Data
+Samburu,1992,0.04,0,1,Simulated Data
+Samburu,1993,0.24,0,0,Simulated Data
+Samburu,1994,0.29,2,4,Simulated Data
+Samburu,1995,0.37,6,5,Simulated Data
+Samburu,1996,0.04,0,2,Simulated Data
+Samburu,1997,0.36,0,0,Simulated Data
+Samburu,1998,0.65,4,2,Simulated Data
+Samburu,1999,0.29,0,0,Simulated Data
+Samburu,2000,0.26,0,2,Simulated Data
+Samburu,2001,0.33,4,5,Simulated Data
+Samburu,2002,0.21,2,1,Simulated Data
+Samburu,2003,0.78,2,2,Simulated Data
+Samburu,2004,0.61,1,0,Simulated Data
+Samburu,2005,0.68,6,2,Simulated Data
+Samburu,2006,0.72,3,3,Simulated Data
+Samburu,2007,0.4,6,2,Simulated Data
+Samburu,2008,0.57,0,0,Simulated Data
+Samburu,2009,0.73,2,3,Simulated Data
+Samburu,2010,0.37,0,0,Simulated Data
+Samburu,2011,0.42,0,0,Simulated Data
+Samburu,2012,0.83,4,3,Simulated Data
+Samburu,2013,0.96,1,0,Simulated Data
+Samburu,2014,1.29,9,6,Simulated Data
+Samburu,2015,0.81,8,6,Simulated Data
+Samburu,2016,1.02,11,4,Simulated Data
+Samburu,2017,0.65,6,5,Simulated Data
+Samburu,2018,0.78,2,0,Simulated Data
+Samburu,2019,0.95,9,6,Simulated Data
+Samburu,2020,1.04,5,0,Simulated Data
+Samburu,2021,1.04,8,8,Simulated Data
+Samburu,2022,1.52,6,6,Simulated Data
+Samburu,2023,1.51,13,8,Simulated Data
+Samburu,2024,1.24,6,1,Simulated Data
+Samburu,2025,1.14,5,3,Simulated Data
+Trans Nzoia,1991,0.2,0,0,Simulated Data
+Trans Nzoia,1992,0.41,0,2,Simulated Data
+Trans Nzoia,1993,0.47,0,3,Simulated Data
+Trans Nzoia,1994,-0.22,0,0,Simulated Data
+Trans Nzoia,1995,-0.08,0,1,Simulated Data
+Trans Nzoia,1996,0.43,0,0,Simulated Data
+Trans Nzoia,1997,0.49,0,0,Simulated Data
+Trans Nzoia,1998,0.42,0,0,Simulated Data
+Trans Nzoia,1999,0.65,0,0,Simulated Data
+Trans Nzoia,2000,0.67,0,0,Simulated Data
+Trans Nzoia,2001,0.12,0,1,Simulated Data
+Trans Nzoia,2002,0.4,0,3,Simulated Data
+Trans Nzoia,2003,0.5,0,0,Simulated Data
+Trans Nzoia,2004,0.66,0,0,Simulated Data
+Trans Nzoia,2005,0.81,0,0,Simulated Data
+Trans Nzoia,2006,0.55,0,0,Simulated Data
+Trans Nzoia,2007,0.6,0,0,Simulated Data
+Trans Nzoia,2008,0.95,0,2,Simulated Data
+Trans Nzoia,2009,1.0,0,3,Simulated Data
+Trans Nzoia,2010,0.52,0,3,Simulated Data
+Trans Nzoia,2011,0.97,0,0,Simulated Data
+Trans Nzoia,2012,0.65,0,1,Simulated Data
+Trans Nzoia,2013,0.54,0,3,Simulated Data
+Trans Nzoia,2014,0.67,0,2,Simulated Data
+Trans Nzoia,2015,1.31,0,0,Simulated Data
+Trans Nzoia,2016,1.38,0,0,Simulated Data
+Trans Nzoia,2017,1.02,0,0,Simulated Data
+Trans Nzoia,2018,1.19,0,0,Simulated Data
+Trans Nzoia,2019,1.17,0,0,Simulated Data
+Trans Nzoia,2020,0.77,0,0,Simulated Data
+Trans Nzoia,2021,1.54,0,1,Simulated Data
+Trans Nzoia,2022,1.02,0,2,Simulated Data
+Trans Nzoia,2023,1.46,0,0,Simulated Data
+Trans Nzoia,2024,0.94,0,1,Simulated Data
+Trans Nzoia,2025,1.05,0,0,Simulated Data
+Uasin Gishu,1991,0.34,0,0,Simulated Data
+Uasin Gishu,1992,0.25,0,0,Simulated Data
+Uasin Gishu,1993,0.28,0,3,Simulated Data
+Uasin Gishu,1994,0.18,0,2,Simulated Data
+Uasin Gishu,1995,-0.04,0,0,Simulated Data
+Uasin Gishu,1996,0.33,0,0,Simulated Data
+Uasin Gishu,1997,0.57,0,0,Simulated Data
+Uasin Gishu,1998,0.06,0,0,Simulated Data
+Uasin Gishu,1999,0.06,0,0,Simulated Data
+Uasin Gishu,2000,0.72,0,0,Simulated Data
+Uasin Gishu,2001,0.46,0,2,Simulated Data
+Uasin Gishu,2002,0.27,0,2,Simulated Data
+Uasin Gishu,2003,0.84,0,0,Simulated Data
+Uasin Gishu,2004,0.74,0,0,Simulated Data
+Uasin Gishu,2005,0.32,0,0,Simulated Data
+Uasin Gishu,2006,0.47,0,0,Simulated Data
+Uasin Gishu,2007,0.3,0,3,Simulated Data
+Uasin Gishu,2008,0.69,0,2,Simulated Data
+Uasin Gishu,2009,0.99,0,1,Simulated Data
+Uasin Gishu,2010,0.98,0,0,Simulated Data
+Uasin Gishu,2011,1.1,0,0,Simulated Data
+Uasin Gishu,2012,0.78,0,0,Simulated Data
+Uasin Gishu,2013,1.09,0,0,Simulated Data
+Uasin Gishu,2014,0.94,0,3,Simulated Data
+Uasin Gishu,2015,0.74,0,0,Simulated Data
+Uasin Gishu,2016,0.78,0,1,Simulated Data
+Uasin Gishu,2017,1.41,0,1,Simulated Data
+Uasin Gishu,2018,1.27,0,0,Simulated Data
+Uasin Gishu,2019,0.96,0,1,Simulated Data
+Uasin Gishu,2020,1.41,0,0,Simulated Data
+Uasin Gishu,2021,1.52,0,3,Simulated Data
+Uasin Gishu,2022,1.44,0,1,Simulated Data
+Uasin Gishu,2023,1.41,0,0,Simulated Data
+Uasin Gishu,2024,1.49,0,2,Simulated Data
+Uasin Gishu,2025,1.43,0,0,Simulated Data
+Elgeyo Marakwet,1991,-0.19,0,0,Simulated Data
+Elgeyo Marakwet,1992,0.21,0,0,Simulated Data
+Elgeyo Marakwet,1993,0.09,0,0,Simulated Data
+Elgeyo Marakwet,1994,0.47,0,1,Simulated Data
+Elgeyo Marakwet,1995,0.33,0,3,Simulated Data
+Elgeyo Marakwet,1996,0.36,0,2,Simulated Data
+Elgeyo Marakwet,1997,0.06,0,0,Simulated Data
+Elgeyo Marakwet,1998,0.16,0,3,Simulated Data
+Elgeyo Marakwet,1999,0.61,0,1,Simulated Data
+Elgeyo Marakwet,2000,0.41,0,0,Simulated Data
+Elgeyo Marakwet,2001,0.3,0,2,Simulated Data
+Elgeyo Marakwet,2002,0.63,0,0,Simulated Data
+Elgeyo Marakwet,2003,0.75,0,1,Simulated Data
+Elgeyo Marakwet,2004,0.9,0,0,Simulated Data
+Elgeyo Marakwet,2005,0.72,0,0,Simulated Data
+Elgeyo Marakwet,2006,0.97,0,0,Simulated Data
+Elgeyo Marakwet,2007,0.81,0,0,Simulated Data
+Elgeyo Marakwet,2008,0.92,0,0,Simulated Data
+Elgeyo Marakwet,2009,0.43,0,0,Simulated Data
+Elgeyo Marakwet,2010,0.61,0,2,Simulated Data
+Elgeyo Marakwet,2011,0.94,0,0,Simulated Data
+Elgeyo Marakwet,2012,0.94,0,2,Simulated Data
+Elgeyo Marakwet,2013,1.2,0,1,Simulated Data
+Elgeyo Marakwet,2014,0.56,0,0,Simulated Data
+Elgeyo Marakwet,2015,0.81,0,1,Simulated Data
+Elgeyo Marakwet,2016,0.87,0,0,Simulated Data
+Elgeyo Marakwet,2017,0.69,0,0,Simulated Data
+Elgeyo Marakwet,2018,1.03,0,0,Simulated Data
+Elgeyo Marakwet,2019,0.77,0,3,Simulated Data
+Elgeyo Marakwet,2020,1.27,0,1,Simulated Data
+Elgeyo Marakwet,2021,0.96,0,2,Simulated Data
+Elgeyo Marakwet,2022,0.92,0,0,Simulated Data
+Elgeyo Marakwet,2023,1.23,0,0,Simulated Data
+Elgeyo Marakwet,2024,1.33,0,3,Simulated Data
+Elgeyo Marakwet,2025,1.05,0,1,Simulated Data
+Nandi,1991,0.16,0,0,Simulated Data
+Nandi,1992,-0.04,0,0,Simulated Data
+Nandi,1993,0.07,0,0,Simulated Data
+Nandi,1994,0.25,0,1,Simulated Data
+Nandi,1995,-0.18,0,3,Simulated Data
+Nandi,1996,0.04,0,1,Simulated Data
+Nandi,1997,0.34,0,0,Simulated Data
+Nandi,1998,-0.11,0,0,Simulated Data
+Nandi,1999,0.46,0,1,Simulated Data
+Nandi,2000,0.21,0,1,Simulated Data
+Nandi,2001,0.69,0,0,Simulated Data
+Nandi,2002,0.16,0,1,Simulated Data
+Nandi,2003,0.79,0,1,Simulated Data
+Nandi,2004,0.68,0,0,Simulated Data
+Nandi,2005,0.17,0,0,Simulated Data
+Nandi,2006,0.56,0,0,Simulated Data
+Nandi,2007,0.91,0,1,Simulated Data
+Nandi,2008,1.06,0,0,Simulated Data
+Nandi,2009,0.67,0,1,Simulated Data
+Nandi,2010,1.09,0,0,Simulated Data
+Nandi,2011,0.75,0,0,Simulated Data
+Nandi,2012,0.91,0,1,Simulated Data
+Nandi,2013,0.67,0,0,Simulated Data
+Nandi,2014,0.68,0,1,Simulated Data
+Nandi,2015,0.57,0,0,Simulated Data
+Nandi,2016,0.82,0,0,Simulated Data
+Nandi,2017,1.01,0,1,Simulated Data
+Nandi,2018,1.22,0,3,Simulated Data
+Nandi,2019,1.39,0,2,Simulated Data
+Nandi,2020,1.51,0,0,Simulated Data
+Nandi,2021,1.29,0,1,Simulated Data
+Nandi,2022,1.26,0,0,Simulated Data
+Nandi,2023,1.62,0,0,Simulated Data
+Nandi,2024,1.14,0,2,Simulated Data
+Nandi,2025,1.49,0,0,Simulated Data
+Baringo,1991,0.1,9,7,Simulated Data
+Baringo,1992,-0.02,10,7,Simulated Data
+Baringo,1993,0.43,10,8,Simulated Data
+Baringo,1994,-0.05,10,3,Simulated Data
+Baringo,1995,0.0,11,4,Simulated Data
+Baringo,1996,0.19,17,8,Simulated Data
+Baringo,1997,0.45,14,9,Simulated Data
+Baringo,1998,0.09,9,3,Simulated Data
+Baringo,1999,-0.02,8,6,Simulated Data
+Baringo,2000,0.67,20,13,Simulated Data
+Baringo,2001,0.09,10,5,Simulated Data
+Baringo,2002,0.24,13,8,Simulated Data
+Baringo,2003,0.37,13,10,Simulated Data
+Baringo,2004,0.75,15,11,Simulated Data
+Baringo,2005,0.92,17,9,Simulated Data
+Baringo,2006,0.6,20,14,Simulated Data
+Baringo,2007,0.32,13,8,Simulated Data
+Baringo,2008,0.68,14,11,Simulated Data
+Baringo,2009,0.86,21,15,Simulated Data
+Baringo,2010,0.96,18,11,Simulated Data
+Baringo,2011,0.53,17,8,Simulated Data
+Baringo,2012,1.0,16,7,Simulated Data
+Baringo,2013,0.61,11,8,Simulated Data
+Baringo,2014,1.11,20,10,Simulated Data
+Baringo,2015,0.63,11,5,Simulated Data
+Baringo,2016,1.31,19,11,Simulated Data
+Baringo,2017,0.72,14,9,Simulated Data
+Baringo,2018,1.17,18,8,Simulated Data
+Baringo,2019,1.03,17,9,Simulated Data
+Baringo,2020,1.53,25,15,Simulated Data
+Baringo,2021,1.13,20,12,Simulated Data
+Baringo,2022,1.4,24,12,Simulated Data
+Baringo,2023,1.28,21,15,Simulated Data
+Baringo,2024,1.43,23,11,Simulated Data
+Baringo,2025,1.44,19,10,Simulated Data
+Kakamega,1991,-0.29,0,0,Simulated Data
+Kakamega,1992,-0.05,0,0,Simulated Data
+Kakamega,1993,0.09,0,0,Simulated Data
+Kakamega,1994,0.35,0,0,Simulated Data
+Kakamega,1995,0.21,0,1,Simulated Data
+Kakamega,1996,0.0,0,1,Simulated Data
+Kakamega,1997,0.27,0,2,Simulated Data
+Kakamega,1998,0.55,0,0,Simulated Data
+Kakamega,1999,0.55,0,0,Simulated Data
+Kakamega,2000,0.64,0,0,Simulated Data
+Kakamega,2001,0.06,0,2,Simulated Data
+Kakamega,2002,0.76,0,0,Simulated Data
+Kakamega,2003,0.78,0,0,Simulated Data
+Kakamega,2004,0.89,0,1,Simulated Data
+Kakamega,2005,0.22,0,2,Simulated Data
+Kakamega,2006,0.55,0,0,Simulated Data
+Kakamega,2007,0.5,0,0,Simulated Data
+Kakamega,2008,0.58,0,0,Simulated Data
+Kakamega,2009,0.69,0,1,Simulated Data
+Kakamega,2010,0.93,0,0,Simulated Data
+Kakamega,2011,0.93,0,0,Simulated Data
+Kakamega,2012,1.08,0,0,Simulated Data
+Kakamega,2013,0.53,0,1,Simulated Data
+Kakamega,2014,1.15,0,2,Simulated Data
+Kakamega,2015,0.97,0,1,Simulated Data
+Kakamega,2016,1.1,0,0,Simulated Data
+Kakamega,2017,0.8,0,1,Simulated Data
+Kakamega,2018,1.41,0,1,Simulated Data
+Kakamega,2019,1.24,0,0,Simulated Data
+Kakamega,2020,1.27,0,0,Simulated Data
+Kakamega,2021,1.37,0,0,Simulated Data
+Kakamega,2022,1.09,0,0,Simulated Data
+Kakamega,2023,1.22,0,0,Simulated Data
+Kakamega,2024,1.07,0,1,Simulated Data
+Kakamega,2025,1.27,0,1,Simulated Data
+Vihiga,1991,0.24,0,1,Simulated Data
+Vihiga,1992,-0.15,0,1,Simulated Data
+Vihiga,1993,-0.06,0,0,Simulated Data
+Vihiga,1994,0.28,0,1,Simulated Data
+Vihiga,1995,-0.03,0,2,Simulated Data
+Vihiga,1996,0.42,0,0,Simulated Data
+Vihiga,1997,-0.09,0,0,Simulated Data
+Vihiga,1998,0.23,0,0,Simulated Data
+Vihiga,1999,-0.05,0,0,Simulated Data
+Vihiga,2000,0.41,0,1,Simulated Data
+Vihiga,2001,0.26,0,2,Simulated Data
+Vihiga,2002,0.3,0,3,Simulated Data
+Vihiga,2003,0.74,0,0,Simulated Data
+Vihiga,2004,0.58,0,0,Simulated Data
+Vihiga,2005,0.96,0,1,Simulated Data
+Vihiga,2006,0.85,0,3,Simulated Data
+Vihiga,2007,0.43,0,0,Simulated Data
+Vihiga,2008,0.38,0,0,Simulated Data
+Vihiga,2009,0.95,0,0,Simulated Data
+Vihiga,2010,0.88,0,0,Simulated Data
+Vihiga,2011,1.01,0,2,Simulated Data
+Vihiga,2012,0.47,0,1,Simulated Data
+Vihiga,2013,0.93,0,2,Simulated Data
+Vihiga,2014,0.99,0,3,Simulated Data
+Vihiga,2015,1.17,0,1,Simulated Data
+Vihiga,2016,0.91,0,1,Simulated Data
+Vihiga,2017,1.38,0,0,Simulated Data
+Vihiga,2018,1.1,0,3,Simulated Data
+Vihiga,2019,1.5,0,2,Simulated Data
+Vihiga,2020,1.33,0,0,Simulated Data
+Vihiga,2021,1.16,0,1,Simulated Data
+Vihiga,2022,1.14,0,0,Simulated Data
+Vihiga,2023,1.28,0,1,Simulated Data
+Vihiga,2024,1.44,0,0,Simulated Data
+Vihiga,2025,1.47,0,0,Simulated Data
+Bungoma,1991,0.16,0,1,Simulated Data
+Bungoma,1992,0.31,0,0,Simulated Data
+Bungoma,1993,0.3,0,1,Simulated Data
+Bungoma,1994,0.39,0,3,Simulated Data
+Bungoma,1995,0.19,0,0,Simulated Data
+Bungoma,1996,-0.08,0,0,Simulated Data
+Bungoma,1997,0.58,0,1,Simulated Data
+Bungoma,1998,0.16,0,0,Simulated Data
+Bungoma,1999,0.26,0,1,Simulated Data
+Bungoma,2000,0.66,0,1,Simulated Data
+Bungoma,2001,0.17,0,2,Simulated Data
+Bungoma,2002,0.2,0,0,Simulated Data
+Bungoma,2003,0.72,0,0,Simulated Data
+Bungoma,2004,0.84,0,3,Simulated Data
+Bungoma,2005,0.53,0,0,Simulated Data
+Bungoma,2006,0.47,0,3,Simulated Data
+Bungoma,2007,0.89,0,3,Simulated Data
+Bungoma,2008,0.35,0,0,Simulated Data
+Bungoma,2009,0.49,0,0,Simulated Data
+Bungoma,2010,0.57,0,0,Simulated Data
+Bungoma,2011,0.52,0,2,Simulated Data
+Bungoma,2012,1.21,0,0,Simulated Data
+Bungoma,2013,1.12,0,0,Simulated Data
+Bungoma,2014,0.71,0,0,Simulated Data
+Bungoma,2015,0.84,0,0,Simulated Data
+Bungoma,2016,0.77,0,0,Simulated Data
+Bungoma,2017,0.91,0,0,Simulated Data
+Bungoma,2018,0.75,0,0,Simulated Data
+Bungoma,2019,1.17,0,0,Simulated Data
+Bungoma,2020,1.22,0,0,Simulated Data
+Bungoma,2021,1.3,0,0,Simulated Data
+Bungoma,2022,0.91,0,0,Simulated Data
+Bungoma,2023,1.54,0,0,Simulated Data
+Bungoma,2024,1.29,0,0,Simulated Data
+Bungoma,2025,1.49,0,2,Simulated Data
+Busia,1991,-0.15,0,2,Simulated Data
+Busia,1992,0.43,0,0,Simulated Data
+Busia,1993,-0.16,0,1,Simulated Data
+Busia,1994,0.11,0,2,Simulated Data
+Busia,1995,0.05,0,0,Simulated Data
+Busia,1996,0.06,0,2,Simulated Data
+Busia,1997,-0.06,0,3,Simulated Data
+Busia,1998,0.02,0,0,Simulated Data
+Busia,1999,0.31,0,0,Simulated Data
+Busia,2000,0.4,0,1,Simulated Data
+Busia,2001,0.11,0,0,Simulated Data
+Busia,2002,0.26,0,0,Simulated Data
+Busia,2003,0.74,0,3,Simulated Data
+Busia,2004,0.9,0,0,Simulated Data
+Busia,2005,0.46,0,0,Simulated Data
+Busia,2006,0.27,0,2,Simulated Data
+Busia,2007,0.88,0,1,Simulated Data
+Busia,2008,0.46,0,2,Simulated Data
+Busia,2009,0.52,0,0,Simulated Data
+Busia,2010,1.06,0,1,Simulated Data
+Busia,2011,1.0,0,0,Simulated Data
+Busia,2012,0.72,0,0,Simulated Data
+Busia,2013,1.22,0,0,Simulated Data
+Busia,2014,0.69,0,2,Simulated Data
+Busia,2015,0.93,0,2,Simulated Data
+Busia,2016,0.72,0,0,Simulated Data
+Busia,2017,1.12,0,2,Simulated Data
+Busia,2018,1.0,0,0,Simulated Data
+Busia,2019,0.74,0,0,Simulated Data
+Busia,2020,1.17,0,2,Simulated Data
+Busia,2021,1.21,0,0,Simulated Data
+Busia,2022,0.87,0,0,Simulated Data
+Busia,2023,1.55,0,0,Simulated Data
+Busia,2024,1.28,0,0,Simulated Data
+Busia,2025,1.54,0,1,Simulated Data
+Siaya,1991,-0.18,0,0,Simulated Data
+Siaya,1992,0.28,0,2,Simulated Data
+Siaya,1993,-0.22,0,0,Simulated Data
+Siaya,1994,0.26,0,3,Simulated Data
+Siaya,1995,0.07,0,0,Simulated Data
+Siaya,1996,0.46,0,2,Simulated Data
+Siaya,1997,0.03,0,0,Simulated Data
+Siaya,1998,0.65,0,3,Simulated Data
+Siaya,1999,0.13,0,1,Simulated Data
+Siaya,2000,0.21,0,3,Simulated Data
+Siaya,2001,0.71,0,0,Simulated Data
+Siaya,2002,0.27,0,0,Simulated Data
+Siaya,2003,0.65,0,1,Simulated Data
+Siaya,2004,0.91,0,0,Simulated Data
+Siaya,2005,0.22,0,0,Simulated Data
+Siaya,2006,0.47,0,3,Simulated Data
+Siaya,2007,0.39,0,3,Simulated Data
+Siaya,2008,0.33,0,0,Simulated Data
+Siaya,2009,0.8,0,3,Simulated Data
+Siaya,2010,0.72,0,0,Simulated Data
+Siaya,2011,0.78,0,2,Simulated Data
+Siaya,2012,1.04,0,2,Simulated Data
+Siaya,2013,1.13,0,0,Simulated Data
+Siaya,2014,0.53,0,1,Simulated Data
+Siaya,2015,0.89,0,2,Simulated Data
+Siaya,2016,1.32,0,0,Simulated Data
+Siaya,2017,1.19,0,0,Simulated Data
+Siaya,2018,0.83,0,0,Simulated Data
+Siaya,2019,1.38,0,1,Simulated Data
+Siaya,2020,1.19,0,0,Simulated Data
+Siaya,2021,1.04,0,0,Simulated Data
+Siaya,2022,0.97,0,0,Simulated Data
+Siaya,2023,1.6,0,1,Simulated Data
+Siaya,2024,1.45,0,2,Simulated Data
+Siaya,2025,1.41,0,2,Simulated Data
+Kisii,1991,-0.08,0,0,Simulated Data
+Kisii,1992,0.3,0,0,Simulated Data
+Kisii,1993,0.14,0,0,Simulated Data
+Kisii,1994,0.5,0,0,Simulated Data
+Kisii,1995,0.24,0,0,Simulated Data
+Kisii,1996,0.33,0,0,Simulated Data
+Kisii,1997,-0.02,0,0,Simulated Data
+Kisii,1998,0.63,0,3,Simulated Data
+Kisii,1999,0.13,0,0,Simulated Data
+Kisii,2000,0.24,0,0,Simulated Data
+Kisii,2001,0.55,0,0,Simulated Data
+Kisii,2002,0.53,0,0,Simulated Data
+Kisii,2003,0.37,0,2,Simulated Data
+Kisii,2004,0.5,0,0,Simulated Data
+Kisii,2005,0.8,0,0,Simulated Data
+Kisii,2006,0.27,0,0,Simulated Data
+Kisii,2007,0.91,0,0,Simulated Data
+Kisii,2008,0.93,0,0,Simulated Data
+Kisii,2009,0.69,0,3,Simulated Data
+Kisii,2010,0.45,0,1,Simulated Data
+Kisii,2011,0.83,0,0,Simulated Data
+Kisii,2012,0.77,0,1,Simulated Data
+Kisii,2013,1.26,0,1,Simulated Data
+Kisii,2014,0.57,0,0,Simulated Data
+Kisii,2015,1.05,0,1,Simulated Data
+Kisii,2016,0.66,0,0,Simulated Data
+Kisii,2017,0.96,0,2,Simulated Data
+Kisii,2018,1.17,0,0,Simulated Data
+Kisii,2019,0.8,0,0,Simulated Data
+Kisii,2020,1.3,0,0,Simulated Data
+Kisii,2021,1.12,0,0,Simulated Data
+Kisii,2022,1.5,0,0,Simulated Data
+Kisii,2023,1.01,0,0,Simulated Data
+Kisii,2024,1.11,0,1,Simulated Data
+Kisii,2025,1.73,0,2,Simulated Data
+Nyamira,1991,0.35,0,1,Simulated Data
+Nyamira,1992,0.14,0,2,Simulated Data
+Nyamira,1993,0.11,0,0,Simulated Data
+Nyamira,1994,0.31,0,0,Simulated Data
+Nyamira,1995,0.43,0,2,Simulated Data
+Nyamira,1996,0.15,0,2,Simulated Data
+Nyamira,1997,0.04,0,0,Simulated Data
+Nyamira,1998,0.29,0,0,Simulated Data
+Nyamira,1999,0.18,0,0,Simulated Data
+Nyamira,2000,-0.03,0,3,Simulated Data
+Nyamira,2001,0.32,0,0,Simulated Data
+Nyamira,2002,0.58,0,3,Simulated Data
+Nyamira,2003,0.4,0,0,Simulated Data
+Nyamira,2004,0.91,0,1,Simulated Data
+Nyamira,2005,0.69,0,0,Simulated Data
+Nyamira,2006,0.95,0,1,Simulated Data
+Nyamira,2007,0.42,0,0,Simulated Data
+Nyamira,2008,0.61,0,0,Simulated Data
+Nyamira,2009,0.65,0,2,Simulated Data
+Nyamira,2010,0.43,0,0,Simulated Data
+Nyamira,2011,0.41,0,1,Simulated Data
+Nyamira,2012,0.57,0,0,Simulated Data
+Nyamira,2013,1.15,0,0,Simulated Data
+Nyamira,2014,0.71,0,3,Simulated Data
+Nyamira,2015,0.9,0,0,Simulated Data
+Nyamira,2016,1.06,0,0,Simulated Data
+Nyamira,2017,1.11,0,2,Simulated Data
+Nyamira,2018,0.93,0,1,Simulated Data
+Nyamira,2019,1.04,0,0,Simulated Data
+Nyamira,2020,0.98,0,0,Simulated Data
+Nyamira,2021,1.52,0,0,Simulated Data
+Nyamira,2022,0.88,0,2,Simulated Data
+Nyamira,2023,1.52,0,0,Simulated Data
+Nyamira,2024,1.57,0,0,Simulated Data
+Nyamira,2025,1.32,0,2,Simulated Data
+Migori,1991,-0.33,0,2,Simulated Data
+Migori,1992,-0.32,0,0,Simulated Data
+Migori,1993,-0.05,0,0,Simulated Data
+Migori,1994,-0.15,0,2,Simulated Data
+Migori,1995,0.37,0,0,Simulated Data
+Migori,1996,0.01,0,0,Simulated Data
+Migori,1997,0.38,0,0,Simulated Data
+Migori,1998,0.19,0,0,Simulated Data
+Migori,1999,0.43,0,2,Simulated Data
+Migori,2000,0.68,0,0,Simulated Data
+Migori,2001,0.33,0,1,Simulated Data
+Migori,2002,0.7,0,2,Simulated Data
+Migori,2003,0.4,0,1,Simulated Data
+Migori,2004,0.41,0,0,Simulated Data
+Migori,2005,0.22,0,0,Simulated Data
+Migori,2006,0.99,0,2,Simulated Data
+Migori,2007,0.77,0,2,Simulated Data
+Migori,2008,0.51,0,1,Simulated Data
+Migori,2009,0.65,0,0,Simulated Data
+Migori,2010,0.81,0,0,Simulated Data
+Migori,2011,1.15,0,2,Simulated Data
+Migori,2012,0.88,0,0,Simulated Data
+Migori,2013,1.13,0,2,Simulated Data
+Migori,2014,1.31,0,0,Simulated Data
+Migori,2015,1.17,0,2,Simulated Data
+Migori,2016,0.68,0,3,Simulated Data
+Migori,2017,1.18,0,0,Simulated Data
+Migori,2018,1.22,0,1,Simulated Data
+Migori,2019,1.27,0,0,Simulated Data
+Migori,2020,0.98,0,0,Simulated Data
+Migori,2021,1.35,0,1,Simulated Data
+Migori,2022,1.44,0,0,Simulated Data
+Migori,2023,0.98,0,2,Simulated Data
+Migori,2024,0.96,0,0,Simulated Data
+Migori,2025,1.34,0,0,Simulated Data
+Homa Bay,1991,-0.03,0,0,Simulated Data
+Homa Bay,1992,-0.15,0,1,Simulated Data
+Homa Bay,1993,0.02,0,0,Simulated Data
+Homa Bay,1994,-0.04,0,3,Simulated Data
+Homa Bay,1995,-0.2,0,0,Simulated Data
+Homa Bay,1996,0.25,0,0,Simulated Data
+Homa Bay,1997,-0.09,0,0,Simulated Data
+Homa Bay,1998,0.61,0,0,Simulated Data
+Homa Bay,1999,0.49,0,0,Simulated Data
+Homa Bay,2000,0.52,0,2,Simulated Data
+Homa Bay,2001,0.54,0,3,Simulated Data
+Homa Bay,2002,0.28,0,0,Simulated Data
+Homa Bay,2003,0.25,0,1,Simulated Data
+Homa Bay,2004,0.59,0,1,Simulated Data
+Homa Bay,2005,0.42,0,0,Simulated Data
+Homa Bay,2006,0.47,0,0,Simulated Data
+Homa Bay,2007,0.91,0,1,Simulated Data
+Homa Bay,2008,0.36,0,1,Simulated Data
+Homa Bay,2009,0.94,0,0,Simulated Data
+Homa Bay,2010,0.93,0,0,Simulated Data
+Homa Bay,2011,0.41,0,2,Simulated Data
+Homa Bay,2012,1.21,0,0,Simulated Data
+Homa Bay,2013,0.55,0,0,Simulated Data
+Homa Bay,2014,1.01,0,0,Simulated Data
+Homa Bay,2015,0.64,0,0,Simulated Data
+Homa Bay,2016,0.74,0,0,Simulated Data
+Homa Bay,2017,1.07,0,3,Simulated Data
+Homa Bay,2018,1.15,0,0,Simulated Data
+Homa Bay,2019,0.96,0,1,Simulated Data
+Homa Bay,2020,1.31,0,0,Simulated Data
+Homa Bay,2021,1.31,0,0,Simulated Data
+Homa Bay,2022,1.39,0,2,Simulated Data
+Homa Bay,2023,1.58,0,1,Simulated Data
+Homa Bay,2024,1.42,0,0,Simulated Data
+Homa Bay,2025,1.19,0,1,Simulated Data
+Kericho,1991,0.28,0,0,Simulated Data
+Kericho,1992,0.41,0,0,Simulated Data
+Kericho,1993,0.15,0,0,Simulated Data
+Kericho,1994,-0.23,0,1,Simulated Data
+Kericho,1995,0.2,0,1,Simulated Data
+Kericho,1996,0.46,0,0,Simulated Data
+Kericho,1997,0.39,0,0,Simulated Data
+Kericho,1998,0.37,0,2,Simulated Data
+Kericho,1999,0.39,0,0,Simulated Data
+Kericho,2000,0.47,0,0,Simulated Data
+Kericho,2001,0.56,0,0,Simulated Data
+Kericho,2002,0.77,0,0,Simulated Data
+Kericho,2003,0.13,0,1,Simulated Data
+Kericho,2004,0.39,0,0,Simulated Data
+Kericho,2005,0.77,0,0,Simulated Data
+Kericho,2006,0.95,0,0,Simulated Data
+Kericho,2007,0.71,0,0,Simulated Data
+Kericho,2008,0.33,0,0,Simulated Data
+Kericho,2009,0.45,0,3,Simulated Data
+Kericho,2010,0.72,0,0,Simulated Data
+Kericho,2011,0.49,0,0,Simulated Data
+Kericho,2012,0.75,0,0,Simulated Data
+Kericho,2013,1.0,0,2,Simulated Data
+Kericho,2014,1.27,0,3,Simulated Data
+Kericho,2015,0.68,0,1,Simulated Data
+Kericho,2016,1.07,0,0,Simulated Data
+Kericho,2017,0.74,0,0,Simulated Data
+Kericho,2018,1.27,0,0,Simulated Data
+Kericho,2019,1.16,0,2,Simulated Data
+Kericho,2020,1.22,0,2,Simulated Data
+Kericho,2021,1.23,0,0,Simulated Data
+Kericho,2022,1.57,0,0,Simulated Data
+Kericho,2023,0.99,0,0,Simulated Data
+Kericho,2024,1.4,0,3,Simulated Data
+Kericho,2025,1.56,0,2,Simulated Data
+Bomet,1991,-0.34,0,1,Simulated Data
+Bomet,1992,0.3,0,0,Simulated Data
+Bomet,1993,0.43,0,2,Simulated Data
+Bomet,1994,0.5,0,1,Simulated Data
+Bomet,1995,-0.21,0,0,Simulated Data
+Bomet,1996,0.26,0,1,Simulated Data
+Bomet,1997,0.23,0,3,Simulated Data
+Bomet,1998,-0.1,0,0,Simulated Data
+Bomet,1999,0.57,0,0,Simulated Data
+Bomet,2000,0.31,0,0,Simulated Data
+Bomet,2001,0.04,0,2,Simulated Data
+Bomet,2002,0.35,0,0,Simulated Data
+Bomet,2003,0.12,0,2,Simulated Data
+Bomet,2004,0.59,0,2,Simulated Data
+Bomet,2005,0.6,0,1,Simulated Data
+Bomet,2006,0.83,0,0,Simulated Data
+Bomet,2007,1.01,0,1,Simulated Data
+Bomet,2008,0.46,0,0,Simulated Data
+Bomet,2009,0.47,0,1,Simulated Data
+Bomet,2010,0.97,0,0,Simulated Data
+Bomet,2011,0.93,0,0,Simulated Data
+Bomet,2012,0.57,0,0,Simulated Data
+Bomet,2013,0.79,0,0,Simulated Data
+Bomet,2014,0.93,0,0,Simulated Data
+Bomet,2015,1.23,0,0,Simulated Data
+Bomet,2016,0.65,0,0,Simulated Data
+Bomet,2017,1.09,0,0,Simulated Data
+Bomet,2018,1.45,0,0,Simulated Data
+Bomet,2019,0.76,0,0,Simulated Data
+Bomet,2020,1.28,0,3,Simulated Data
+Bomet,2021,1.47,0,0,Simulated Data
+Bomet,2022,0.98,0,0,Simulated Data
+Bomet,2023,1.29,0,0,Simulated Data
+Bomet,2024,1.71,0,3,Simulated Data
+Bomet,2025,1.07,0,0,Simulated Data
+Narok,1991,-0.34,0,1,Simulated Data
+Narok,1992,0.15,0,0,Simulated Data
+Narok,1993,0.01,0,0,Simulated Data
+Narok,1994,-0.14,0,3,Simulated Data
+Narok,1995,0.24,0,0,Simulated Data
+Narok,1996,0.11,0,0,Simulated Data
+Narok,1997,-0.02,0,1,Simulated Data
+Narok,1998,0.32,0,3,Simulated Data
+Narok,1999,-0.02,0,0,Simulated Data
+Narok,2000,0.59,0,0,Simulated Data
+Narok,2001,0.7,0,0,Simulated Data
+Narok,2002,0.36,0,3,Simulated Data
+Narok,2003,0.22,0,0,Simulated Data
+Narok,2004,0.7,0,0,Simulated Data
+Narok,2005,0.83,0,2,Simulated Data
+Narok,2006,0.25,0,0,Simulated Data
+Narok,2007,0.57,0,0,Simulated Data
+Narok,2008,0.7,0,0,Simulated Data
+Narok,2009,0.86,0,0,Simulated Data
+Narok,2010,0.49,0,2,Simulated Data
+Narok,2011,1.13,0,0,Simulated Data
+Narok,2012,0.72,0,0,Simulated Data
+Narok,2013,0.81,0,1,Simulated Data
+Narok,2014,0.98,0,0,Simulated Data
+Narok,2015,1.0,0,0,Simulated Data
+Narok,2016,1.19,0,0,Simulated Data
+Narok,2017,1.26,0,0,Simulated Data
+Narok,2018,1.24,0,2,Simulated Data
+Narok,2019,1.31,0,0,Simulated Data
+Narok,2020,0.87,0,0,Simulated Data
+Narok,2021,1.28,0,0,Simulated Data
+Narok,2022,0.85,0,0,Simulated Data
+Narok,2023,1.47,0,1,Simulated Data
+Narok,2024,1.67,0,0,Simulated Data
+Narok,2025,1.03,0,0,Simulated Data
+Kajiado,1991,-0.07,0,2,Simulated Data
+Kajiado,1992,-0.2,0,2,Simulated Data
+Kajiado,1993,0.14,0,1,Simulated Data
+Kajiado,1994,0.37,0,1,Simulated Data
+Kajiado,1995,0.49,0,0,Simulated Data
+Kajiado,1996,0.02,0,0,Simulated Data
+Kajiado,1997,0.09,0,1,Simulated Data
+Kajiado,1998,0.22,0,0,Simulated Data
+Kajiado,1999,-0.01,0,0,Simulated Data
+Kajiado,2000,0.13,0,0,Simulated Data
+Kajiado,2001,0.65,0,1,Simulated Data
+Kajiado,2002,0.58,0,3,Simulated Data
+Kajiado,2003,0.1,0,2,Simulated Data
+Kajiado,2004,0.49,0,1,Simulated Data
+Kajiado,2005,0.7,0,3,Simulated Data
+Kajiado,2006,0.78,0,2,Simulated Data
+Kajiado,2007,0.28,0,2,Simulated Data
+Kajiado,2008,0.48,0,0,Simulated Data
+Kajiado,2009,1.01,0,1,Simulated Data
+Kajiado,2010,0.55,0,2,Simulated Data
+Kajiado,2011,0.65,0,0,Simulated Data
+Kajiado,2012,1.22,0,3,Simulated Data
+Kajiado,2013,0.72,0,2,Simulated Data
+Kajiado,2014,1.07,0,0,Simulated Data
+Kajiado,2015,0.66,0,1,Simulated Data
+Kajiado,2016,1.06,0,0,Simulated Data
+Kajiado,2017,0.89,0,1,Simulated Data
+Kajiado,2018,1.28,0,0,Simulated Data
+Kajiado,2019,0.94,0,2,Simulated Data
+Kajiado,2020,1.49,0,2,Simulated Data
+Kajiado,2021,1.52,0,0,Simulated Data
+Kajiado,2022,1.61,0,0,Simulated Data
+Kajiado,2023,0.93,0,0,Simulated Data
+Kajiado,2024,1.12,0,2,Simulated Data
+Kajiado,2025,1.66,0,2,Simulated Data
+Machakos,1991,0.29,0,0,Simulated Data
+Machakos,1992,0.19,0,1,Simulated Data
+Machakos,1993,-0.05,0,1,Simulated Data
+Machakos,1994,0.13,0,0,Simulated Data
+Machakos,1995,0.4,0,0,Simulated Data
+Machakos,1996,0.56,0,1,Simulated Data
+Machakos,1997,0.44,0,3,Simulated Data
+Machakos,1998,0.13,0,0,Simulated Data
+Machakos,1999,0.48,0,1,Simulated Data
+Machakos,2000,0.16,0,0,Simulated Data
+Machakos,2001,0.04,0,0,Simulated Data
+Machakos,2002,0.72,0,0,Simulated Data
+Machakos,2003,0.75,0,0,Simulated Data
+Machakos,2004,0.7,0,1,Simulated Data
+Machakos,2005,0.53,0,2,Simulated Data
+Machakos,2006,0.77,0,2,Simulated Data
+Machakos,2007,0.78,0,0,Simulated Data
+Machakos,2008,0.98,0,0,Simulated Data
+Machakos,2009,0.65,0,0,Simulated Data
+Machakos,2010,1.13,0,1,Simulated Data
+Machakos,2011,0.62,0,3,Simulated Data
+Machakos,2012,0.68,0,0,Simulated Data
+Machakos,2013,0.59,0,0,Simulated Data
+Machakos,2014,1.3,0,0,Simulated Data
+Machakos,2015,0.84,0,0,Simulated Data
+Machakos,2016,1.3,0,0,Simulated Data
+Machakos,2017,0.75,0,0,Simulated Data
+Machakos,2018,0.74,0,1,Simulated Data
+Machakos,2019,1.05,0,2,Simulated Data
+Machakos,2020,0.92,0,1,Simulated Data
+Machakos,2021,1.14,0,0,Simulated Data
+Machakos,2022,1.44,0,0,Simulated Data
+Machakos,2023,1.36,0,0,Simulated Data
+Machakos,2024,1.66,0,0,Simulated Data
+Machakos,2025,1.12,0,0,Simulated Data
+Makueni,1991,-0.4,0,2,Simulated Data
+Makueni,1992,0.23,0,0,Simulated Data
+Makueni,1993,-0.27,0,3,Simulated Data
+Makueni,1994,0.06,0,0,Simulated Data
+Makueni,1995,0.04,0,1,Simulated Data
+Makueni,1996,0.37,0,0,Simulated Data
+Makueni,1997,0.64,0,0,Simulated Data
+Makueni,1998,0.03,0,0,Simulated Data
+Makueni,1999,0.56,0,0,Simulated Data
+Makueni,2000,0.5,0,2,Simulated Data
+Makueni,2001,0.69,0,2,Simulated Data
+Makueni,2002,0.41,3,2,Simulated Data
+Makueni,2003,0.87,5,1,Simulated Data
+Makueni,2004,0.55,5,5,Simulated Data
+Makueni,2005,0.24,0,0,Simulated Data
+Makueni,2006,0.21,0,0,Simulated Data
+Makueni,2007,0.9,1,3,Simulated Data
+Makueni,2008,0.28,0,0,Simulated Data
+Makueni,2009,0.51,0,0,Simulated Data
+Makueni,2010,0.8,0,0,Simulated Data
+Makueni,2011,0.7,5,5,Simulated Data
+Makueni,2012,0.83,0,0,Simulated Data
+Makueni,2013,1.24,1,0,Simulated Data
+Makueni,2014,0.76,0,0,Simulated Data
+Makueni,2015,1.19,1,1,Simulated Data
+Makueni,2016,0.7,0,2,Simulated Data
+Makueni,2017,0.79,5,3,Simulated Data
+Makueni,2018,0.74,6,2,Simulated Data
+Makueni,2019,1.41,3,4,Simulated Data
+Makueni,2020,0.77,1,2,Simulated Data
+Makueni,2021,1.55,12,9,Simulated Data
+Makueni,2022,1.55,5,2,Simulated Data
+Makueni,2023,1.11,3,1,Simulated Data
+Makueni,2024,1.36,3,3,Simulated Data
+Makueni,2025,1.09,2,1,Simulated Data
+Kitui,1991,0.24,19,12,Simulated Data
+Kitui,1992,-0.24,13,5,Simulated Data
+Kitui,1993,-0.02,13,5,Simulated Data
+Kitui,1994,-0.06,18,14,Simulated Data
+Kitui,1995,0.04,10,4,Simulated Data
+Kitui,1996,0.11,20,10,Simulated Data
+Kitui,1997,0.45,14,11,Simulated Data
+Kitui,1998,0.19,19,10,Simulated Data
+Kitui,1999,0.42,15,7,Simulated Data
+Kitui,2000,0.71,24,17,Simulated Data
+Kitui,2001,0.5,21,10,Simulated Data
+Kitui,2002,0.31,15,10,Simulated Data
+Kitui,2003,0.36,14,9,Simulated Data
+Kitui,2004,0.77,19,9,Simulated Data
+Kitui,2005,0.32,14,7,Simulated Data
+Kitui,2006,0.71,21,14,Simulated Data
+Kitui,2007,0.53,22,11,Simulated Data
+Kitui,2008,0.66,23,12,Simulated Data
+Kitui,2009,0.41,22,12,Simulated Data
+Kitui,2010,0.91,17,11,Simulated Data
+Kitui,2011,0.65,15,10,Simulated Data
+Kitui,2012,0.63,18,8,Simulated Data
+Kitui,2013,0.6,17,8,Simulated Data
+Kitui,2014,1.25,19,11,Simulated Data
+Kitui,2015,0.66,18,13,Simulated Data
+Kitui,2016,0.73,25,13,Simulated Data
+Kitui,2017,1.23,25,17,Simulated Data
+Kitui,2018,1.12,24,13,Simulated Data
+Kitui,2019,0.85,25,14,Simulated Data
+Kitui,2020,1.06,25,14,Simulated Data
+Kitui,2021,1.56,29,18,Simulated Data
+Kitui,2022,1.54,22,12,Simulated Data
+Kitui,2023,1.25,22,15,Simulated Data
+Kitui,2024,1.66,27,15,Simulated Data
+Kitui,2025,1.73,28,17,Simulated Data

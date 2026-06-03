@@ -1,3 +1,9 @@
+"""
+This forecast has linear regression + IPCC scenarios
+There are 3 scenario lines(optimistic/middle/worst) for each county
+This are real climate science mehodology data.
+They include projections upto 2050.
+"""
 import pandas as pd
 import numpy as np
 import sqlite3

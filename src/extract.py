@@ -90,14 +90,14 @@ def generate_temperature_fallback():
         "Makueni": 24.4, "Kitui": 26.8
     }
 
-    years = list(range(1991, 2025))
+    years = list(range(1991, 2026))
 
     records = []
-
+    np.random.seed(42)
     for county in counties:
         base = base_temps.get(county, 22.4)
         for year in years:
-             warming = (year - 1991) * 0.03
+             warming = (year - 1991) * 0.04
              noise = np.random.uniform(-0.4, 0.4)
              temp = round(base + warming + noise, 2)
 
@@ -173,7 +173,7 @@ def generate_rainfall_fallback():
         "Makueni": 580, "Kitui": 520
     }    
 
-    years = list(range(1991, 2025))
+    years = list(range(1991, 2026))
 
     records = []
 
@@ -244,7 +244,7 @@ def extract_extreme_events():
         "Machakos", "Makueni", "Kitui"
     })
 
-    years = list(range(2000, 2025))
+    years = list(range(2000, 2026))
     records = []
 
     for county in counties:

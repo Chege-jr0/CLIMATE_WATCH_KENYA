@@ -219,7 +219,7 @@ def ask_climate_question(
             messages = [{"role": "user", "content": prompt}]
 
         ) 
-        return response["messages"]["content"]
+        return response["message"]["content"]
     except Exception as e:  
         return f"AI unaivailable. Make sure ollama is running. \nError{str(e)}"  
 if __name__ == "__main__":
